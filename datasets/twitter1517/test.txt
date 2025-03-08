@@ -1,0 +1,467 @@
+{"id":"0157.jpg","text":"Not the Onion : \" Kim Jong - un to launch matchmaking contest to find his sister a husband \"","text_label":2,"image_label":1,"information_label":0,"label":2}
+{"id":"3609.jpg","text":"RT @ FootyAccums : 1 - 0 TO BOBBY HUTH ! ! !","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3817.jpg","text":"Drawing Tips From Emmy Award - Winning Cartoonist Gary Panter # design","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4431.jpg","text":"RT @ WESH : Fmr . Brevard County teacher pleas guilty to sex with student","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"4209.jpg","text":"We have a deep belief in the unified # hybridcloud vision . Virtustream plays a critical role in this vision # VMworld","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3018.jpg","text":"Watch Live : NASA marks closest approach by first spacecraft to explore Pluto .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1458.jpg","text":"Justin playing football : a concept","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4423.jpg","text":"Throwback Thursday of me , aged 4 , taking a ride with my best mate very docile pet sheep Kate . # love # tbt","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0114.jpg","text":"One hour ( Portugal time ) till dBs Filmmaker ' s Corner at @ FESTFestival !","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"0081.jpg","text":"Uefa Super Cup : Real Madrid v Manchester United","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1385.jpg","text":"Mino Raiola : Mario Balotelli will play for this club next season","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"2153.jpg","text":"3 ways to leverage the EMC Federation Enterprise # HybridCloud to modernize apps : # EMCWORLD","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"4173.jpg","text":"RT @ LuchtvaartN NL : RT @ FrisianAirpower : Florida ANG F - 15C at Leeuwarden AB for Frisian Flag 2015 . Those pictures are from today .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4475.jpg","text":"RT @ KResearcher : The side of Mandera County never shown . ( Gadudia irrigation scheme )","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1221.jpg","text":"Wentz inadvertently pans Bradford at presser ? # nfl","text_label":0,"image_label":1,"information_label":1,"label":2}
+{"id":"2391.jpg","text":"RT @ voxdotcom : American Sniper ' s huge weekend at the box office is a new milestone for Clint Eastwood","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4084.jpg","text":"RT @ bestvocaIists : Zayn Malik is so talented .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0598.jpg","text":"Bodis Duran signs to play football at MSU - Northern # mtscores","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0780.jpg","text":"Ryan Murphy Anthology ' Feud , ' Starring Jessica Lange and Susan Sarandon , Set at FX","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"1428.jpg","text":"ImSEEEING LORDEIN CONCERT IM SO HAPPIE","text_label":1,"image_label":2,"information_label":1,"label":1}
+{"id":"3362.jpg","text":"RT @ clarissGn : Morning light , Budapest , 1931 . By Imre kinszki .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1135.jpg","text":"Good luck to my FAU Baseball boys as they head down to Miami Friday for Regionals ! # TheU # Throwback # BeatLongBeachS \u2026","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2243.jpg","text":"RT @ EAMaddenNFL : GRONK SPIKE # INDvsNE","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1484.jpg","text":"Immigrant Advocates Deliver Taco Bowls To GOP Lawmakers Who Support Donald Trump : \" He ' s so \u2026","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3156.jpg","text":"Jack and jack is TT in Mexico @ JackJackJohnson @ jackgilinsky","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1392.jpg","text":"Flashback : David Petraeus was prosecuted for leaking personal memos","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"2384.jpg","text":"My two boys ! Looking forward to see them both when go back to Hua Hin Thailand for mid term break # huaHin # bulldogs","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"1170.jpg","text":"The 2017 NBA finals , a love story for the ages","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4536.jpg","text":"RT @ Gabriele Corno : St . Petersberg by Gordeev","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4495.jpg","text":"You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0842.jpg","text":"Donald Trump knows what he ' d do in his first 100 days as president if he wins","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"2797.jpg","text":"RT @ Sergio Bucks : Kendrick Perkins de vacaciones con Mike Miller de butaca :","text_label":2,"image_label":1,"information_label":0,"label":0}
+{"id":"0736.jpg","text":"HE IS SO FUCKING CUTE HE HAS A ONE DIRECTION POSTER","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"4352.jpg","text":"@ DuPontPioneer 1184 in Tecumseh , Ontario . Great looking variety ! !","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2178.jpg","text":"RT @ LutonTheatre : RT @ FullHouseTheaCo : Tiny Tim learning his lines ! @ LutonTheatre # scrooge # Luton # lutontown","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"2501.jpg","text":"Diving Salalah # Oman tomorrow . Just had a sneak peek today at the shore close to the border with Jemen # crystalclear","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2923.jpg","text":"RT @ 350 : Today in Toronto : Thousands march for # JobsJusticeClimate ! For live updates and photos :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1005.jpg","text":"This what happens when I ask my dad to go to a Snoop Dogg concert","text_label":0,"image_label":2,"information_label":1,"label":2}
+{"id":"4524.jpg","text":"RT @ DepressedDarth : Jango Fett","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0131.jpg","text":"Tb to the haters that where outside or the arena at Justin ' s concert \ud83d\ude02","text_label":1,"image_label":0,"information_label":1,"label":2}
+{"id":"3157.jpg","text":"Ben Bishop watches Hossa ' s shot sail wide in the first period","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1565.jpg","text":"Collaboration in the community makes all festivals a little better . We love @ BoiseFilmFest !","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"4590.jpg","text":"Forbes Magazine Real insights from the business world . # MarketingMonday # Advertising","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"2658.jpg","text":"Governor in GSO for NCBankers Association gathering .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4574.jpg","text":"RT @ CNET : T - Mobile to pay 17 . 5 million fine for 911 service outages","text_label":0,"image_label":2,"information_label":0,"label":2}
+{"id":"2264.jpg","text":"RT @ HuffingtonPost : A Krispy Kreme donut hot dog covered in bacon now exists","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2025.jpg","text":"Dead Rise Old Bay Ale","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2364.jpg","text":"Proud to honor @ bigshoulderschi , @ McCormick Fdn , amp Pamela Adelman of Hyde Park Day School","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3854.jpg","text":"RT @ BuzzFeed : audience Kanye is quickly becoming our fav Kanye","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"4369.jpg","text":"Writing makes us crazy not # writing even crazier . Marcia Preston # amwriting","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"4079.jpg","text":"Postcard Chicago from Trib Tower . More views and @ BlairKamin review of Mich Ave renovations :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0271.jpg","text":"Robert Downey Jr . and Sarah Jessica Parker in 1983 . Photograph by Bette Marshall .","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"3441.jpg","text":"Instagram bags seen at the Penang Camera Museum . # MyFest2015 # MalaysiaTrulyAsia # Penang # Malaysia # ttot","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3968.jpg","text":"Tony Gwynn is gone but will not be forgotten . His career and character will be talked about for a long time","text_label":2,"image_label":1,"information_label":1,"label":2}
+{"id":"0975.jpg","text":"John Michael Talbot returns to Sioux City for benefit concert","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0565.jpg","text":"@ Squawka Koke and Zinedine Zidane have been named La Liga Player and Manager of the Month for April .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3461.jpg","text":"RT @ fleekcyrus : RT # MTVHottest Miley cyrus","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0494.jpg","text":"Donald Trump in 2007 : \" I ' m excited \" for the housing market crash .","text_label":0,"image_label":1,"information_label":1,"label":2}
+{"id":"3036.jpg","text":"RT @ beautifulpixx : Seoraksan National Park in South Korea .","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3725.jpg","text":"This is 30 pounds of marijuana the amount Bradley said he would sometimes get in a duffel bag","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1937.jpg","text":"RT @ uacrisis : Ben Hodges about Ukrainian Armed Forces","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1515.jpg","text":"Craig sending videos from concerts every week makes me not afraid to be old . Life doesn ' t have to be boring","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3693.jpg","text":"Enjoying the view from my train en route to Maastricht via Liege . # romanceoftraintravel","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4213.jpg","text":"RT @ BuzzFeed : Rachel McAdams and Taylor Kitsch confirmed for True Detective season 2","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"2564.jpg","text":"@ elcinterns are serving the Dallas Dream Center to help people in need get coats for winter ! # yourdivinefingerprint","text_label":1,"image_label":1,"information_label":0,"label":1}
+{"id":"0330.jpg","text":"Tonight was incredible ! # LCFCParade # havingaparty # LCFCChampions # WeAreLeicester","text_label":1,"image_label":1,"information_label":0,"label":1}
+{"id":"3645.jpg","text":"Welcome new # AfghanProverbs fans in # TAIWAN ! Now in 77 countries . More at # KhoshAmadeyn","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"3060.jpg","text":"Listen to Ellie Goulding : Remixed by Apple Music Pop on @ AppleMusic . https : t . co HNzPKKxJjK","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1665.jpg","text":"Why does the media never show this Justin Bieber ?","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0900.jpg","text":"super excited to say that i ' ve verbally committed to play d2 soccer at Daemen College in New York \u26bd \ufe0f \ud83d\udc99","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"0481.jpg","text":"The original Belle thinks Emma Watson is perfect for \u201c Beauty And The Beast \u201d","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4207.jpg","text":"RT @ Ou Prg : Lovely Monday , hope you slept good and ready for new workweek xoxo Caras Ionut I like it","text_label":1,"image_label":2,"information_label":0,"label":1}
+{"id":"2428.jpg","text":"Today 21 years ago in Australia was born one of the people who ilunima me with his smile # HappyBirthdayAshton","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"3761.jpg","text":"NILAY VARDAR REPORTED So , What is Soma District Like ? @ nilvardar # bianet","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0807.jpg","text":"Chelsea paid \u00a3 150.8 m by Premier League after winning 2016 - 17 title","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"2417.jpg","text":"Striking illustrations by Isaac Bidwell","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1290.jpg","text":"From Brigitte Bardot to Blake Lively , see the best beach hair of . . . # moda # fashion","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"3606.jpg","text":"Johnny Oduya in a second period tussle . # Blackhawks photos :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1863.jpg","text":"What a night . Happy birthday Danger .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"3519.jpg","text":"A recap of the newly enhanced Federation End User Computing Solution , announced at # VMworld","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1754.jpg","text":"RT @ Inspiredneuron : When I let go of what I have , I receive what I need - Lao Tzu","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4276.jpg","text":"First snow fall of the year in Summit County , Colorado , USA : )","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2660.jpg","text":"RT @ iBiebTeam : When Pattie listens to # PYD","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"0629.jpg","text":"DKB to host the 6 th Edition of Ghana Meets Naija Concert come this Saturday","text_label":0,"image_label":1,"information_label":0,"label":0}
+{"id":"3189.jpg","text":"This song just reminded me so much of Germaine . # missthosedays","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3123.jpg","text":"RT @ sumertimestyles : HQ pictures of the arrest of One direction member , Harry Styles . # HarryGotArrested","text_label":0,"image_label":1,"information_label":1,"label":2}
+{"id":"0999.jpg","text":"JUSTIN TRUDEAU NEEDS TO BE PROTECTED AT ALL COSTS # Pride2017","text_label":0,"image_label":1,"information_label":0,"label":1}
+{"id":"4126.jpg","text":"RT @ jmsclee : And when Alexander saw the breadth of his domain , he wept , for there were no more worlds to conquer","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"2603.jpg","text":"RT @ KelenKeller38 : You can buy this newborn on iTunes","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0563.jpg","text":"In his final days of the presidency , President Barack Obama has lost the little bit of chill that was left .","text_label":1,"image_label":1,"information_label":1,"label":2}
+{"id":"2031.jpg","text":"RT @ Paisajes : I want to travel here ! Sorrento , Italy .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3676.jpg","text":"The Abandoned Platform . # Woodstock","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"3002.jpg","text":"RT @ stevesilberman : The demolished Buddhas of Bamiyan rise again as 3D light projections .","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"1218.jpg","text":"The baseball game at Switzerland Co . is just getting started .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"2961.jpg","text":"Perot museum adventure","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0305.jpg","text":"Close quarters concert tonight in San Francisco . Baroque , Americana and American composers .","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1418.jpg","text":"Yee Peng Lanna , a lantern festival in Chiang Mai , Thailand | Photo by aijohsuke","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2403.jpg","text":"RT @ GreaterLowellCC : Ethel Higgins from Merrimack Valley Catholic Charities is on Chamber Chat with us ! # glcoc","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"3653.jpg","text":"RT @ SubliminaIMsgs : The true hidden story behind Jay Gatsby ?","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"1947.jpg","text":"RT @ BloombergTVInd : Global Set - Up : Nymex Crude futures tumble towards six - year lows down 7 last week .","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"4541.jpg","text":"RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"0018.jpg","text":"Great to see David Cameron will be respecting the Edinburgh agreement .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1976.jpg","text":"Quirky , abstract illustrations by Benetti Andrea","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3070.jpg","text":"The geometry of plants . Garfield Park Conservatory","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2544.jpg","text":"Wet feet , Costa Rica and Maine","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0289.jpg","text":"Lucky Blue with fans after the concert in Santa Ana ( June \/ 22 )","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"0538.jpg","text":"Emma Watson wore an outfit made out of plastic bottles and people absolutely adore it","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3751.jpg","text":"RT @ ClassicPixs : In 1976 , a prankster did this to the Hollywood sign in honor of California relaxing marijuana laws .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0864.jpg","text":"Check Out Eric Prydz \u2019 Sonar Festival Set in Full","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0758.jpg","text":"I ' m done with NBA refs man every time I see a update about how they missed a call . I ' m like where ya ass was at ?","text_label":2,"image_label":2,"information_label":0,"label":2}
+{"id":"0545.jpg","text":"Stuck in the city this summer ? Check out our guide to the finest festivals in London town . . .","text_label":1,"image_label":1,"information_label":0,"label":0}
+{"id":"2255.jpg","text":"The Bradbury Building is one of my favorite characters in D . O . A . ( 1950 ) . # 31DaysOfTCMFF # tcmff # EdmondOBrien @ tcm","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0233.jpg","text":"Leonardo Dicaprio ; Kate Winslet \u2665 1998 ; 2016","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1083.jpg","text":"Harry Potter characters drawn by J . K . Rowling in 1999 .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1602.jpg","text":"When ur teacher says \" One Direction \" in class ! !","text_label":0,"image_label":1,"information_label":0,"label":1}
+{"id":"4134.jpg","text":"RT @ DrAlfredMutua : Congratulations to Julius Yego for winning the javelin gold medal for # TeamKenya # Beijing2015","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0161.jpg","text":"Baylor University Ousts Football Coach . . .","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"1923.jpg","text":"RT @ MLiveDetroit : Can you imagine the Michigan Depot being redeveloped ? # DevelopingDetroit","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3132.jpg","text":"Keith urban is amazing . He told me an my ex he loved us lol","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3194.jpg","text":"Review ! Last Panda Standing by Jarrett J . Kroscozka : via @ ThisKid Erik @ StudioJJK # KidLit","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4517.jpg","text":"RT @ WRCB : South Carolina House votes to remove Confederate flag from Capitol grounds","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0946.jpg","text":"With rat @ aobadanosai at baseball game . . .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3876.jpg","text":"RT @ telesurenglish : # Venezuela captures 3 paramilitary heads in # Colombia border operations","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3428.jpg","text":"Swedish game Minecraft bought by Microsoft - Mojang AB got 2 , 5 BUSD ! Notchs is happy ! @ SwedeninHR","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3242.jpg","text":"RT @ UnivEventsIU : Seen backstage before the installation of @ IUSoutheast Chancellor Ray Wallace # IUSInstallation","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2431.jpg","text":"RT @ historic racing : James Dean and his beautiful Porsche 550 Spyder . ( his cursed car )","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1880.jpg","text":"The Seth Leibsohn Show Thoughts on # Ferguson from @ VDHanson , Robert Woodson , @ JohnKavanagh , amp @ mikescintoshow !","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"3415.jpg","text":"RT @ ohlolita : Conrad Roset # 2 .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2820.jpg","text":"Randy from America knows how to wear a good sock . Hide it under your boot for extra warmth . # tweetusyoursocks","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3879.jpg","text":"# UKZN students from an array of disciplines profoundly conscientised through # IAW2013 Palestinian Film Festival pmb .","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"0746.jpg","text":"CONCERT DAY STOP NUMBER TWO : THE THURMAN CAFE ft @ Awsomtisity","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"1280.jpg","text":"It ' s okay guys we ' ve found a pic of Harry styles and his new hair ! No need to panic !","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1237.jpg","text":"My son was excited about the win # DubNation # NBAFinals # customjersey # GoldenStateWarriors","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0597.jpg","text":"West Virginia ' s baseball unis today are WOAT candidates . Dear Lord those are horrible .","text_label":2,"image_label":1,"information_label":0,"label":2}
+{"id":"1410.jpg","text":"May The 4 th Be With You , Harry Potter style","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4554.jpg","text":"To put what Santa does in perspective . The man is really impressive . # MerryXmas","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2329.jpg","text":"RT @ dvmonique : PCB had me like . .","text_label":0,"image_label":0,"information_label":0,"label":2}
+{"id":"0118.jpg","text":"One Direction 2017 calendar . I already want it .","text_label":1,"image_label":1,"information_label":0,"label":1}
+{"id":"2436.jpg","text":"Train drivers are marching through the city to Adelaide Railway Station during strike action","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"2297.jpg","text":"gt lt gt The thief comes only to # steal and kill and # destroy . John 10 : 10a ESV","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"2207.jpg","text":"Details on our newly announced Federation Business Data Lake Solution :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2862.jpg","text":"RT @ fubiz : Water Villa in Amsterdam","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0033.jpg","text":"# Fashion # Style JESSICA ALBA Original Hand Signed Autographed 8 X10 # Photo w \/ \u2026","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"0445.jpg","text":"We are TRUMP ' s Social Media Army - - and we are dedicated to the election of Donald trump # DTmag","text_label":0,"image_label":2,"information_label":0,"label":1}
+{"id":"0687.jpg","text":"Donald Trump Called Daryl Hannah \u201c A Six \u201d Who Needs A Bath During A 1993 Spat","text_label":2,"image_label":2,"information_label":0,"label":2}
+{"id":"0068.jpg","text":"How to make haters shook level Taylor Swift # 1989 streamingparty","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0175.jpg","text":"Justin Bieber Shows Off His Package In Skin Tight Swimming Trun","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3974.jpg","text":"Intriguing abstract photography by Florian Mueller","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"2461.jpg","text":"RT @ RobRomig : Mariota ' s incredible Heisman moment : Sunday ' s @ registerguard @ rgsports cover . @ daviesphoto @ tompenix @ rgduckfootball","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2256.jpg","text":"RT @ ross rlz : Sam Levene originated the role of Nathan Detroit on the stage . # TCMParty","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"3711.jpg","text":"Join Joe LoPresti for the Empowered Investing seminar NOVEMBER 20th . . . Reserve your seat :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3624.jpg","text":"RT @ TheFix : Aqua Buddha , never forget .","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"0835.jpg","text":"I Want You to Lose ' : Harry Reid Reportedly Snapped at Dem Rep . for Being ' Disruptive '","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"0209.jpg","text":"It ' s all a conspiracy folks created by the NHL and aliens .","text_label":2,"image_label":2,"information_label":0,"label":2}
+{"id":"2641.jpg","text":"The starting point of all achievement is desire . - Napolean Hill . . .","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0370.jpg","text":"Gravis Indiana Poll : Donald Trump 44 % , Ted Cruz 27 % , John Kasich 9 % \u2026","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1201.jpg","text":"Sonu Nigam To Undergo Surgery ; Cancels Concerts . . .","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"2581.jpg","text":"RT @ Piter Kustura : @ lisskin17 : Free Nadya Savchenko # FreeSavchenko","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1035.jpg","text":"Tim Donaghy claims the NBA is fixing the 2017 NBA Finals","text_label":1,"image_label":2,"information_label":0,"label":1}
+{"id":"0285.jpg","text":"Would a new fifth football league see Celtic and \u2026","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"2959.jpg","text":"RT @ amnesty : 10 - year - old rape survivor MUST be allowed a safe abortion ! # Paraguay # HumanRights","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"3069.jpg","text":"Get down to the Giles statue to donate ! Every penny helps .","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"1243.jpg","text":"This sad \u201c Harry Potter \u201d theory explains why Hogwarts class sizes are so small","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0524.jpg","text":"Silver Beginner Band getting ready for their concert tomorrow !","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"4181.jpg","text":"RT @ iamlxgend : the Kardashians before they discovered plastic surgery . . .","text_label":0,"image_label":1,"information_label":0,"label":0}
+{"id":"1477.jpg","text":"Chris Paul and James Harden blaming each other after they lose in the second round","text_label":0,"image_label":0,"information_label":0,"label":2}
+{"id":"4513.jpg","text":"RT @ SportsCenter : Phil Mickelson is 5 strokes back . The last time he won a major , he trailed by 5 strokes entering final round .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1386.jpg","text":"Day 1 boys . Let ' s get it ! ! ! # AENG @ MCBoysSoccer765","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"4086.jpg","text":"That sweet pass from Taylor Beck deserves a sweet photo of Taylor Beck . # Preds","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1827.jpg","text":"RT @ MovieRelateable : Django Unchained","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1226.jpg","text":"Mine and @ sherrywagner ' s little baseball player turned FOUR months yesterday ! I love this little boy !","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2221.jpg","text":"RT @ chicagotribune : Sign points to Emanuel , Trump faceoff . ' The mayor thinks the sign is awful ' @ BlairKamin reports h","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"2835.jpg","text":"RT @ CommonBlackGirI : This why Steph Curry the MVP .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3734.jpg","text":"RT @ SancroftInt : Ready for day two of the UN Forum on # BizHumanRights","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4304.jpg","text":"Rediscovering an old film camera . # Canon A - 1 . # tbt","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1736.jpg","text":"Currency is participation and social engagement . RT @ LesaUkman IEG : Adam Garrone speaking at # IEG2013 , @ Movember","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4399.jpg","text":"RT @ VeryOldPics : Office Girls in the roaring twenties . . . 1925 by John McNab","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2334.jpg","text":"Please pray for me , Corah is having 10 friends over today ! # birthdayparty # headache","text_label":2,"image_label":1,"information_label":1,"label":1}
+{"id":"4561.jpg","text":"RT @ TheEconomist : The Economist explains why Africa is becoming less dependent on commodities","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4370.jpg","text":"RT @ MNCleanEnergy : @ GeronimoEnergy : We are very concerned that this bill may impact our projects in MN # mnleg","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"1220.jpg","text":"Worst looking hats ever . . . . c ' mon # Adidas # GoldenStateWarriors you can do better . . . # NBAFinals2017","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"0748.jpg","text":"We need men who can dream of things that never were . { John F . Kennedy } # quotes","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2324.jpg","text":"Yolo # Michigan","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1199.jpg","text":"It ' s as tight at the bottom of la liga as it is at the top .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3568.jpg","text":"RT @ Lt Hokyo : When Trollington leaves everyone in deep shi - - taint # MianiteFanArt # MianiteFA","text_label":2,"image_label":2,"information_label":1,"label":0}
+{"id":"3846.jpg","text":"RT @ alphabetsuccess : We need people who push boundaries rather than retreat inside them . - Tim Fargo # quote","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1404.jpg","text":"this was harry styles when he found out his fedora could float","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0022.jpg","text":"@ realDonaldTrump Donald Trump HATES this photo of his two sons . Please don ' t share it .","text_label":2,"image_label":1,"information_label":1,"label":2}
+{"id":"3518.jpg","text":"RT @ SeveralChains : Cam Newton is always photo ready . . .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"1249.jpg","text":"At work in Bermuda ! # bbcfootball maybe to the pub for the second half ?","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"3928.jpg","text":"RT @ amnestyOz : Bill passed by Parliament last night will see refugees returned to torture gt","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"3694.jpg","text":"RT @ HeforShe : . @ UN Sec . Gen Ban Ki - moon on those inspired to lead the charge toward # GenderEquality . # HeForShe","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"3106.jpg","text":"RT @ VignelliCenter : Vignelli Centered . Welcome @ yoshibeatriz ! # designconversations # vignelli # rit # roc","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2280.jpg","text":"Yes , indeed , we have a sloth . He lives in the Lion House while his home is being renovated . Photo by Marianne Hale","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3580.jpg","text":"RT @ thefletcher24 : The shame of being a bitey crying racist creature forces Suarez to hide .","text_label":2,"image_label":2,"information_label":0,"label":2}
+{"id":"3981.jpg","text":"RT @ LSJNews : Pride flags at local GM plants supported equality , said official","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"0333.jpg","text":"OMG HARRY STYLES WITH SHORT HAIR I CANT HANDLE OMG WHO WOULD ' VE BELIEVE THIS","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1762.jpg","text":"RT @ BostonDotCom : 40 years ago today , Boston schools were ordered to desegregate","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2314.jpg","text":"Rep . Coble Apologizes for disappointing those who wanted him to run for re - election .","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"1821.jpg","text":"RT @ btiflCINEMA : The Imitation Game ( 2014 ) Dir . Morten Tyldum","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"3004.jpg","text":"RT @ DepressedDarth : Mexico fans right now # NEDvsMEX","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"0603.jpg","text":"@ KK_Concerts Phil Campbells All Starr Band !","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2743.jpg","text":"RT @ hdwallpaperhub : Good Morning Friends . . . . Here is 75 Years Of Batman","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"1089.jpg","text":"The # Gators bullpen has an inflatable burger tonight .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0528.jpg","text":"New VR project heads to Anne Frank ' s World War II hideaway","text_label":0,"image_label":2,"information_label":0,"label":1}
+{"id":"1922.jpg","text":"@ BestOfNike : Norte Dame Roshes @ victoriuhhh15","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"3059.jpg","text":"RT @ business : China and Greece aside , global growth is actually accelerating","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"2730.jpg","text":"Carolina is broken . # mcmillswedding","text_label":2,"image_label":2,"information_label":0,"label":2}
+{"id":"1782.jpg","text":"5 years ago today I was in Daley Plaza on the Picasso , barely ready for the first ballot # chicago2016 # backthebid","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0707.jpg","text":"TAYLOR LAUTNER STOP DOING THIS TO ME , this is too much for just a day , I need time to breath ok","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"0489.jpg","text":"Kim Kardashian at the age of 14 got me like","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1468.jpg","text":"I found my Prince Charming and his name is Harry Styles \ud83d\udc51 - A \u2728","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"2127.jpg","text":"RT @ VeroBelieber21 : JUSTIN LOOKS SO PERFECT .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1603.jpg","text":"Great to be back \u26bd \ufe0f Book now for Saturday 17 th June . # LoveTheGame # DFA # football","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2055.jpg","text":"A Look Inside The 5 Most Expensive Suites in Sin City","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3109.jpg","text":"4 Hours till show time ! Houston Rodeo !","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"0799.jpg","text":"The stars of the Serie A season","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"0852.jpg","text":"Donald Trump \u2019 s Supreme Court really hates gays and loves police - dog brutality :","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"3654.jpg","text":"RT @ TBTimes Rays : # Rays have the Tommy Tutone Jenny lineup : 867 - 5309","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"3849.jpg","text":"Antarctic Offers Insights Into Life on Mars .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3594.jpg","text":"RT @ zellieimani : # SandraBland mural in Ottawa vandalized with the words in less than 24 hours # AllLivesMatter","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"3523.jpg","text":"RT @ DisturbingPict : A women hung off of a beheaded statue in North Carolina , 1966 .","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"0007.jpg","text":"Had an amazing second year with these girls \ud83d\udc99 gonna miss the seniors so muchhh , Until next year BHS soccer \u26bd \ufe0f \ud83d\udc3e","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3025.jpg","text":"Some businesses have been hit by the cold weather at night , but Karak outlets are doing well .","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"1006.jpg","text":"Having fun watching @ InvictusOrlando basketball","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1198.jpg","text":"Things Kyungsoo does to Male Sunbaes \u2764 \u2764 \u2764 # Kyungsoo # \uacbd\uc218 # \ub514\uc624","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"2421.jpg","text":"Good morning , Switzerland . You ' re looking very quaint","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0294.jpg","text":"It \u2019 s time to get festival ready , frassy style ! @ audreyleighton :","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"4589.jpg","text":"RT @ metmuseum : Feast your eyes on one of Candace Wheeler ' s most luxurious textiles : # WomensHistoryMonth","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2727.jpg","text":"RT @ DannyEcker : Breaking : Blackhawks and city have deal to build new practice facility on site of Malcolm X College .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0962.jpg","text":"Penn State men ' s # basketball announces decision to not pursue postseason play # basketball","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"4220.jpg","text":"RT @ TomBradysEgo : Happy Friday the 13th ! What is scarier ? RT Playing for the Browns Fav Jason Voorhees","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"2265.jpg","text":"# Syria refugee kids locked up in # Egypt police stations get skin diseases due to horrid conditions amp no natural light","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"2160.jpg","text":"RT @ ahencyclopedia : Breaking news : Palmyra has fallen to ISIS .","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"0943.jpg","text":"These Wealthy People Refuse to Give Donald Trump Money . Here \u2019 s Why . -","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"2855.jpg","text":"RT @ CuteEmergency : Koala helping out with the computer .","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"2449.jpg","text":"Fire on Dean Ave in the Bronx @ WPIX # BreakingNews","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"1329.jpg","text":"[ INFO ] COME ON AND ' JOIN MC24H ART FESTIVAL . WITH FINAL EVENTS ON MAY 21, 2016 . AND GET YOUR PRIZE .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4480.jpg","text":"RT @ daisyjuggalot : Ppl be like in Africa everyone have their hutts or live in the bush ! Well Welcome to my # Hutt","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3706.jpg","text":"RT @ jcbivins : Looks like # 14NTC is trending . Oh , above # SXSW and # BarackObama . # impressed","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2711.jpg","text":"RT @ SonAutosClasico : Volvo 544","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2480.jpg","text":"RT @ OU Football : Baker ' s record - breaking opening performance .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1270.jpg","text":"Justin Bieber and Kendall Jenner have helped improved Calvin Klein sales by 13 %","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"2458.jpg","text":"RT @ CSNCoop : # ThingsTimHowardCouldSave # Bartman","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1659.jpg","text":"Sky Arts are showing David Bowie ' s Glass Spider Tour tonight at 9 pm .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3683.jpg","text":"Want to try the brand new SAP Hybris Marketing for absolutely FREE ? Click here :","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0177.jpg","text":"June 24, 2017 at 08 : 23 AM TechCrunch \" Banking the unbanked in emerging markets","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0783.jpg","text":"The world is 4 billion years old but we are so lucky to exist in the same time as Harry Styles","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3799.jpg","text":"All our dreams can come true , if we have the courage to pursue them . - Walt Disney : # wealth","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1849.jpg","text":"Nathaniel Parker on prepping for @ WolfHallThePlay each day : I run around the auditorium racing through the stalls !","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3318.jpg","text":"Interesting fishing photography by Matt Kalinowski","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0738.jpg","text":"premierleague : Jurgen Klopp makes 8 changes to the LFC side that drew with Newcastle , wit \u2026","text_label":1,"image_label":2,"information_label":0,"label":0}
+{"id":"1259.jpg","text":"@ katyperry UPDATE | ' I kissed a girl ' # GlastonburyFestival","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4071.jpg","text":"RT @ 1DUpdatesARG : # NEW HQ Zayn outside the arena 6 10 # 2","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0546.jpg","text":"There ' ll be plenty to eat and drink around the # HanseFestival , including a hog roast","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"0684.jpg","text":"# NHLPlayoffs # Sharks fever hits San Jose as team heads to Stanley Cup Final","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"3331.jpg","text":"RT @ 5SOS : Ashton Irwin","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3936.jpg","text":"This is going to be a fantastic graphic view . Santiago Calatrava ' s PATH station wings and 1WTC","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2344.jpg","text":"RT @ Stratfor : Read to learn how Greece uses Russia to strengthen its position . https : t . co 7UQeM4rEfq","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"2553.jpg","text":"Josie and grandpa riding a big monkey at the Erie zoo .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2526.jpg","text":"RT @ TransferSite : Jerome Boateng . . . The next victim !","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"0584.jpg","text":"Save the date ! Twilight Concert Series","text_label":1,"image_label":2,"information_label":0,"label":0}
+{"id":"0794.jpg","text":"With the 5 th pick in the # nbadraft17 the Kings select De ' Aaron Fox .","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"2027.jpg","text":"RT @ ComedyPosts : Here comes hurricane Sandy","text_label":0,"image_label":1,"information_label":1,"label":2}
+{"id":"3065.jpg","text":"@ Matt Jory lookin pro in the new MBA !","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3458.jpg","text":"RT @ ClassicPixs : Stevie Nicks , Fleetwood Mac , 1978 .","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"2073.jpg","text":"RT @ iAmRealSmoove : Life of Kanye","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1439.jpg","text":"The Women ' s basketball team struggles against league rival Gonzaga","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0091.jpg","text":"Young Jessica Lange on the left , Young Lana Del Rey on the right . . . \u263a","text_label":0,"image_label":1,"information_label":0,"label":1}
+{"id":"2175.jpg","text":"@ ABQJournal worked on a story about photographers at the Bosque Del Apache # NM @ ricknathanson","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3345.jpg","text":"New shop serves up Hong Kong waffles amp ice cream via @ blogto","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2393.jpg","text":"@ heatheradamo check out these guys from Philly ! # SJOR","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"1773.jpg","text":"RT @ iArunJ : Interesting piece by @ Sportingabhi : Eng v India : stats suggest Fletcher should go","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"2614.jpg","text":"Kielce - the host city of 51st Europeade 2014 .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3047.jpg","text":"What a great evening session ! Ukraine finishes Day 5 in 1st position of the medals table , Russia in 2nd and GB in 3rd","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2908.jpg","text":"RT @ enf : Barcelona has farside signals , but they control turns from the intersection , not entering vehicles .","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"3595.jpg","text":"I found the grown - up section for watching Lorde and I like it # Lolla","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2940.jpg","text":"Well that ' s a cool trick ! RT @ GettySport : A sea of color from Day 6 of the Four Hills # SkiJumping in Austria .","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"3795.jpg","text":"Captivating fashion photography by Karen Collins","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"2301.jpg","text":"RT @ mattcawby : Air China 747 - 8i B - 2481 departing Paine Field on a short VFR flight","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3139.jpg","text":"RT @ kyungsoo stan : Expectation : EXO teaser photos Reality : Chanbaek teaser photos","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"0031.jpg","text":"Is NBA ' s trend toward analytics hurting some minority job candidates ? - The Boston Globe","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"0449.jpg","text":"Congratulations for a successful concert , Queen Mother ! \ud83d\udc51 @ Estrada21Karla # QueenMotherKarlaInConcert","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"0871.jpg","text":"Emma Watson . Perfection per usual . Classy and fabulous . # MetGala","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1106.jpg","text":"@ JustinVerlander She finally said yes ? ! Nice lil baseball ring \ud83d\ude0e \ud83d\udc4d \ud83c\udffb","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2107.jpg","text":"RT @ seventeenmag : Ariana Grande slips in dog pee , breaks 3 toes","text_label":2,"image_label":1,"information_label":1,"label":2}
+{"id":"0633.jpg","text":"June football signing period rejected by NCAA","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"1019.jpg","text":"Donald Trump got great weaves n ting . Love the retro look @ realDonaldTrump got # swagger # Election2016 # Brum","text_label":1,"image_label":2,"information_label":0,"label":1}
+{"id":"3308.jpg","text":"# Botswana capitalized on resource extraction with genuine savings # businesshumanitarianforum","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3550.jpg","text":"RT @ noisywoman : @ davrosz @ SamAntixMusic This Peter Dutton ?","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"2707.jpg","text":"1968 Olympics Black Power salute Regenboog # Rainbow . . . . Verschil ? # dtv # Olympics2014 # IOC","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"2228.jpg","text":"RT @ SportsCenter : Have a 3rd quarter , Klay Thompson . Thompson scores 37 of the Warriors 41 points in the 3rd quarter .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3413.jpg","text":"At Lowlands in a camouflage vest and sequin shorts the size of underpants . Oh well . .","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"0539.jpg","text":"19 days till Bulgaria , 53 days until Ibiza and 67 days until Reading Festival \ud83d\ude0d \ud83c\udf1e \u2708 \ufe0f","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0094.jpg","text":"Kendrick Lamar celebrates Jay - Z , 2 Chainz and Nipsey Hussle : \" RAP RUN IT 4 EVER ! \u201d","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0439.jpg","text":"You were NOT supposed to see Christina Aguilera ' s duet with Whitney Houston ' s hologram :","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"1062.jpg","text":"Example is not the main thing in influencing others , it is the only thing . - Albert Schweitzer","text_label":0,"image_label":1,"information_label":0,"label":0}
+{"id":"3252.jpg","text":"# GMO lifts poor farmers from poverty , saves lives @ mark lynas @ NYTimes","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4043.jpg","text":"RT @ GeorgeTakei : For Boston , and for hope .","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"0765.jpg","text":"Oh I am just so excited ! # LondonBurlesqueFestival","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0789.jpg","text":"Pele on Messi : I am \u201c the king \u201d of football and he is \u201c the prince \u201d of football","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3608.jpg","text":"RT This great # typographic video was crated by Londoner , Johnson Banks : -","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0420.jpg","text":"Relay for Life is happening THIS Saturday at the JoCo football field . Join us from 4 pm - 10 pm","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0571.jpg","text":"Justin Trudeau at pride today makes me wish we had a president .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"3783.jpg","text":"# ThursdayPOPUP w Edwin Chanas of @ Hearsaylounge is back for an encore ! ! ! Doors open at 9pm https : t . co z0yjgPnX8D","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"3330.jpg","text":"RT @ SportsTalkwBo : Love that Martrell Spaight showed up at post game presser in uniform . Wants to keep his jersey .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2878.jpg","text":"RT @ TheGiantWaffle : Some rare colored Twitch hoodies . lt #","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0615.jpg","text":"Craziest NBA conspiracies theories ever concieved","text_label":2,"image_label":1,"information_label":0,"label":0}
+{"id":"3659.jpg","text":"RT @ dutchdesignww : Marielle Lagers of Desk South China answers from the audience # ddw12 # dutchdfa","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2392.jpg","text":"RT @ verge : Disney theme park employees will start searching bags for selfie sticks","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1954.jpg","text":"RT @ kissmemyfan : PIC # Wuyifan - Challenger Union Cr . Sina Ent . ( 1 )","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3278.jpg","text":"RT @ barcastuff : Picture : Luis Enrique thrown in the air by players","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3623.jpg","text":"RT @ HistoryInPics : Nagasaki , 20 minutes after the atomic bombing in 1945","text_label":0,"image_label":2,"information_label":1,"label":2}
+{"id":"0004.jpg","text":"Stephen Curry wife rejected him first time he went for a kiss # nba","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1765.jpg","text":"NYC : this Wed nite 7 . 23 - spinning an all - James Brown set before this free film screening at St . Nicholas Park .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3543.jpg","text":"After his trip to Argentina , my friend @ TobiasDeGraaf launched @ GetaMOXHI Bags , handcrafted in El Palomar :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3880.jpg","text":"Make sure to check out # TheSpoils with Jesse Eisenberg ! It officially opens tonight @ TheNewGroupNYC","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0858.jpg","text":"Donald Trump \u2019 s fast food hankerin \u2019 revives a nostalgic Ronald Reagan photo \u2013 who remembers \u2026","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1316.jpg","text":"Kendrick Lamar ' s stunning new video for \" ELEMENT . \" is here","text_label":0,"image_label":2,"information_label":1,"label":1}
+{"id":"2559.jpg","text":"RT @ Slate : We won ' t see a Pi Day like this for 100 years . Here ' s why today is so special : # PiDay","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"0897.jpg","text":"Gianluigi Buffon reveals three Premier League clubs that wanted him","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"1690.jpg","text":"Results from @ IronTrac for Christine Allen @ # Ironman # Raleigh 70 . 3 2014","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1625.jpg","text":"Russell Westbrook will not back down from the chance to prove he is the best .","text_label":0,"image_label":0,"information_label":0,"label":2}
+{"id":"0676.jpg","text":"Boobs , bums and hippy crack : Glastonbury festival revellers party hard on Day 2","text_label":2,"image_label":1,"information_label":0,"label":0}
+{"id":"1775.jpg","text":"RT @ l elwood : Graham Pullen shares the importance of partnerships at # OTEW2014 # tl","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3827.jpg","text":"RT @ oddestfacts : KFC sells chicken wrist corsages for prom .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0652.jpg","text":"As Lionel Messi turns 30, # HappyBirthday to one of the best footballers in history .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"3010.jpg","text":"Our amazing # elcoutreach team went out to South Dallas to feed the homeless today ! THANK YOU FOR SERVING !","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"2018.jpg","text":"Uproar in front of Confederation of Progressive Trade Unions","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"4364.jpg","text":"@ hbalm Would watch you anywhere , but Meerkat works in portrait mode . This is what we saw . Still enjoyed it .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3453.jpg","text":"RT @ Oval station : Friday 12th June Thought Of The Day From Oval Station By Sir Christopher Lee 1922 - 2015 RIP","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"1145.jpg","text":"Plano at State 7 on7 football tourn - - talk about trying to meet stretch goals !","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1942.jpg","text":"RT @ HandLUpdates : Larry last night were happy af","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0855.jpg","text":"A look at how Donald Trump plays the tax game","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"3237.jpg","text":"RT @ TCEuk : How the war in Syria finds its roots in climate change","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"3744.jpg","text":"Amazing start to the day today at Passo Dello Stelvio , Italy . # skiing","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3582.jpg","text":"RT @ VansPorns : Daisy","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0383.jpg","text":"Local soccer standout Akil Watts still on the move . The move up -","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"2487.jpg","text":"RT @ BuzzFeed : People in San Francisco waited in this crazy line for day - old NYC bagels","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0404.jpg","text":"If Taylor Swift graciously poses for a pic , keep your hands to yourself because you ' re a gentleman . # Respect","text_label":2,"image_label":0,"information_label":0,"label":1}
+{"id":"0364.jpg","text":"In Surprise Concert , Drake Confirms He \u2019 ll Release More M . . .","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"4005.jpg","text":"RT @ Independent : Someone recreated Friends in The Sims 4 and did a damn fine job","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"3705.jpg","text":"RT @ PelaBoleichon : 50 Shades Of Grey JAJAJAJAJA LOL","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3344.jpg","text":"RT @ 90sfootball : Gheorghe Hagi playing for both Real Madrid and Barcelona in the 90s .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4618.jpg","text":"RT @ AnakNonton : # SeputarFilm Bruno Mars is Roberto in RIO 2 movie ! Coming soon !","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3789.jpg","text":"RT @ StarTribune : Paddlers : Organizers seek people for every mile of MN River on Saturday .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4019.jpg","text":"The City of Cape Town at night . . . Photo by Regardt Stander . # Travel # BeautifulPlaces","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"2701.jpg","text":"Baby Spike is awake ! ! !","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"3737.jpg","text":"Space Shuttle spotted over the Lincoln Memorial at 10 : 07 AM # spottheshuttle","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0995.jpg","text":"Shadow Puppet at the Livermore Valley Craft Beer Festival . Great event for a good cause .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"4622.jpg","text":"RT @ HuffPostPol : Most Americans supported sending Kim Davis to jail","text_label":0,"image_label":1,"information_label":1,"label":2}
+{"id":"1306.jpg","text":"Hearing from the guys from the US , the NFL , the NBA and the NHL about player development","text_label":0,"image_label":0,"information_label":0,"label":1}
+{"id":"2015.jpg","text":"Introducing Boston Mayor Martin Joseph Walsh . # bosmayor # bospoli","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3291.jpg","text":"NEW : # Lego Televisions and # Retro Creations by Chris McVeigh","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3658.jpg","text":"Followers to RETWEET can win the brand new # MLB Ballpark Pass - Port !","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"0313.jpg","text":"New episode out with @ robynbaldwin where we talk about a variety of topics including growi \u2026","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3268.jpg","text":"The # Spartans are on the court for open practice in Indianapolis . My stories from # FinalFour on @ FOX2News at 5 amp 6","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3863.jpg","text":"RT @ ABCFpll : Who locked Emily and Spencer in the stAbles ? # PLL","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"4508.jpg","text":"RT @ Newsroompostcom : HAL hands over BrahMos missile integrated Su - 30 to IAF","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0216.jpg","text":"I ' d like to Congratulation our new President , Donald Trump and Vice President Macaulay Culkin","text_label":2,"image_label":0,"information_label":0,"label":1}
+{"id":"0206.jpg","text":"Arsenal v Barcelona : Live stream Champions League football online with BT Sport # Btsport \u2026","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"3618.jpg","text":"RT @ coomerchron : # Astros starter Mike Fiers pitches the first # no - hitter in # MinuteMaidPark history .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0232.jpg","text":"RT if you would fuck the shit out of Emma Stone .","text_label":2,"image_label":1,"information_label":0,"label":1}
+{"id":"2040.jpg","text":"RT @ stackee : The moment you hear George Galloway may not hold his seat AND Nigel Farage unlikely to win # GE2015","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"3407.jpg","text":"@ PierceTheFresno # Darah Dan and Sarah : D","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0985.jpg","text":"add me on sc to see my b . a . p concert last night \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a - marycherryk","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"1140.jpg","text":"Stars arrive for closing ceremony of 2016 Cannes film festival","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3539.jpg","text":"RT @ taylorcaniff : Taylor is on his meds xD He is going into surgery . Loves you guys !","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3162.jpg","text":"RT @ barcastuff : Holiday pics : Bartra in wall at youth football camp in Andorra by @ perepunti","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1097.jpg","text":"From Norway the incredible ( and crazy ) beers of @ HaandBryggeriet ! Taste them at # ArrogantSourFestival # SourLove","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4393.jpg","text":"RT @ EarthPics HD : Silver Falls , Oregon","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1056.jpg","text":"Rio Ferdinand has revealed the best striker he ever played against . .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3094.jpg","text":"Probably the most awesome pic ever . RT @ IanMcKellen : Skeeball ! At Coney Island .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1781.jpg","text":"Kirk Hinrich gets the gameplan : more pictures # Bulls","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0182.jpg","text":"Cause of A . i I have the love for basketball that I do today . He was the realest on and off the court . PRACTICE !","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"3690.jpg","text":"Head to Mexico for # CincoDeMayo 2016 for free ! Check out our Mexican home exchanges","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"4073.jpg","text":"RT @ Jehwauhn : Joe I wish a motherfucker would Biden in the back wishing a motherfucker would .","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"2455.jpg","text":"RT @ SeanAsheMusic : For real this guitar is the bees knees . Tom Anderson Guitars are truly unparalleled","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1839.jpg","text":"@ JimFlaherty : It has been an honour to serve Canada . Thank you for the opportunity . ur services r truly appreciated","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1972.jpg","text":"RT @ SandroSca : Hey Mancini ! Look at me Mancini ! !","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1990.jpg","text":"One of our favourite videos this season . Wesley Sneijder leading his own Galatasaray chant .","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4093.jpg","text":"# TBLightning Garrison throws # Blackhawks Shaw to the ice in the 1st . Blog :","text_label":2,"image_label":2,"information_label":1,"label":0}
+{"id":"0509.jpg","text":"everyone got nice quality , up close , artsy pictures from the tyler concert and all i got was this 1 of jasper","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"3496.jpg","text":"Pedro , shellacked , and ready to be sent off to Cooperstown .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2752.jpg","text":"RT @ SoSoGay : Sam will interview no matter how much you protest","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"1674.jpg","text":"RT @ MySportsLegion : LeBron James is already wearing a Johnny Football Browns jersey . ( via @ WFNYScott )","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2309.jpg","text":"Onlookers all the way to platform across the street on Shanghai st . # OccupyHK","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1165.jpg","text":"Here \u2019 s how much Taylor Swift singing a Jimmy Eat World song helped the band","text_label":1,"image_label":0,"information_label":0,"label":1}
+{"id":"0965.jpg","text":"Rose Byrne , Seth Rogen | Celebrity Sightings in New York City - May 18, 2016","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0971.jpg","text":"Jeremy Corbyn ' s cat El Gato just threw some glorious shade at David Cameron . Yes , really","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4282.jpg","text":"In here watching an instant classic . . . . St . Vincent St . Mary vs . North Central","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0560.jpg","text":"PREP BASEBALL : Eagles end regular season with loss","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"4236.jpg","text":"RT @ TSBible : David Moyes and Van Gaal !","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0498.jpg","text":"Lauryn Hill apologizes for showing up late to concert , will . . .","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"2874.jpg","text":"Wendy Davis vs Greg Abbott","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1779.jpg","text":"Man Made Frozen Waterfall from Hot Water Tap Left on all Winter # Crazy # Bizarre # China","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3432.jpg","text":"RT @ NITV : College rugby union celebrates Indigenous round","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"4613.jpg","text":"RT @ 13NewsNow : Walmart to Test Unlimited Shipping for 50 a Year","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0735.jpg","text":"Zayn and Justin Timberlake are currently the only male artists to debut at # 1 on the Hot 100 this year !","text_label":1,"image_label":2,"information_label":1,"label":1}
+{"id":"3679.jpg","text":"Nothing will work unless you do . Maya Angelou .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2622.jpg","text":"RT @ PatrickMcGee : London , quite the outlier for baby names .","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"0407.jpg","text":"ChanBaek looking each other when Chanyeol holding pad . IRONIC .","text_label":2,"image_label":2,"information_label":1,"label":0}
+{"id":"1147.jpg","text":"They said Justin Timberlake is \" Becky \" \ud83d\ude2d \ud83d\ude02 I ' m in tears .","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"1688.jpg","text":"@ Louis Garneau Join I Am Able : a handicap cycling team that originated in Rwanda .","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"3742.jpg","text":"RT @ KimJonginBrazil : # DL PIC 30 . 04 . 15 EXO - EXO x MCM BIONIC SERIES 61P https : t . co 90KDQQs9UE","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0661.jpg","text":"Jennie Finch will become the first woman to manage a men ' s pro baseball team","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0351.jpg","text":" salinefootball GOLF OUTING - 9 : 00 AM TOMORROW ! ! Sign up today : @ HornetFBClub @ wils # sfbTOUGH # 2017 SFBGO","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1759.jpg","text":"RT @ WillHillBet : The Barcelona fans gave Xavi a nice send off . # 6raciesXavi # LaLiga","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1551.jpg","text":"18 days til I see my love in concert \ud83d\udc97 @ ShawnMendes","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"2903.jpg","text":"Over a million died of starvation in the Irish Great Famine 1845 - 9 . Prisons were barometers of desperation as here","text_label":2,"image_label":2,"information_label":1,"label":2}
+{"id":"0941.jpg","text":"RHS Dance Concert was amazing ilyguys so much and don ' t want it to end \ud83d\udc9c one more year left !","text_label":1,"image_label":1,"information_label":0,"label":1}
+{"id":"4302.jpg","text":"RT @ TheEconomist : Commercial property prices in Britain are 37 below their 2007 peak","text_label":2,"image_label":0,"information_label":1,"label":2}
+{"id":"3187.jpg","text":"Famed conservationist Jane Goodall delivered an inspiring message of hope to overflow crowd in # kamloops last night .","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"0427.jpg","text":"1 year old today , happy birthday to my little homie Jordan - Shane Nhlane \ud83c\udf89 \ud83c\udf89 \ud83c\udf89 maybe he ' ll enter Cantare tonight ? \ud83c\udf7e \ud83c\udf7e \ud83c\udf7e \u2764 \ufe0f","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"0874.jpg","text":"The house that Donald Trump couldn \u2019 t buy , New Jersey , 1991","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"2915.jpg","text":"McGuire talks with family after testifying at his trial","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"1057.jpg","text":"Hugh Jackman will stop being Wolverine soon . It ' s okay though , we have a new favorite X - Men","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3102.jpg","text":"RT @ latimesphotos : How @ rdaphoto63 shot Al Pacino Includes lighting diagram .","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"0043.jpg","text":"Queen Victoria was born # OTD in 1819 . She planted a tree at Waddesdon in May 1890 captured in this illustration .","text_label":0,"image_label":2,"information_label":1,"label":0}
+{"id":"4108.jpg","text":"RT @ wemssecnirp : Now I really am like Cleopatra # hypnotizing # findom # goddess","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3353.jpg","text":"Severe t - storm warning in effect for Morris and Somerset Counties through 4pm . 60 mph gusts possible . @ PIX11News","text_label":0,"image_label":0,"information_label":1,"label":2}
+{"id":"4503.jpg","text":"A3 : My beautiful , Bob Marley is resting up for tomorrows ride : # bikeschool","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"3891.jpg","text":"RT @ WayneRainey60 : Long , long time ago . 1975 Handford half - mile in California . I was 15 !","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"1535.jpg","text":"Kevin Love ' s 19 Pts are the most he ' s scored in any half of his playoff career .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"3905.jpg","text":"See how many people are benefitting from this new water project in # Kenya :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3129.jpg","text":"Matt and his wife . Wth lol nvm its halloween","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1858.jpg","text":"This lady is rocking the red AND her tenth tony nomination . Tune in now for Chita ! # NY1Tonys","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"4048.jpg","text":"RT @ Panoxet : Listo nivel :","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"0966.jpg","text":"One of the best moments of One Tree Hill . # OneTreeHill","text_label":1,"image_label":2,"information_label":0,"label":1}
+{"id":"2865.jpg","text":"The rights of man come not from the generosity of the state but from the hand of God . - - John F . Kennedy","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"2233.jpg","text":"RT @ SlyDude3677 : Elizabeth Warren on the Supreme Court . . . . . # uniteblue # tcot # scotus # warren","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0408.jpg","text":"Kelly Rowland has HAD IT with Tina Knowles Instashenanigans","text_label":2,"image_label":0,"information_label":0,"label":0}
+{"id":"3729.jpg","text":"RT @ History Pics : Red Hot Chili Peppers","text_label":0,"image_label":2,"information_label":0,"label":0}
+{"id":"2938.jpg","text":"In honor of # EMS week , Henry Ford West Bloomfield Hospital president @ lmtoros amp the ER Team visited local firehouses .","text_label":1,"image_label":1,"information_label":1,"label":0}
+{"id":"3414.jpg","text":"RT @ RodneyTIT : Uncle Albert would of been proud of this veteran ! # TopGrandad","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1489.jpg","text":"Why people were sending Donald Trump their pee :","text_label":2,"image_label":1,"information_label":1,"label":2}
+{"id":"3639.jpg","text":"RT @ JacketTV : Mr Tuff presented by Wynne Fumble Club - Austin Brock","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"2890.jpg","text":"Talise Ottoman Spa - Jumeirah Zabeel Saray via @ olielo travels","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0813.jpg","text":"Glastonbury Festival Top Tips From The Celebrity Set :","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"3401.jpg","text":"RT @ CBCNews : Mastodons disappeared from Yukon before humans arrived : study","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3775.jpg","text":"# gmorning Saturday ! pic by Michal Pudelka","text_label":1,"image_label":0,"information_label":0,"label":0}
+{"id":"1427.jpg","text":"So what \u2019 s the Ignite Edmonton Festival all about ? : Two days . That \u2019 s all we ask of you . \u2026","text_label":0,"image_label":0,"information_label":0,"label":0}
+{"id":"0006.jpg","text":"Join the Island Xscape team in May 2016 at the St Lucian Jazz Festival !","text_label":1,"image_label":1,"information_label":1,"label":1}
+{"id":"0085.jpg","text":"\ud83d\udcf0 | \" Smoke This , Play That Vol . 1 : Rich Homie Quan , H . E . R . , and Harry Styles \" \u2013 Leafly","text_label":1,"image_label":0,"information_label":1,"label":0}
+{"id":"4607.jpg","text":"A fire has reportedly broken out at a prison in Florence . -","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"2011.jpg","text":"RT @ wcp : Bardo is raising money for a beer garden and dog park next to Nationals Park :","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"1305.jpg","text":"You may not be able to play @ HRPattaya ' s poolside guitar , but you can practice your cannonballs .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0690.jpg","text":"NEW @ chancetherapper ' No Problem ' ft . Lil Wayne and 2 Chainz officially released .","text_label":0,"image_label":1,"information_label":1,"label":1}
+{"id":"0925.jpg","text":"J . Cole ' s the highest paid rapper of 2015","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1304.jpg","text":"On our last stretch before the UEFA Champions League Final Ceremony on Saturday ! Very exciting ! @ UefaChampionsLi","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"3027.jpg","text":"RT @ I LOVE NY : On this day in 1885 , the Statue of Liberty arrived in New York Harbor . # LoveNYHistory","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"0485.jpg","text":"# ChrisBrown # Actor Chris Brown , Trey Songz , Tyga 2015 Concert Tour T - Shirt","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0290.jpg","text":"Kevin Durant asked about Billy Donovan earning the players respect . I loved his answer !","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"1193.jpg","text":"Donald Trump has been endorsed by the NRA . @ nytimescollins , on the society they want .","text_label":1,"image_label":0,"information_label":0,"label":2}
+{"id":"0516.jpg","text":"Harry Styles and his Mercedes Benz convertible 1966 is visual therapy","text_label":1,"image_label":0,"information_label":1,"label":1}
+{"id":"2199.jpg","text":"RT @ VICE : This woman led the Latin Kings and lived # OITNB in real life :","text_label":0,"image_label":1,"information_label":1,"label":0}
+{"id":"4500.jpg","text":"Head pull show down at Lathrop # awg2014 # arcticsports","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3284.jpg","text":"RT @ chanelpuke : Amber Rose and I have the same outfit","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0058.jpg","text":"Apparently , Lady Gaga is on the cover of a can of beer .","text_label":0,"image_label":0,"information_label":1,"label":1}
+{"id":"1453.jpg","text":"How Barack Obama \u2019 s Foreign Policy De - Stabilized the World","text_label":0,"image_label":2,"information_label":1,"label":2}
+{"id":"1622.jpg","text":"# Beauty # Fashion JENNIFER LAWRENCE 1 new rare # Photo 8 x10 picture # 622","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3452.jpg","text":"When Jonathan @ NarcisseforIowa announced he was running for # iagov ( again ) # iapolitics","text_label":2,"image_label":0,"information_label":0,"label":2}
+{"id":"2310.jpg","text":"@ KipchumbaAtanas Read the KANU marketers .","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"0236.jpg","text":"We ' ve got all the key head - to - head stats for this weekend ' s @ premierleague fixtures -","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"3391.jpg","text":"Heading north and west tomorrow ? Showers are possible in the Poconos for Saturday . @ PIX11News","text_label":0,"image_label":0,"information_label":1,"label":0}
+{"id":"4092.jpg","text":"MCSO seeks suspect accused of attacking woman , 71 , in Guadalupe . Can you help identify him ?","text_label":2,"image_label":0,"information_label":1,"label":0}
+{"id":"4564.jpg","text":"Just checked in at the Shark Club # foursquare","text_label":0,"image_label":0,"information_label":0,"label":0}

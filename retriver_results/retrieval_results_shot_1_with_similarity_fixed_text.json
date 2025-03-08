@@ -1,0 +1,2510 @@
+[
+    {
+        "query": {
+            "id": 157,
+            "text": "Not the Onion : \" Kim Jong - un to launch matchmaking contest to find his sister a husband \"",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0157.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1139.jpg"
+            ],
+            "texts": [
+                "Donald Trump considering China sanctions over North Korea , say officials"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8257078528404236
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 114,
+            "text": "One hour ( Portugal time ) till dBs Filmmaker ' s Corner at @ FESTFestival !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0114.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0915.jpg"
+            ],
+            "texts": [
+                "On our way to the CT Student Film Fest ! Can ' t wait ! # FilmFestival"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8278772830963135
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2153,
+            "text": "3 ways to leverage the EMC Federation Enterprise # HybridCloud to modernize apps : # EMCWORLD",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2153.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2580.jpg"
+            ],
+            "texts": [
+                "Announcing @ VMware vCloud Air Object Storage , powered by EMC ViPR . Beta coming soon ! # VMworld"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8220740556716919
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2243,
+            "text": "RT @ EAMaddenNFL : GRONK SPIKE # INDvsNE",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2243.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2770.jpg"
+            ],
+            "texts": [
+                "RT @ Colts : Hear what Andrew Luck had to say about this catch . # INDvsTEN WATCH :"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7702655792236328
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4495,
+            "text": "You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4495.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2380.jpg"
+            ],
+            "texts": [
+                "@ idontfeelbad Hey Aubrey check out this Music Craft Beer BBQ Event for the Pendleton Marines"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7525246143341064
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 842,
+            "text": "Donald Trump knows what he ' d do in his first 100 days as president if he wins",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0842.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0137.jpg"
+            ],
+            "texts": [
+                "Donald Trump doesn ' t plan to release any of his tax returns"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.9124113917350769
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2797,
+            "text": "RT @ Sergio Bucks : Kendrick Perkins de vacaciones con Mike Miller de butaca :",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2797.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4211.jpg"
+            ],
+            "texts": [
+                "RT @ jasonrmcintyre : Get a Life RT @ thebiglead : LeBron ' s House Currently Surrounded By Cleveland Cavaliers ' Fans htt"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.6867209672927856
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 736,
+            "text": "HE IS SO FUCKING CUTE HE HAS A ONE DIRECTION POSTER",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0736.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1661.jpg"
+            ],
+            "texts": [
+                "* That Should Be Me by Justin Bieber playing on a continuous loop *"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7515935301780701
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1565,
+            "text": "Collaboration in the community makes all festivals a little better . We love @ BoiseFilmFest !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1565.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0915.jpg"
+            ],
+            "texts": [
+                "On our way to the CT Student Film Fest ! Can ' t wait ! # FilmFestival"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.791706383228302
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4590,
+            "text": "Forbes Magazine Real insights from the business world . # MarketingMonday # Advertising",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4590.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0837.jpg"
+            ],
+            "texts": [
+                "12 sure - fire ways to torpedo your campaign - - unless you ' re Donald Trump"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8421934843063354
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4574,
+            "text": "RT @ CNET : T - Mobile to pay 17 . 5 million fine for 911 service outages",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4574.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2966.jpg"
+            ],
+            "texts": [
+                "RT @ FortuneMagazine : Apple wants to be your wireless company"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7535852789878845
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4369,
+            "text": "Writing makes us crazy not # writing even crazier . Marcia Preston # amwriting",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4369.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2473.jpg"
+            ],
+            "texts": [
+                "The story I am # writing exists . . . some place , in the air . All I must do is find it , and copy it . Renard # amwriting"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8902502655982971
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 975,
+            "text": "John Michael Talbot returns to Sioux City for benefit concert",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0975.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1367.jpg"
+            ],
+            "texts": [
+                "Free concert coming soon with @ ZachandRodney on # hleradio"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7088150382041931
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2564,
+            "text": "@ elcinterns are serving the Dallas Dream Center to help people in need get coats for winter ! # yourdivinefingerprint",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2564.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2330.jpg"
+            ],
+            "texts": [
+                "Good morning , church ! Grab a coffee from Elevate Cafe and join us at 9 or 11 am . Watch online :"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7163275480270386
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 330,
+            "text": "Tonight was incredible ! # LCFCParade # havingaparty # LCFCChampions # WeAreLeicester",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0330.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1466.jpg"
+            ],
+            "texts": [
+                "Com on Leicester let ' s have the dream completed football can still live without \ud83d\udcb7 \ud83d\udcb7 \ud83d\udcb7"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.750779390335083
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3645,
+            "text": "Welcome new # AfghanProverbs fans in # TAIWAN ! Now in 77 countries . More at # KhoshAmadeyn",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3645.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2435.jpg"
+            ],
+            "texts": [
+                "RT @ matinsarfraz : # AFG afghan proverb RT @ afghansayings"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7747259736061096
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4207,
+            "text": "RT @ Ou Prg : Lovely Monday , hope you slept good and ready for new workweek xoxo Caras Ionut I like it",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4207.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3821.jpg"
+            ],
+            "texts": [
+                "RT @ Gabriele Corno : Buddy by Michael Zhang"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.6959772109985352
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 807,
+            "text": "Chelsea paid \u00a3 150.8 m by Premier League after winning 2016 - 17 title",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0807.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0190.jpg"
+            ],
+            "texts": [
+                "Odds to win the Premier League 2016 / 17 title \u2013 Every club ranked from biggest outsider"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8647216558456421
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3519,
+            "text": "A recap of the newly enhanced Federation End User Computing Solution , announced at # VMworld",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3519.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2580.jpg"
+            ],
+            "texts": [
+                "Announcing @ VMware vCloud Air Object Storage , powered by EMC ViPR . Beta coming soon ! # VMworld"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8123233318328857
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2660,
+            "text": "RT @ iBiebTeam : When Pattie listens to # PYD",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2660.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2818.jpg"
+            ],
+            "texts": [
+                "RT @ irauhlcarlyrae : Justin tweeted # mybeliebers so Beliebers trended # ourjustin"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8191295862197876
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 629,
+            "text": "DKB to host the 6 th Edition of Ghana Meets Naija Concert come this Saturday",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0629.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0796.jpg"
+            ],
+            "texts": [
+                "Fans came out in thousands to support African basketball league in Abidjan"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.6593261957168579
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 999,
+            "text": "JUSTIN TRUDEAU NEEDS TO BE PROTECTED AT ALL COSTS # Pride2017",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0999.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0093.jpg"
+            ],
+            "texts": [
+                "Why narcissistic behaviour is a plus for politicians \u2014 including Justin Trudeau"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8007702827453613
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4126,
+            "text": "RT @ jmsclee : And when Alexander saw the breadth of his domain , he wept , for there were no more worlds to conquer",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4126.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4299.jpg"
+            ],
+            "texts": [
+                "RT @ GirIsLove : Brb crying ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8740347623825073
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2603,
+            "text": "RT @ KelenKeller38 : You can buy this newborn on iTunes",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2603.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2462.jpg"
+            ],
+            "texts": [
+                "RT @ TrapHouseMario : RUFUS LOOKIN ASS NIGGA @ holllybaby"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7940182089805603
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2961,
+            "text": "Perot museum adventure",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2961.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.757144570350647
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 305,
+            "text": "Close quarters concert tonight in San Francisco . Baroque , Americana and American composers .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0305.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1367.jpg"
+            ],
+            "texts": [
+                "Free concert coming soon with @ ZachandRodney on # hleradio"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7955343723297119
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4541,
+            "text": "RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4541.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2585.jpg"
+            ],
+            "texts": [
+                "RT @ logan bik : Donald Trump and his son look like the type of people who go purging ."
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.6934826374053955
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 758,
+            "text": "I ' m done with NBA refs man every time I see a update about how they missed a call . I ' m like where ya ass was at ?",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0758.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0014.jpg"
+            ],
+            "texts": [
+                "@ AlexKennedyNBA @ CBSSports well would you look at that"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8769222497940063
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 545,
+            "text": "Stuck in the city this summer ? Check out our guide to the finest festivals in London town . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0545.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0518.jpg"
+            ],
+            "texts": [
+                "SW4 Festival only has a handful of weekend tickets left , so final chance to book ! More info :"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8631495833396912
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1602,
+            "text": "When ur teacher says \" One Direction \" in class ! !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1602.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1661.jpg"
+            ],
+            "texts": [
+                "* That Should Be Me by Justin Bieber playing on a continuous loop *"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8500831127166748
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 161,
+            "text": "Baylor University Ousts Football Coach . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0161.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4054.jpg"
+            ],
+            "texts": [
+                "Never a bad time to make fun of the Steelers"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8469659090042114
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 746,
+            "text": "CONCERT DAY STOP NUMBER TWO : THE THURMAN CAFE ft @ Awsomtisity",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0746.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1367.jpg"
+            ],
+            "texts": [
+                "Free concert coming soon with @ ZachandRodney on # hleradio"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7216506600379944
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 597,
+            "text": "West Virginia ' s baseball unis today are WOAT candidates . Dear Lord those are horrible .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0597.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0492.jpg"
+            ],
+            "texts": [
+                "Does anybody really buy this # MLB marketing garbage ? Enough already ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7313864231109619
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2329,
+            "text": "RT @ dvmonique : PCB had me like . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2329.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3782.jpg"
+            ],
+            "texts": [
+                "RT @ WORLDSTARC0MEDY : Its so hot out in ATLANTA"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8025584816932678
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 118,
+            "text": "One Direction 2017 calendar . I already want it .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0118.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0754.jpg"
+            ],
+            "texts": [
+                "Preview : ' 2017 Official 18 - month One Direction Calender ' ! You can order it here :"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.926341712474823
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2297,
+            "text": "gt lt gt The thief comes only to # steal and kill and # destroy . John 10 : 10a ESV",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2297.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2330.jpg"
+            ],
+            "texts": [
+                "Good morning , church ! Grab a coffee from Elevate Cafe and join us at 9 or 11 am . Watch online :"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7416042685508728
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 445,
+            "text": "We are TRUMP ' s Social Media Army - - and we are dedicated to the election of Donald trump # DTmag",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0445.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1285.jpg"
+            ],
+            "texts": [
+                "RETWEET if you think Donald Trump is a true leader ! # MakeAmericaGreatAgain"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8680386543273926
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 687,
+            "text": "Donald Trump Called Daryl Hannah \u201c A Six \u201d Who Needs A Bath During A 1993 Spat",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0687.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0062.jpg"
+            ],
+            "texts": [
+                "Donald Trump tells drought - plagued Californians : \" There is no drought \""
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7244957685470581
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3974,
+            "text": "Intriguing abstract photography by Florian Mueller",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3974.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2780.jpg"
+            ],
+            "texts": [
+                "Product photography by Jon Davis"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7960832118988037
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 209,
+            "text": "It ' s all a conspiracy folks created by the NHL and aliens .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0209.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0014.jpg"
+            ],
+            "texts": [
+                "@ AlexKennedyNBA @ CBSSports well would you look at that"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8833426237106323
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2641,
+            "text": "The starting point of all achievement is desire . - Napolean Hill . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2641.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3023.jpg"
+            ],
+            "texts": [
+                "Be not simply good be good for something . - Henry David Thoreau . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.9016857147216797
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1201,
+            "text": "Sonu Nigam To Undergo Surgery ; Cancels Concerts . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1201.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1591.jpg"
+            ],
+            "texts": [
+                "Fan Throws Water Bottle at Justin Bieber After He Says He Doesn \u2019 t Know the . . ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.738711953163147
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2581,
+            "text": "RT @ Piter Kustura : @ lisskin17 : Free Nadya Savchenko # FreeSavchenko",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2581.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4263.jpg"
+            ],
+            "texts": [
+                "RT @ TKachmaryk : Opposition : if Yanukovych uses force - there is no hope for any reasonable negotiations"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7886857986450195
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1035,
+            "text": "Tim Donaghy claims the NBA is fixing the 2017 NBA Finals",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1035.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1586.jpg"
+            ],
+            "texts": [
+                "NBA Championship Odds 2018 : Updated After Chris Paul Trade"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8099096417427063
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 285,
+            "text": "Would a new fifth football league see Celtic and \u2026",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0285.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1406.jpg"
+            ],
+            "texts": [
+                "Read what will happen to Man Utd if they fail to qualify for Champions League football \u2026"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.9023633003234863
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3069,
+            "text": "Get down to the Giles statue to donate ! Every penny helps .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3069.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1466.jpg"
+            ],
+            "texts": [
+                "Com on Leicester let ' s have the dream completed football can still live without \ud83d\udcb7 \ud83d\udcb7 \ud83d\udcb7"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7884693145751953
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 524,
+            "text": "Silver Beginner Band getting ready for their concert tomorrow !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0524.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0737.jpg"
+            ],
+            "texts": [
+                "Head over to @ WestfieldCS for our pop - up concert at 6 : 30 pm !"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.803892970085144
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4181,
+            "text": "RT @ iamlxgend : the Kardashians before they discovered plastic surgery . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4181.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3184.jpg"
+            ],
+            "texts": [
+                "RT @ GlazerBooHooHoo : Sometimes I scroll through Twitter and it sounds like this"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8232002854347229
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1477,
+            "text": "Chris Paul and James Harden blaming each other after they lose in the second round",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1477.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1586.jpg"
+            ],
+            "texts": [
+                "NBA Championship Odds 2018 : Updated After Chris Paul Trade"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8083814978599548
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1386,
+            "text": "Day 1 boys . Let ' s get it ! ! ! # AENG @ MCBoysSoccer765",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1386.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0742.jpg"
+            ],
+            "texts": [
+                "Summer football # MustangFootball # our coach is better than your coach"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8146134614944458
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1827,
+            "text": "RT @ MovieRelateable : Django Unchained",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1827.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2866.jpg"
+            ],
+            "texts": [
+                "RT @ SadHappyAmazing : Jimi Hendrix ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7746542692184448
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4370,
+            "text": "RT @ MNCleanEnergy : @ GeronimoEnergy : We are very concerned that this bill may impact our projects in MN # mnleg",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4370.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2759.jpg"
+            ],
+            "texts": [
+                "RT @ kristiekbauer : Deb Butler from @ hennepin talking about how they have had a 408 increase in subscriptions ! # govd12 @ GovDelivery http . . ."
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7113913297653198
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2324,
+            "text": "Yolo # Michigan",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2324.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.864154577255249
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1249,
+            "text": "At work in Bermuda ! # bbcfootball maybe to the pub for the second half ?",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1249.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0455.jpg"
+            ],
+            "texts": [
+                "Bayern is destroying football imo !"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7195451855659485
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3580,
+            "text": "RT @ thefletcher24 : The shame of being a bitey crying racist creature forces Suarez to hide .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3580.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2454.jpg"
+            ],
+            "texts": [
+                "RT @ TFBible : Next Roy Keane in the making . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.818729043006897
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1821,
+            "text": "RT @ btiflCINEMA : The Imitation Game ( 2014 ) Dir . Morten Tyldum",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1821.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2802.jpg"
+            ],
+            "texts": [
+                "RT @ FlLMOGRAPHY : A Series of Unfortunate Events ( 2004 )"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7489228248596191
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3004,
+            "text": "RT @ DepressedDarth : Mexico fans right now # NEDvsMEX",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3004.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2999.jpg"
+            ],
+            "texts": [
+                "RT @ DepressedDarth : Brazil Fans right now # BrazilvsGermany"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.9310750961303711
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 528,
+            "text": "New VR project heads to Anne Frank ' s World War II hideaway",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0528.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1101.jpg"
+            ],
+            "texts": [
+                "Anne Frank ' s family once their hiding spot was found"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7829238176345825
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1922,
+            "text": "@ BestOfNike : Norte Dame Roshes @ victoriuhhh15",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1922.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0032.jpg"
+            ],
+            "texts": [
+                "@ Cristiano @ nikefootball RT when you see it"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.6142648458480835
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3059,
+            "text": "RT @ business : China and Greece aside , global growth is actually accelerating",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3059.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2646.jpg"
+            ],
+            "texts": [
+                "RT @ WSJ : The stock - market rout in Asia is getting deeper as China worries persist"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8386621475219727
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2730,
+            "text": "Carolina is broken . # mcmillswedding",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2730.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4448.jpg"
+            ],
+            "texts": [
+                "Charlotte ?"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8284121751785278
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 707,
+            "text": "TAYLOR LAUTNER STOP DOING THIS TO ME , this is too much for just a day , I need time to breath ok",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0707.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0497.jpg"
+            ],
+            "texts": [
+                "J . Cole why must you be so genius \ud83d\ude2d"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8097469806671143
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3109,
+            "text": "4 Hours till show time ! Houston Rodeo !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3109.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1037.jpg"
+            ],
+            "texts": [
+                "Posting a 3 am pic because I miss Houston and having enough money to go to concerts"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8408485651016235
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 799,
+            "text": "The stars of the Serie A season",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0799.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1567.jpg"
+            ],
+            "texts": [
+                "and you thought the current premier league was banter"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8643573522567749
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3654,
+            "text": "RT @ TBTimes Rays : # Rays have the Tommy Tutone Jenny lineup : 867 - 5309",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3654.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1084.jpg"
+            ],
+            "texts": [
+                "@ RaysBaseball doing my part to get our boys to the game # RaysUp"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7726480960845947
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4220,
+            "text": "RT @ TomBradysEgo : Happy Friday the 13th ! What is scarier ? RT Playing for the Browns Fav Jason Voorhees",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4220.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2673.jpg"
+            ],
+            "texts": [
+                "RT @ DJJazzyJody : Tom Brady gets the news about his suspension being overruled ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7896506190299988
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2458,
+            "text": "RT @ CSNCoop : # ThingsTimHowardCouldSave # Bartman",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2458.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2713.jpg"
+            ],
+            "texts": [
+                "RT @ TweetingForBros : Richard Sherman be on Madden like"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7417605519294739
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 177,
+            "text": "June 24, 2017 at 08 : 23 AM TechCrunch \" Banking the unbanked in emerging markets",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0177.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1731.jpg"
+            ],
+            "texts": [
+                "Need a # DataLake Foundation ? We can help"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7439703941345215
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 738,
+            "text": "premierleague : Jurgen Klopp makes 8 changes to the LFC side that drew with Newcastle , wit \u2026",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0738.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0106.jpg"
+            ],
+            "texts": [
+                "BREAKING : Some Premier League games set to be cancelled this . . . # Sport7"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.794158935546875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 546,
+            "text": "There ' ll be plenty to eat and drink around the # HanseFestival , including a hog roast",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0546.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0840.jpg"
+            ],
+            "texts": [
+                "Win a pair of weekend tickets to the Priory Park Festival , Chichester"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7848119735717773
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 684,
+            "text": "# NHLPlayoffs # Sharks fever hits San Jose as team heads to Stanley Cup Final",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0684.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0359.jpg"
+            ],
+            "texts": [
+                "St . Louis and San Jose face off in Western Conference finals # nhl"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8673967123031616
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2344,
+            "text": "RT @ Stratfor : Read to learn how Greece uses Russia to strengthen its position . https : t . co 7UQeM4rEfq",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2344.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3204.jpg"
+            ],
+            "texts": [
+                "RT @ ForeignAffairs : Why cheap oil is bad news for Latin America :"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7634245157241821
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2526,
+            "text": "RT @ TransferSite : Jerome Boateng . . . The next victim !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2526.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0455.jpg"
+            ],
+            "texts": [
+                "Bayern is destroying football imo !"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.846275806427002
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 584,
+            "text": "Save the date ! Twilight Concert Series",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0584.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1252.jpg"
+            ],
+            "texts": [
+                "@ mikeryan No , I have not been to their concert ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8525251150131226
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 794,
+            "text": "With the 5 th pick in the # nbadraft17 the Kings select De ' Aaron Fox .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0794.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0049.jpg"
+            ],
+            "texts": [
+                "2017 NBA Draft Decisions : Analyzing the Washington Wizards"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.716995120048523
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 91,
+            "text": "Young Jessica Lange on the left , Young Lana Del Rey on the right . . . \u263a",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0091.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0503.jpg"
+            ],
+            "texts": [
+                "evan peters and jessica lange are the cutest angels in the world"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7575904130935669
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2393,
+            "text": "@ heatheradamo check out these guys from Philly ! # SJOR",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2393.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4521.jpg"
+            ],
+            "texts": [
+                "@ julesspecs more awesomeness ! # NewYork"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8638256788253784
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 31,
+            "text": "Is NBA ' s trend toward analytics hurting some minority job candidates ? - The Boston Globe",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0031.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1502.jpg"
+            ],
+            "texts": [
+                "Utah Jazz Editorial : Help needed ! NBA fan on the edge"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7214162945747375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 633,
+            "text": "June football signing period rejected by NCAA",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0633.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0774.jpg"
+            ],
+            "texts": [
+                "Two No . 1 - ranked basketball recruits playing in Kentucky this week"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8632684946060181
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1019,
+            "text": "Donald Trump got great weaves n ting . Love the retro look @ realDonaldTrump got # swagger # Election2016 # Brum",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1019.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1285.jpg"
+            ],
+            "texts": [
+                "RETWEET if you think Donald Trump is a true leader ! # MakeAmericaGreatAgain"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7968969941139221
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3550,
+            "text": "RT @ noisywoman : @ davrosz @ SamAntixMusic This Peter Dutton ?",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3550.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2768.jpg"
+            ],
+            "texts": [
+                "RT @ mbindwane : Meanwhile in Australia . . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8261044025421143
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1062,
+            "text": "Example is not the main thing in influencing others , it is the only thing . - Albert Schweitzer",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1062.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3023.jpg"
+            ],
+            "texts": [
+                "Be not simply good be good for something . - Henry David Thoreau . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8957791924476624
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4043,
+            "text": "RT @ GeorgeTakei : For Boston , and for hope .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4043.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2519.jpg"
+            ],
+            "texts": [
+                "RT @ GeorgeTakei : As they say , comma is a bitch . ( Submitted by Thom Paterson )"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7604632377624512
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 615,
+            "text": "Craziest NBA conspiracies theories ever concieved",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0615.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0014.jpg"
+            ],
+            "texts": [
+                "@ AlexKennedyNBA @ CBSSports well would you look at that"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.856974720954895
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2559,
+            "text": "RT @ Slate : We won ' t see a Pi Day like this for 100 years . Here ' s why today is so special : # PiDay",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2559.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2589.jpg"
+            ],
+            "texts": [
+                "RT @ BuzzFeed : 24 ways Satan is alive and well"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7652281522750854
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 897,
+            "text": "Gianluigi Buffon reveals three Premier League clubs that wanted him",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0897.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1406.jpg"
+            ],
+            "texts": [
+                "Read what will happen to Man Utd if they fail to qualify for Champions League football \u2026"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8205552101135254
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1625,
+            "text": "Russell Westbrook will not back down from the chance to prove he is the best .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1625.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1580.jpg"
+            ],
+            "texts": [
+                "Kobe truly passed the torch to Russell Westbrook"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8849517107009888
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 676,
+            "text": "Boobs , bums and hippy crack : Glastonbury festival revellers party hard on Day 2",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0676.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0701.jpg"
+            ],
+            "texts": [
+                "SEE VIDEO ! Lady Gaga - Glastonbury Festival 2009 . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7423093914985657
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2487,
+            "text": "RT @ BuzzFeed : People in San Francisco waited in this crazy line for day - old NYC bagels",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2487.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2674.jpg"
+            ],
+            "texts": [
+                "RT @ BuzzFeed : What The World Was Like The Last Time Hillary Ran For President"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7409700155258179
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 404,
+            "text": "If Taylor Swift graciously poses for a pic , keep your hands to yourself because you ' re a gentleman . # Respect",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0404.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0709.jpg"
+            ],
+            "texts": [
+                "Taylor Swift ' s two biggest enemies in one pic"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8707488179206848
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 364,
+            "text": "In Surprise Concert , Drake Confirms He \u2019 ll Release More M . . .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0364.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1591.jpg"
+            ],
+            "texts": [
+                "Fan Throws Water Bottle at Justin Bieber After He Says He Doesn \u2019 t Know the . . ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8638522624969482
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4005,
+            "text": "RT @ Independent : Someone recreated Friends in The Sims 4 and did a damn fine job",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4005.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3596.jpg"
+            ],
+            "texts": [
+                "RT @ Independent : How to cancel Amazon Prime"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7338300347328186
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2701,
+            "text": "Baby Spike is awake ! ! !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2701.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3959.jpg"
+            ],
+            "texts": [
+                "Hanging out with Finn ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8107219934463501
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1306,
+            "text": "Hearing from the guys from the US , the NFL , the NBA and the NHL about player development",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1306.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0476.jpg"
+            ],
+            "texts": [
+                "What ' s to Become of NBA Live ?"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8384664058685303
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 216,
+            "text": "I ' d like to Congratulation our new President , Donald Trump and Vice President Macaulay Culkin",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0216.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0512.jpg"
+            ],
+            "texts": [
+                "Still believe the best explanation of Donald Trump ' s rise comes not from any pundit , but Donald Trump himself ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8087508678436279
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 232,
+            "text": "RT if you would fuck the shit out of Emma Stone .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0232.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2869.jpg"
+            ],
+            "texts": [
+                "RT @ idontcurve : Rihanna looking as thick as ever"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.7888860702514648
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2040,
+            "text": "RT @ stackee : The moment you hear George Galloway may not hold his seat AND Nigel Farage unlikely to win # GE2015",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2040.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2673.jpg"
+            ],
+            "texts": [
+                "RT @ DJJazzyJody : Tom Brady gets the news about his suspension being overruled ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8062506914138794
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 182,
+            "text": "Cause of A . i I have the love for basketball that I do today . He was the realest on and off the court . PRACTICE !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0182.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0014.jpg"
+            ],
+            "texts": [
+                "@ AlexKennedyNBA @ CBSSports well would you look at that"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8383084535598755
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 509,
+            "text": "everyone got nice quality , up close , artsy pictures from the tyler concert and all i got was this 1 of jasper",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0509.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0447.jpg"
+            ],
+            "texts": [
+                "Had a great time at Young Thug ' s concert tonight ! He ' s an excellent performer , played all of his best songs !"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7802433371543884
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1165,
+            "text": "Here \u2019 s how much Taylor Swift singing a Jimmy Eat World song helped the band",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1165.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0663.jpg"
+            ],
+            "texts": [
+                "One thing we know , Taylor Swift ' s new single / album has something to do with TIME . # TS6"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8453114628791809
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 560,
+            "text": "PREP BASEBALL : Eagles end regular season with loss",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0560.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1405.jpg"
+            ],
+            "texts": [
+                "West Hall baseball drops doubleheader to region leader . . ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8722939491271973
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2622,
+            "text": "RT @ PatrickMcGee : London , quite the outlier for baby names .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/2622.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1567.jpg"
+            ],
+            "texts": [
+                "and you thought the current premier league was banter"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8210752010345459
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 941,
+            "text": "RHS Dance Concert was amazing ilyguys so much and don ' t want it to end \ud83d\udc9c one more year left !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0941.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1125.jpg"
+            ],
+            "texts": [
+                "I had an amazing night . I couldn ' t have asked for a better prom date than @ Davinbaseball"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.7916828989982605
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3891,
+            "text": "RT @ WayneRainey60 : Long , long time ago . 1975 Handford half - mile in California . I was 15 !",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3891.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4575.jpg"
+            ],
+            "texts": [
+                "RT @ ClassicPixs : George Lucas with the prototype for R2D2 , 1975 ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.636451780796051
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4048,
+            "text": "RT @ Panoxet : Listo nivel :",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4048.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2588.jpg"
+            ],
+            "texts": [
+                "RT @ EderPonceBerry : Los Reyes Magos no existen ."
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8794597387313843
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 966,
+            "text": "One of the best moments of One Tree Hill . # OneTreeHill",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0966.jpg",
+            "label": 1
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0978.jpg"
+            ],
+            "texts": [
+                "When someone says they ' ve never heard of One Tree Hill ."
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8503590822219849
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 408,
+            "text": "Kelly Rowland has HAD IT with Tina Knowles Instashenanigans",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0408.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/2852.jpg"
+            ],
+            "texts": [
+                "RT @ TheLadBible : Kelly Rowland you idiot !"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.824761152267456
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3729,
+            "text": "RT @ History Pics : Red Hot Chili Peppers",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3729.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3107.jpg"
+            ],
+            "texts": [
+                "RT @ DanceGoaIs : Chris Brown hittin it !"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.8088397979736328
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 813,
+            "text": "Glastonbury Festival Top Tips From The Celebrity Set :",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/0813.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0840.jpg"
+            ],
+            "texts": [
+                "Win a pair of weekend tickets to the Priory Park Festival , Chichester"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8175123929977417
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3775,
+            "text": "# gmorning Saturday ! pic by Michal Pudelka",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3775.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3982.jpg"
+            ],
+            "texts": [
+                "# gnight pic by Lieke Romeijn"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.8504829406738281
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1427,
+            "text": "So what \u2019 s the Ignite Edmonton Festival all about ? : Two days . That \u2019 s all we ask of you . \u2026",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1427.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                2
+            ],
+            "similarity": [
+                0.758874773979187
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1193,
+            "text": "Donald Trump has been endorsed by the NRA . @ nytimescollins , on the society they want .",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/1193.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/1143.jpg"
+            ],
+            "texts": [
+                "No , most working - class Americans did not vote for Donald Trump"
+            ],
+            "raw_labels": [
+                0
+            ],
+            "similarity": [
+                0.8274800777435303
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3452,
+            "text": "When Jonathan @ NarcisseforIowa announced he was running for # iagov ( again ) # iapolitics",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/3452.jpg",
+            "label": 2
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/0187.jpg"
+            ],
+            "texts": [
+                "Did Marco Rubio change any pundit minds this week ?"
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7881720066070557
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4564,
+            "text": "Just checked in at the Shark Club # foursquare",
+            "image": "/data/jyh/multimodal-icl/datasets/twitter1517/images/4564.jpg",
+            "label": 0
+        },
+        "retrieval": {
+            "images": [
+                "/data/jyh/multimodal-icl/datasets/twitter1517/images/3969.jpg"
+            ],
+            "texts": [
+                "Sharks fans when owner said they were overreacting . . ."
+            ],
+            "raw_labels": [
+                1
+            ],
+            "similarity": [
+                0.7807068824768066
+            ]
+        }
+    }
+]

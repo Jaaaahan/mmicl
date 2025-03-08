@@ -1,0 +1,1153 @@
+{
+    "info": {
+        "description": "Twitter-15/17 Sentiment Dataset (Semantic discordance)",
+        "version": "1.0",
+        "year": 2025,
+        "contributor": "Custom",
+        "date_created": "2025/02/02"
+    },
+    "images": [
+        {
+            "file_name": "0157.jpg",
+            "id": 157
+        },
+        {
+            "file_name": "0114.jpg",
+            "id": 114
+        },
+        {
+            "file_name": "2153.jpg",
+            "id": 2153
+        },
+        {
+            "file_name": "2243.jpg",
+            "id": 2243
+        },
+        {
+            "file_name": "4495.jpg",
+            "id": 4495
+        },
+        {
+            "file_name": "0842.jpg",
+            "id": 842
+        },
+        {
+            "file_name": "2797.jpg",
+            "id": 2797
+        },
+        {
+            "file_name": "0736.jpg",
+            "id": 736
+        },
+        {
+            "file_name": "1565.jpg",
+            "id": 1565
+        },
+        {
+            "file_name": "4590.jpg",
+            "id": 4590
+        },
+        {
+            "file_name": "4574.jpg",
+            "id": 4574
+        },
+        {
+            "file_name": "4369.jpg",
+            "id": 4369
+        },
+        {
+            "file_name": "0975.jpg",
+            "id": 975
+        },
+        {
+            "file_name": "2564.jpg",
+            "id": 2564
+        },
+        {
+            "file_name": "0330.jpg",
+            "id": 330
+        },
+        {
+            "file_name": "3645.jpg",
+            "id": 3645
+        },
+        {
+            "file_name": "4207.jpg",
+            "id": 4207
+        },
+        {
+            "file_name": "0807.jpg",
+            "id": 807
+        },
+        {
+            "file_name": "3519.jpg",
+            "id": 3519
+        },
+        {
+            "file_name": "2660.jpg",
+            "id": 2660
+        },
+        {
+            "file_name": "0629.jpg",
+            "id": 629
+        },
+        {
+            "file_name": "0999.jpg",
+            "id": 999
+        },
+        {
+            "file_name": "4126.jpg",
+            "id": 4126
+        },
+        {
+            "file_name": "2603.jpg",
+            "id": 2603
+        },
+        {
+            "file_name": "2961.jpg",
+            "id": 2961
+        },
+        {
+            "file_name": "0305.jpg",
+            "id": 305
+        },
+        {
+            "file_name": "4541.jpg",
+            "id": 4541
+        },
+        {
+            "file_name": "0758.jpg",
+            "id": 758
+        },
+        {
+            "file_name": "0545.jpg",
+            "id": 545
+        },
+        {
+            "file_name": "1602.jpg",
+            "id": 1602
+        },
+        {
+            "file_name": "0161.jpg",
+            "id": 161
+        },
+        {
+            "file_name": "0746.jpg",
+            "id": 746
+        },
+        {
+            "file_name": "0597.jpg",
+            "id": 597
+        },
+        {
+            "file_name": "2329.jpg",
+            "id": 2329
+        },
+        {
+            "file_name": "0118.jpg",
+            "id": 118
+        },
+        {
+            "file_name": "2297.jpg",
+            "id": 2297
+        },
+        {
+            "file_name": "0445.jpg",
+            "id": 445
+        },
+        {
+            "file_name": "0687.jpg",
+            "id": 687
+        },
+        {
+            "file_name": "3974.jpg",
+            "id": 3974
+        },
+        {
+            "file_name": "0209.jpg",
+            "id": 209
+        },
+        {
+            "file_name": "2641.jpg",
+            "id": 2641
+        },
+        {
+            "file_name": "1201.jpg",
+            "id": 1201
+        },
+        {
+            "file_name": "2581.jpg",
+            "id": 2581
+        },
+        {
+            "file_name": "1035.jpg",
+            "id": 1035
+        },
+        {
+            "file_name": "0285.jpg",
+            "id": 285
+        },
+        {
+            "file_name": "3069.jpg",
+            "id": 3069
+        },
+        {
+            "file_name": "0524.jpg",
+            "id": 524
+        },
+        {
+            "file_name": "4181.jpg",
+            "id": 4181
+        },
+        {
+            "file_name": "1477.jpg",
+            "id": 1477
+        },
+        {
+            "file_name": "1386.jpg",
+            "id": 1386
+        },
+        {
+            "file_name": "1827.jpg",
+            "id": 1827
+        },
+        {
+            "file_name": "4370.jpg",
+            "id": 4370
+        },
+        {
+            "file_name": "2324.jpg",
+            "id": 2324
+        },
+        {
+            "file_name": "1249.jpg",
+            "id": 1249
+        },
+        {
+            "file_name": "3580.jpg",
+            "id": 3580
+        },
+        {
+            "file_name": "1821.jpg",
+            "id": 1821
+        },
+        {
+            "file_name": "3004.jpg",
+            "id": 3004
+        },
+        {
+            "file_name": "0528.jpg",
+            "id": 528
+        },
+        {
+            "file_name": "1922.jpg",
+            "id": 1922
+        },
+        {
+            "file_name": "3059.jpg",
+            "id": 3059
+        },
+        {
+            "file_name": "2730.jpg",
+            "id": 2730
+        },
+        {
+            "file_name": "0707.jpg",
+            "id": 707
+        },
+        {
+            "file_name": "3109.jpg",
+            "id": 3109
+        },
+        {
+            "file_name": "0799.jpg",
+            "id": 799
+        },
+        {
+            "file_name": "3654.jpg",
+            "id": 3654
+        },
+        {
+            "file_name": "4220.jpg",
+            "id": 4220
+        },
+        {
+            "file_name": "2458.jpg",
+            "id": 2458
+        },
+        {
+            "file_name": "0177.jpg",
+            "id": 177
+        },
+        {
+            "file_name": "0738.jpg",
+            "id": 738
+        },
+        {
+            "file_name": "0546.jpg",
+            "id": 546
+        },
+        {
+            "file_name": "0684.jpg",
+            "id": 684
+        },
+        {
+            "file_name": "2344.jpg",
+            "id": 2344
+        },
+        {
+            "file_name": "2526.jpg",
+            "id": 2526
+        },
+        {
+            "file_name": "0584.jpg",
+            "id": 584
+        },
+        {
+            "file_name": "0794.jpg",
+            "id": 794
+        },
+        {
+            "file_name": "0091.jpg",
+            "id": 91
+        },
+        {
+            "file_name": "2393.jpg",
+            "id": 2393
+        },
+        {
+            "file_name": "0031.jpg",
+            "id": 31
+        },
+        {
+            "file_name": "0633.jpg",
+            "id": 633
+        },
+        {
+            "file_name": "1019.jpg",
+            "id": 1019
+        },
+        {
+            "file_name": "3550.jpg",
+            "id": 3550
+        },
+        {
+            "file_name": "1062.jpg",
+            "id": 1062
+        },
+        {
+            "file_name": "4043.jpg",
+            "id": 4043
+        },
+        {
+            "file_name": "0615.jpg",
+            "id": 615
+        },
+        {
+            "file_name": "2559.jpg",
+            "id": 2559
+        },
+        {
+            "file_name": "0897.jpg",
+            "id": 897
+        },
+        {
+            "file_name": "1625.jpg",
+            "id": 1625
+        },
+        {
+            "file_name": "0676.jpg",
+            "id": 676
+        },
+        {
+            "file_name": "2487.jpg",
+            "id": 2487
+        },
+        {
+            "file_name": "0404.jpg",
+            "id": 404
+        },
+        {
+            "file_name": "0364.jpg",
+            "id": 364
+        },
+        {
+            "file_name": "4005.jpg",
+            "id": 4005
+        },
+        {
+            "file_name": "2701.jpg",
+            "id": 2701
+        },
+        {
+            "file_name": "1306.jpg",
+            "id": 1306
+        },
+        {
+            "file_name": "0216.jpg",
+            "id": 216
+        },
+        {
+            "file_name": "0232.jpg",
+            "id": 232
+        },
+        {
+            "file_name": "2040.jpg",
+            "id": 2040
+        },
+        {
+            "file_name": "0182.jpg",
+            "id": 182
+        },
+        {
+            "file_name": "0509.jpg",
+            "id": 509
+        },
+        {
+            "file_name": "1165.jpg",
+            "id": 1165
+        },
+        {
+            "file_name": "0560.jpg",
+            "id": 560
+        },
+        {
+            "file_name": "2622.jpg",
+            "id": 2622
+        },
+        {
+            "file_name": "0941.jpg",
+            "id": 941
+        },
+        {
+            "file_name": "3891.jpg",
+            "id": 3891
+        },
+        {
+            "file_name": "4048.jpg",
+            "id": 4048
+        },
+        {
+            "file_name": "0966.jpg",
+            "id": 966
+        },
+        {
+            "file_name": "0408.jpg",
+            "id": 408
+        },
+        {
+            "file_name": "3729.jpg",
+            "id": 3729
+        },
+        {
+            "file_name": "0813.jpg",
+            "id": 813
+        },
+        {
+            "file_name": "3775.jpg",
+            "id": 3775
+        },
+        {
+            "file_name": "1427.jpg",
+            "id": 1427
+        },
+        {
+            "file_name": "1193.jpg",
+            "id": 1193
+        },
+        {
+            "file_name": "3452.jpg",
+            "id": 3452
+        },
+        {
+            "file_name": "4564.jpg",
+            "id": 4564
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 157,
+            "id": 157,
+            "text": "Not the Onion : \" Kim Jong - un to launch matchmaking contest to find his sister a husband \"",
+            "label": "Negative"
+        },
+        {
+            "image_id": 114,
+            "id": 114,
+            "text": "One hour ( Portugal time ) till dBs Filmmaker ' s Corner at @ FESTFestival !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2153,
+            "id": 2153,
+            "text": "3 ways to leverage the EMC Federation Enterprise # HybridCloud to modernize apps : # EMCWORLD",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2243,
+            "id": 2243,
+            "text": "RT @ EAMaddenNFL : GRONK SPIKE # INDvsNE",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4495,
+            "id": 4495,
+            "text": "You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 842,
+            "id": 842,
+            "text": "Donald Trump knows what he ' d do in his first 100 days as president if he wins",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2797,
+            "id": 2797,
+            "text": "RT @ Sergio Bucks : Kendrick Perkins de vacaciones con Mike Miller de butaca :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 736,
+            "id": 736,
+            "text": "HE IS SO FUCKING CUTE HE HAS A ONE DIRECTION POSTER",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1565,
+            "id": 1565,
+            "text": "Collaboration in the community makes all festivals a little better . We love @ BoiseFilmFest !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4590,
+            "id": 4590,
+            "text": "Forbes Magazine Real insights from the business world . # MarketingMonday # Advertising",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4574,
+            "id": 4574,
+            "text": "RT @ CNET : T - Mobile to pay 17 . 5 million fine for 911 service outages",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4369,
+            "id": 4369,
+            "text": "Writing makes us crazy not # writing even crazier . Marcia Preston # amwriting",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 975,
+            "id": 975,
+            "text": "John Michael Talbot returns to Sioux City for benefit concert",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2564,
+            "id": 2564,
+            "text": "@ elcinterns are serving the Dallas Dream Center to help people in need get coats for winter ! # yourdivinefingerprint",
+            "label": "Positive"
+        },
+        {
+            "image_id": 330,
+            "id": 330,
+            "text": "Tonight was incredible ! # LCFCParade # havingaparty # LCFCChampions # WeAreLeicester",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3645,
+            "id": 3645,
+            "text": "Welcome new # AfghanProverbs fans in # TAIWAN ! Now in 77 countries . More at # KhoshAmadeyn",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4207,
+            "id": 4207,
+            "text": "RT @ Ou Prg : Lovely Monday , hope you slept good and ready for new workweek xoxo Caras Ionut I like it",
+            "label": "Positive"
+        },
+        {
+            "image_id": 807,
+            "id": 807,
+            "text": "Chelsea paid \u00a3 150.8 m by Premier League after winning 2016 - 17 title",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3519,
+            "id": 3519,
+            "text": "A recap of the newly enhanced Federation End User Computing Solution , announced at # VMworld",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2660,
+            "id": 2660,
+            "text": "RT @ iBiebTeam : When Pattie listens to # PYD",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 629,
+            "id": 629,
+            "text": "DKB to host the 6 th Edition of Ghana Meets Naija Concert come this Saturday",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 999,
+            "id": 999,
+            "text": "JUSTIN TRUDEAU NEEDS TO BE PROTECTED AT ALL COSTS # Pride2017",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4126,
+            "id": 4126,
+            "text": "RT @ jmsclee : And when Alexander saw the breadth of his domain , he wept , for there were no more worlds to conquer",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2603,
+            "id": 2603,
+            "text": "RT @ KelenKeller38 : You can buy this newborn on iTunes",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2961,
+            "id": 2961,
+            "text": "Perot museum adventure",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 305,
+            "id": 305,
+            "text": "Close quarters concert tonight in San Francisco . Baroque , Americana and American composers .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4541,
+            "id": 4541,
+            "text": "RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 758,
+            "id": 758,
+            "text": "I ' m done with NBA refs man every time I see a update about how they missed a call . I ' m like where ya ass was at ?",
+            "label": "Negative"
+        },
+        {
+            "image_id": 545,
+            "id": 545,
+            "text": "Stuck in the city this summer ? Check out our guide to the finest festivals in London town . . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1602,
+            "id": 1602,
+            "text": "When ur teacher says \" One Direction \" in class ! !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 161,
+            "id": 161,
+            "text": "Baylor University Ousts Football Coach . . .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 746,
+            "id": 746,
+            "text": "CONCERT DAY STOP NUMBER TWO : THE THURMAN CAFE ft @ Awsomtisity",
+            "label": "Positive"
+        },
+        {
+            "image_id": 597,
+            "id": 597,
+            "text": "West Virginia ' s baseball unis today are WOAT candidates . Dear Lord those are horrible .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2329,
+            "id": 2329,
+            "text": "RT @ dvmonique : PCB had me like . .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 118,
+            "id": 118,
+            "text": "One Direction 2017 calendar . I already want it .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2297,
+            "id": 2297,
+            "text": "gt lt gt The thief comes only to # steal and kill and # destroy . John 10 : 10a ESV",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 445,
+            "id": 445,
+            "text": "We are TRUMP ' s Social Media Army - - and we are dedicated to the election of Donald trump # DTmag",
+            "label": "Positive"
+        },
+        {
+            "image_id": 687,
+            "id": 687,
+            "text": "Donald Trump Called Daryl Hannah \u201c A Six \u201d Who Needs A Bath During A 1993 Spat",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3974,
+            "id": 3974,
+            "text": "Intriguing abstract photography by Florian Mueller",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 209,
+            "id": 209,
+            "text": "It ' s all a conspiracy folks created by the NHL and aliens .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2641,
+            "id": 2641,
+            "text": "The starting point of all achievement is desire . - Napolean Hill . . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1201,
+            "id": 1201,
+            "text": "Sonu Nigam To Undergo Surgery ; Cancels Concerts . . .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2581,
+            "id": 2581,
+            "text": "RT @ Piter Kustura : @ lisskin17 : Free Nadya Savchenko # FreeSavchenko",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1035,
+            "id": 1035,
+            "text": "Tim Donaghy claims the NBA is fixing the 2017 NBA Finals",
+            "label": "Positive"
+        },
+        {
+            "image_id": 285,
+            "id": 285,
+            "text": "Would a new fifth football league see Celtic and \u2026",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3069,
+            "id": 3069,
+            "text": "Get down to the Giles statue to donate ! Every penny helps .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 524,
+            "id": 524,
+            "text": "Silver Beginner Band getting ready for their concert tomorrow !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4181,
+            "id": 4181,
+            "text": "RT @ iamlxgend : the Kardashians before they discovered plastic surgery . . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1477,
+            "id": 1477,
+            "text": "Chris Paul and James Harden blaming each other after they lose in the second round",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1386,
+            "id": 1386,
+            "text": "Day 1 boys . Let ' s get it ! ! ! # AENG @ MCBoysSoccer765",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1827,
+            "id": 1827,
+            "text": "RT @ MovieRelateable : Django Unchained",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4370,
+            "id": 4370,
+            "text": "RT @ MNCleanEnergy : @ GeronimoEnergy : We are very concerned that this bill may impact our projects in MN # mnleg",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2324,
+            "id": 2324,
+            "text": "Yolo # Michigan",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1249,
+            "id": 1249,
+            "text": "At work in Bermuda ! # bbcfootball maybe to the pub for the second half ?",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3580,
+            "id": 3580,
+            "text": "RT @ thefletcher24 : The shame of being a bitey crying racist creature forces Suarez to hide .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1821,
+            "id": 1821,
+            "text": "RT @ btiflCINEMA : The Imitation Game ( 2014 ) Dir . Morten Tyldum",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3004,
+            "id": 3004,
+            "text": "RT @ DepressedDarth : Mexico fans right now # NEDvsMEX",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 528,
+            "id": 528,
+            "text": "New VR project heads to Anne Frank ' s World War II hideaway",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1922,
+            "id": 1922,
+            "text": "@ BestOfNike : Norte Dame Roshes @ victoriuhhh15",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3059,
+            "id": 3059,
+            "text": "RT @ business : China and Greece aside , global growth is actually accelerating",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2730,
+            "id": 2730,
+            "text": "Carolina is broken . # mcmillswedding",
+            "label": "Negative"
+        },
+        {
+            "image_id": 707,
+            "id": 707,
+            "text": "TAYLOR LAUTNER STOP DOING THIS TO ME , this is too much for just a day , I need time to breath ok",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3109,
+            "id": 3109,
+            "text": "4 Hours till show time ! Houston Rodeo !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 799,
+            "id": 799,
+            "text": "The stars of the Serie A season",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3654,
+            "id": 3654,
+            "text": "RT @ TBTimes Rays : # Rays have the Tommy Tutone Jenny lineup : 867 - 5309",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4220,
+            "id": 4220,
+            "text": "RT @ TomBradysEgo : Happy Friday the 13th ! What is scarier ? RT Playing for the Browns Fav Jason Voorhees",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2458,
+            "id": 2458,
+            "text": "RT @ CSNCoop : # ThingsTimHowardCouldSave # Bartman",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 177,
+            "id": 177,
+            "text": "June 24, 2017 at 08 : 23 AM TechCrunch \" Banking the unbanked in emerging markets",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 738,
+            "id": 738,
+            "text": "premierleague : Jurgen Klopp makes 8 changes to the LFC side that drew with Newcastle , wit \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 546,
+            "id": 546,
+            "text": "There ' ll be plenty to eat and drink around the # HanseFestival , including a hog roast",
+            "label": "Positive"
+        },
+        {
+            "image_id": 684,
+            "id": 684,
+            "text": "# NHLPlayoffs # Sharks fever hits San Jose as team heads to Stanley Cup Final",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2344,
+            "id": 2344,
+            "text": "RT @ Stratfor : Read to learn how Greece uses Russia to strengthen its position . https : t . co 7UQeM4rEfq",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2526,
+            "id": 2526,
+            "text": "RT @ TransferSite : Jerome Boateng . . . The next victim !",
+            "label": "Negative"
+        },
+        {
+            "image_id": 584,
+            "id": 584,
+            "text": "Save the date ! Twilight Concert Series",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 794,
+            "id": 794,
+            "text": "With the 5 th pick in the # nbadraft17 the Kings select De ' Aaron Fox .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 91,
+            "id": 91,
+            "text": "Young Jessica Lange on the left , Young Lana Del Rey on the right . . . \u263a",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2393,
+            "id": 2393,
+            "text": "@ heatheradamo check out these guys from Philly ! # SJOR",
+            "label": "Positive"
+        },
+        {
+            "image_id": 31,
+            "id": 31,
+            "text": "Is NBA ' s trend toward analytics hurting some minority job candidates ? - The Boston Globe",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 633,
+            "id": 633,
+            "text": "June football signing period rejected by NCAA",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1019,
+            "id": 1019,
+            "text": "Donald Trump got great weaves n ting . Love the retro look @ realDonaldTrump got # swagger # Election2016 # Brum",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3550,
+            "id": 3550,
+            "text": "RT @ noisywoman : @ davrosz @ SamAntixMusic This Peter Dutton ?",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1062,
+            "id": 1062,
+            "text": "Example is not the main thing in influencing others , it is the only thing . - Albert Schweitzer",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4043,
+            "id": 4043,
+            "text": "RT @ GeorgeTakei : For Boston , and for hope .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 615,
+            "id": 615,
+            "text": "Craziest NBA conspiracies theories ever concieved",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2559,
+            "id": 2559,
+            "text": "RT @ Slate : We won ' t see a Pi Day like this for 100 years . Here ' s why today is so special : # PiDay",
+            "label": "Positive"
+        },
+        {
+            "image_id": 897,
+            "id": 897,
+            "text": "Gianluigi Buffon reveals three Premier League clubs that wanted him",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1625,
+            "id": 1625,
+            "text": "Russell Westbrook will not back down from the chance to prove he is the best .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 676,
+            "id": 676,
+            "text": "Boobs , bums and hippy crack : Glastonbury festival revellers party hard on Day 2",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2487,
+            "id": 2487,
+            "text": "RT @ BuzzFeed : People in San Francisco waited in this crazy line for day - old NYC bagels",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 404,
+            "id": 404,
+            "text": "If Taylor Swift graciously poses for a pic , keep your hands to yourself because you ' re a gentleman . # Respect",
+            "label": "Positive"
+        },
+        {
+            "image_id": 364,
+            "id": 364,
+            "text": "In Surprise Concert , Drake Confirms He \u2019 ll Release More M . . .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4005,
+            "id": 4005,
+            "text": "RT @ Independent : Someone recreated Friends in The Sims 4 and did a damn fine job",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2701,
+            "id": 2701,
+            "text": "Baby Spike is awake ! ! !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1306,
+            "id": 1306,
+            "text": "Hearing from the guys from the US , the NFL , the NBA and the NHL about player development",
+            "label": "Positive"
+        },
+        {
+            "image_id": 216,
+            "id": 216,
+            "text": "I ' d like to Congratulation our new President , Donald Trump and Vice President Macaulay Culkin",
+            "label": "Positive"
+        },
+        {
+            "image_id": 232,
+            "id": 232,
+            "text": "RT if you would fuck the shit out of Emma Stone .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2040,
+            "id": 2040,
+            "text": "RT @ stackee : The moment you hear George Galloway may not hold his seat AND Nigel Farage unlikely to win # GE2015",
+            "label": "Negative"
+        },
+        {
+            "image_id": 182,
+            "id": 182,
+            "text": "Cause of A . i I have the love for basketball that I do today . He was the realest on and off the court . PRACTICE !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 509,
+            "id": 509,
+            "text": "everyone got nice quality , up close , artsy pictures from the tyler concert and all i got was this 1 of jasper",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1165,
+            "id": 1165,
+            "text": "Here \u2019 s how much Taylor Swift singing a Jimmy Eat World song helped the band",
+            "label": "Positive"
+        },
+        {
+            "image_id": 560,
+            "id": 560,
+            "text": "PREP BASEBALL : Eagles end regular season with loss",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2622,
+            "id": 2622,
+            "text": "RT @ PatrickMcGee : London , quite the outlier for baby names .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 941,
+            "id": 941,
+            "text": "RHS Dance Concert was amazing ilyguys so much and don ' t want it to end \ud83d\udc9c one more year left !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3891,
+            "id": 3891,
+            "text": "RT @ WayneRainey60 : Long , long time ago . 1975 Handford half - mile in California . I was 15 !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4048,
+            "id": 4048,
+            "text": "RT @ Panoxet : Listo nivel :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 966,
+            "id": 966,
+            "text": "One of the best moments of One Tree Hill . # OneTreeHill",
+            "label": "Positive"
+        },
+        {
+            "image_id": 408,
+            "id": 408,
+            "text": "Kelly Rowland has HAD IT with Tina Knowles Instashenanigans",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3729,
+            "id": 3729,
+            "text": "RT @ History Pics : Red Hot Chili Peppers",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 813,
+            "id": 813,
+            "text": "Glastonbury Festival Top Tips From The Celebrity Set :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3775,
+            "id": 3775,
+            "text": "# gmorning Saturday ! pic by Michal Pudelka",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1427,
+            "id": 1427,
+            "text": "So what \u2019 s the Ignite Edmonton Festival all about ? : Two days . That \u2019 s all we ask of you . \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1193,
+            "id": 1193,
+            "text": "Donald Trump has been endorsed by the NRA . @ nytimescollins , on the society they want .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3452,
+            "id": 3452,
+            "text": "When Jonathan @ NarcisseforIowa announced he was running for # iagov ( again ) # iapolitics",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4564,
+            "id": 4564,
+            "text": "Just checked in at the Shark Club # foursquare",
+            "label": "Neutral"
+        }
+    ]
+}

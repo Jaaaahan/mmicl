@@ -1,0 +1,12 @@
+cache: "run/cache/"
+logs: "run/logs/"
+
+twitter1517:  # ✅ 新增 twitter1517 数据集路径
+  args:
+    annotations_path: "/data/jyh/mmicl/datasets/twitter1517/formatted_qwen_twitter1517_understand.json"
+    image_path: "/data/jyh/mmicl/datasets/twitter1517/images"
+
+twitter1517_test:  # ✅ 新增 twitter1517_test 数据集路径
+  args:
+    annotations_path: "/data/jyh/mmicl/datasets/twitter1517/test_non_sd.json"
+    image_path: "/data/jyh/mmicl/datasets/twitter1517/images"
