@@ -43,7 +43,7 @@ class Twitter1517Dataset(Dataset):
         text = annotation["text"]
         #label = torch.tensor(annotation["label"], dtype=torch.long)
         label = annotation["label"]
-
+        sd_feature = annotation["sd_feature"]
         if self.transform:
             image = self.transform(image)
 
@@ -52,6 +52,7 @@ class Twitter1517Dataset(Dataset):
             "image": image_file,
             "text": text,
             "label": label,
+            "sd_feature":sd_feature
         }
 
     @staticmethod

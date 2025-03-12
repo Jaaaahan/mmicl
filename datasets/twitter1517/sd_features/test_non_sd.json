@@ -1,0 +1,3543 @@
+{
+    "info": {
+        "description": "Twitter-15/17 Sentiment Dataset (Semantic non sd)",
+        "version": "1.0",
+        "year": 2025,
+        "contributor": "Custom",
+        "date_created": "2025/02/02"
+    },
+    "images": [
+        {
+            "file_name": "3609.jpg",
+            "id": 3609
+        },
+        {
+            "file_name": "3817.jpg",
+            "id": 3817
+        },
+        {
+            "file_name": "4431.jpg",
+            "id": 4431
+        },
+        {
+            "file_name": "4209.jpg",
+            "id": 4209
+        },
+        {
+            "file_name": "3018.jpg",
+            "id": 3018
+        },
+        {
+            "file_name": "1458.jpg",
+            "id": 1458
+        },
+        {
+            "file_name": "4423.jpg",
+            "id": 4423
+        },
+        {
+            "file_name": "0081.jpg",
+            "id": 81
+        },
+        {
+            "file_name": "1385.jpg",
+            "id": 1385
+        },
+        {
+            "file_name": "4173.jpg",
+            "id": 4173
+        },
+        {
+            "file_name": "4475.jpg",
+            "id": 4475
+        },
+        {
+            "file_name": "1221.jpg",
+            "id": 1221
+        },
+        {
+            "file_name": "2391.jpg",
+            "id": 2391
+        },
+        {
+            "file_name": "4084.jpg",
+            "id": 4084
+        },
+        {
+            "file_name": "0598.jpg",
+            "id": 598
+        },
+        {
+            "file_name": "0780.jpg",
+            "id": 780
+        },
+        {
+            "file_name": "1428.jpg",
+            "id": 1428
+        },
+        {
+            "file_name": "3362.jpg",
+            "id": 3362
+        },
+        {
+            "file_name": "1135.jpg",
+            "id": 1135
+        },
+        {
+            "file_name": "1484.jpg",
+            "id": 1484
+        },
+        {
+            "file_name": "3156.jpg",
+            "id": 3156
+        },
+        {
+            "file_name": "1392.jpg",
+            "id": 1392
+        },
+        {
+            "file_name": "2384.jpg",
+            "id": 2384
+        },
+        {
+            "file_name": "1170.jpg",
+            "id": 1170
+        },
+        {
+            "file_name": "4536.jpg",
+            "id": 4536
+        },
+        {
+            "file_name": "4352.jpg",
+            "id": 4352
+        },
+        {
+            "file_name": "2178.jpg",
+            "id": 2178
+        },
+        {
+            "file_name": "2501.jpg",
+            "id": 2501
+        },
+        {
+            "file_name": "2923.jpg",
+            "id": 2923
+        },
+        {
+            "file_name": "1005.jpg",
+            "id": 1005
+        },
+        {
+            "file_name": "4524.jpg",
+            "id": 4524
+        },
+        {
+            "file_name": "0131.jpg",
+            "id": 131
+        },
+        {
+            "file_name": "3157.jpg",
+            "id": 3157
+        },
+        {
+            "file_name": "2658.jpg",
+            "id": 2658
+        },
+        {
+            "file_name": "2264.jpg",
+            "id": 2264
+        },
+        {
+            "file_name": "2025.jpg",
+            "id": 2025
+        },
+        {
+            "file_name": "2364.jpg",
+            "id": 2364
+        },
+        {
+            "file_name": "3854.jpg",
+            "id": 3854
+        },
+        {
+            "file_name": "4079.jpg",
+            "id": 4079
+        },
+        {
+            "file_name": "0271.jpg",
+            "id": 271
+        },
+        {
+            "file_name": "3441.jpg",
+            "id": 3441
+        },
+        {
+            "file_name": "3968.jpg",
+            "id": 3968
+        },
+        {
+            "file_name": "0565.jpg",
+            "id": 565
+        },
+        {
+            "file_name": "3461.jpg",
+            "id": 3461
+        },
+        {
+            "file_name": "0494.jpg",
+            "id": 494
+        },
+        {
+            "file_name": "3036.jpg",
+            "id": 3036
+        },
+        {
+            "file_name": "3725.jpg",
+            "id": 3725
+        },
+        {
+            "file_name": "1937.jpg",
+            "id": 1937
+        },
+        {
+            "file_name": "1515.jpg",
+            "id": 1515
+        },
+        {
+            "file_name": "3693.jpg",
+            "id": 3693
+        },
+        {
+            "file_name": "4213.jpg",
+            "id": 4213
+        },
+        {
+            "file_name": "3060.jpg",
+            "id": 3060
+        },
+        {
+            "file_name": "1665.jpg",
+            "id": 1665
+        },
+        {
+            "file_name": "0900.jpg",
+            "id": 900
+        },
+        {
+            "file_name": "0481.jpg",
+            "id": 481
+        },
+        {
+            "file_name": "2428.jpg",
+            "id": 2428
+        },
+        {
+            "file_name": "3761.jpg",
+            "id": 3761
+        },
+        {
+            "file_name": "2417.jpg",
+            "id": 2417
+        },
+        {
+            "file_name": "1290.jpg",
+            "id": 1290
+        },
+        {
+            "file_name": "3606.jpg",
+            "id": 3606
+        },
+        {
+            "file_name": "1863.jpg",
+            "id": 1863
+        },
+        {
+            "file_name": "1754.jpg",
+            "id": 1754
+        },
+        {
+            "file_name": "4276.jpg",
+            "id": 4276
+        },
+        {
+            "file_name": "3189.jpg",
+            "id": 3189
+        },
+        {
+            "file_name": "3123.jpg",
+            "id": 3123
+        },
+        {
+            "file_name": "0563.jpg",
+            "id": 563
+        },
+        {
+            "file_name": "2031.jpg",
+            "id": 2031
+        },
+        {
+            "file_name": "3676.jpg",
+            "id": 3676
+        },
+        {
+            "file_name": "3002.jpg",
+            "id": 3002
+        },
+        {
+            "file_name": "1218.jpg",
+            "id": 1218
+        },
+        {
+            "file_name": "1418.jpg",
+            "id": 1418
+        },
+        {
+            "file_name": "2403.jpg",
+            "id": 2403
+        },
+        {
+            "file_name": "3653.jpg",
+            "id": 3653
+        },
+        {
+            "file_name": "1947.jpg",
+            "id": 1947
+        },
+        {
+            "file_name": "0018.jpg",
+            "id": 18
+        },
+        {
+            "file_name": "1976.jpg",
+            "id": 1976
+        },
+        {
+            "file_name": "3070.jpg",
+            "id": 3070
+        },
+        {
+            "file_name": "2544.jpg",
+            "id": 2544
+        },
+        {
+            "file_name": "0289.jpg",
+            "id": 289
+        },
+        {
+            "file_name": "0538.jpg",
+            "id": 538
+        },
+        {
+            "file_name": "3751.jpg",
+            "id": 3751
+        },
+        {
+            "file_name": "0864.jpg",
+            "id": 864
+        },
+        {
+            "file_name": "2255.jpg",
+            "id": 2255
+        },
+        {
+            "file_name": "0233.jpg",
+            "id": 233
+        },
+        {
+            "file_name": "1083.jpg",
+            "id": 1083
+        },
+        {
+            "file_name": "4134.jpg",
+            "id": 4134
+        },
+        {
+            "file_name": "1923.jpg",
+            "id": 1923
+        },
+        {
+            "file_name": "3132.jpg",
+            "id": 3132
+        },
+        {
+            "file_name": "3194.jpg",
+            "id": 3194
+        },
+        {
+            "file_name": "4517.jpg",
+            "id": 4517
+        },
+        {
+            "file_name": "0946.jpg",
+            "id": 946
+        },
+        {
+            "file_name": "3876.jpg",
+            "id": 3876
+        },
+        {
+            "file_name": "3428.jpg",
+            "id": 3428
+        },
+        {
+            "file_name": "3242.jpg",
+            "id": 3242
+        },
+        {
+            "file_name": "2431.jpg",
+            "id": 2431
+        },
+        {
+            "file_name": "1880.jpg",
+            "id": 1880
+        },
+        {
+            "file_name": "3415.jpg",
+            "id": 3415
+        },
+        {
+            "file_name": "2820.jpg",
+            "id": 2820
+        },
+        {
+            "file_name": "3879.jpg",
+            "id": 3879
+        },
+        {
+            "file_name": "1280.jpg",
+            "id": 1280
+        },
+        {
+            "file_name": "1237.jpg",
+            "id": 1237
+        },
+        {
+            "file_name": "1410.jpg",
+            "id": 1410
+        },
+        {
+            "file_name": "4554.jpg",
+            "id": 4554
+        },
+        {
+            "file_name": "2436.jpg",
+            "id": 2436
+        },
+        {
+            "file_name": "2207.jpg",
+            "id": 2207
+        },
+        {
+            "file_name": "2862.jpg",
+            "id": 2862
+        },
+        {
+            "file_name": "0033.jpg",
+            "id": 33
+        },
+        {
+            "file_name": "0068.jpg",
+            "id": 68
+        },
+        {
+            "file_name": "0175.jpg",
+            "id": 175
+        },
+        {
+            "file_name": "2461.jpg",
+            "id": 2461
+        },
+        {
+            "file_name": "2256.jpg",
+            "id": 2256
+        },
+        {
+            "file_name": "3711.jpg",
+            "id": 3711
+        },
+        {
+            "file_name": "3624.jpg",
+            "id": 3624
+        },
+        {
+            "file_name": "0835.jpg",
+            "id": 835
+        },
+        {
+            "file_name": "0370.jpg",
+            "id": 370
+        },
+        {
+            "file_name": "2959.jpg",
+            "id": 2959
+        },
+        {
+            "file_name": "1243.jpg",
+            "id": 1243
+        },
+        {
+            "file_name": "4513.jpg",
+            "id": 4513
+        },
+        {
+            "file_name": "4086.jpg",
+            "id": 4086
+        },
+        {
+            "file_name": "1226.jpg",
+            "id": 1226
+        },
+        {
+            "file_name": "2221.jpg",
+            "id": 2221
+        },
+        {
+            "file_name": "2835.jpg",
+            "id": 2835
+        },
+        {
+            "file_name": "3734.jpg",
+            "id": 3734
+        },
+        {
+            "file_name": "4304.jpg",
+            "id": 4304
+        },
+        {
+            "file_name": "1736.jpg",
+            "id": 1736
+        },
+        {
+            "file_name": "4399.jpg",
+            "id": 4399
+        },
+        {
+            "file_name": "2334.jpg",
+            "id": 2334
+        },
+        {
+            "file_name": "4561.jpg",
+            "id": 4561
+        },
+        {
+            "file_name": "1220.jpg",
+            "id": 1220
+        },
+        {
+            "file_name": "0748.jpg",
+            "id": 748
+        },
+        {
+            "file_name": "1199.jpg",
+            "id": 1199
+        },
+        {
+            "file_name": "3568.jpg",
+            "id": 3568
+        },
+        {
+            "file_name": "3846.jpg",
+            "id": 3846
+        },
+        {
+            "file_name": "1404.jpg",
+            "id": 1404
+        },
+        {
+            "file_name": "0022.jpg",
+            "id": 22
+        },
+        {
+            "file_name": "3518.jpg",
+            "id": 3518
+        },
+        {
+            "file_name": "3928.jpg",
+            "id": 3928
+        },
+        {
+            "file_name": "3694.jpg",
+            "id": 3694
+        },
+        {
+            "file_name": "3106.jpg",
+            "id": 3106
+        },
+        {
+            "file_name": "2280.jpg",
+            "id": 2280
+        },
+        {
+            "file_name": "3981.jpg",
+            "id": 3981
+        },
+        {
+            "file_name": "0333.jpg",
+            "id": 333
+        },
+        {
+            "file_name": "1762.jpg",
+            "id": 1762
+        },
+        {
+            "file_name": "2314.jpg",
+            "id": 2314
+        },
+        {
+            "file_name": "0603.jpg",
+            "id": 603
+        },
+        {
+            "file_name": "2743.jpg",
+            "id": 2743
+        },
+        {
+            "file_name": "1089.jpg",
+            "id": 1089
+        },
+        {
+            "file_name": "1782.jpg",
+            "id": 1782
+        },
+        {
+            "file_name": "0489.jpg",
+            "id": 489
+        },
+        {
+            "file_name": "1468.jpg",
+            "id": 1468
+        },
+        {
+            "file_name": "2127.jpg",
+            "id": 2127
+        },
+        {
+            "file_name": "1603.jpg",
+            "id": 1603
+        },
+        {
+            "file_name": "2055.jpg",
+            "id": 2055
+        },
+        {
+            "file_name": "0852.jpg",
+            "id": 852
+        },
+        {
+            "file_name": "3849.jpg",
+            "id": 3849
+        },
+        {
+            "file_name": "3594.jpg",
+            "id": 3594
+        },
+        {
+            "file_name": "3523.jpg",
+            "id": 3523
+        },
+        {
+            "file_name": "0007.jpg",
+            "id": 7
+        },
+        {
+            "file_name": "3025.jpg",
+            "id": 3025
+        },
+        {
+            "file_name": "1006.jpg",
+            "id": 1006
+        },
+        {
+            "file_name": "1198.jpg",
+            "id": 1198
+        },
+        {
+            "file_name": "2421.jpg",
+            "id": 2421
+        },
+        {
+            "file_name": "0294.jpg",
+            "id": 294
+        },
+        {
+            "file_name": "4589.jpg",
+            "id": 4589
+        },
+        {
+            "file_name": "2727.jpg",
+            "id": 2727
+        },
+        {
+            "file_name": "0962.jpg",
+            "id": 962
+        },
+        {
+            "file_name": "2265.jpg",
+            "id": 2265
+        },
+        {
+            "file_name": "2160.jpg",
+            "id": 2160
+        },
+        {
+            "file_name": "0943.jpg",
+            "id": 943
+        },
+        {
+            "file_name": "2855.jpg",
+            "id": 2855
+        },
+        {
+            "file_name": "2449.jpg",
+            "id": 2449
+        },
+        {
+            "file_name": "1329.jpg",
+            "id": 1329
+        },
+        {
+            "file_name": "4480.jpg",
+            "id": 4480
+        },
+        {
+            "file_name": "3706.jpg",
+            "id": 3706
+        },
+        {
+            "file_name": "2711.jpg",
+            "id": 2711
+        },
+        {
+            "file_name": "2480.jpg",
+            "id": 2480
+        },
+        {
+            "file_name": "1270.jpg",
+            "id": 1270
+        },
+        {
+            "file_name": "1659.jpg",
+            "id": 1659
+        },
+        {
+            "file_name": "3683.jpg",
+            "id": 3683
+        },
+        {
+            "file_name": "0783.jpg",
+            "id": 783
+        },
+        {
+            "file_name": "3799.jpg",
+            "id": 3799
+        },
+        {
+            "file_name": "1849.jpg",
+            "id": 1849
+        },
+        {
+            "file_name": "3318.jpg",
+            "id": 3318
+        },
+        {
+            "file_name": "1259.jpg",
+            "id": 1259
+        },
+        {
+            "file_name": "4071.jpg",
+            "id": 4071
+        },
+        {
+            "file_name": "3331.jpg",
+            "id": 3331
+        },
+        {
+            "file_name": "3936.jpg",
+            "id": 3936
+        },
+        {
+            "file_name": "2553.jpg",
+            "id": 2553
+        },
+        {
+            "file_name": "2027.jpg",
+            "id": 2027
+        },
+        {
+            "file_name": "3065.jpg",
+            "id": 3065
+        },
+        {
+            "file_name": "3458.jpg",
+            "id": 3458
+        },
+        {
+            "file_name": "2073.jpg",
+            "id": 2073
+        },
+        {
+            "file_name": "1439.jpg",
+            "id": 1439
+        },
+        {
+            "file_name": "2175.jpg",
+            "id": 2175
+        },
+        {
+            "file_name": "3345.jpg",
+            "id": 3345
+        },
+        {
+            "file_name": "1773.jpg",
+            "id": 1773
+        },
+        {
+            "file_name": "2614.jpg",
+            "id": 2614
+        },
+        {
+            "file_name": "3047.jpg",
+            "id": 3047
+        },
+        {
+            "file_name": "2908.jpg",
+            "id": 2908
+        },
+        {
+            "file_name": "3595.jpg",
+            "id": 3595
+        },
+        {
+            "file_name": "2940.jpg",
+            "id": 2940
+        },
+        {
+            "file_name": "3795.jpg",
+            "id": 3795
+        },
+        {
+            "file_name": "2301.jpg",
+            "id": 2301
+        },
+        {
+            "file_name": "3139.jpg",
+            "id": 3139
+        },
+        {
+            "file_name": "0449.jpg",
+            "id": 449
+        },
+        {
+            "file_name": "0871.jpg",
+            "id": 871
+        },
+        {
+            "file_name": "1106.jpg",
+            "id": 1106
+        },
+        {
+            "file_name": "2107.jpg",
+            "id": 2107
+        },
+        {
+            "file_name": "3308.jpg",
+            "id": 3308
+        },
+        {
+            "file_name": "2707.jpg",
+            "id": 2707
+        },
+        {
+            "file_name": "2228.jpg",
+            "id": 2228
+        },
+        {
+            "file_name": "3413.jpg",
+            "id": 3413
+        },
+        {
+            "file_name": "0539.jpg",
+            "id": 539
+        },
+        {
+            "file_name": "0094.jpg",
+            "id": 94
+        },
+        {
+            "file_name": "0439.jpg",
+            "id": 439
+        },
+        {
+            "file_name": "3252.jpg",
+            "id": 3252
+        },
+        {
+            "file_name": "0765.jpg",
+            "id": 765
+        },
+        {
+            "file_name": "0789.jpg",
+            "id": 789
+        },
+        {
+            "file_name": "3608.jpg",
+            "id": 3608
+        },
+        {
+            "file_name": "0420.jpg",
+            "id": 420
+        },
+        {
+            "file_name": "0571.jpg",
+            "id": 571
+        },
+        {
+            "file_name": "3783.jpg",
+            "id": 3783
+        },
+        {
+            "file_name": "3330.jpg",
+            "id": 3330
+        },
+        {
+            "file_name": "2878.jpg",
+            "id": 2878
+        },
+        {
+            "file_name": "3659.jpg",
+            "id": 3659
+        },
+        {
+            "file_name": "2392.jpg",
+            "id": 2392
+        },
+        {
+            "file_name": "1954.jpg",
+            "id": 1954
+        },
+        {
+            "file_name": "3278.jpg",
+            "id": 3278
+        },
+        {
+            "file_name": "3623.jpg",
+            "id": 3623
+        },
+        {
+            "file_name": "0004.jpg",
+            "id": 4
+        },
+        {
+            "file_name": "1765.jpg",
+            "id": 1765
+        },
+        {
+            "file_name": "3543.jpg",
+            "id": 3543
+        },
+        {
+            "file_name": "3880.jpg",
+            "id": 3880
+        },
+        {
+            "file_name": "0858.jpg",
+            "id": 858
+        },
+        {
+            "file_name": "1316.jpg",
+            "id": 1316
+        },
+        {
+            "file_name": "1690.jpg",
+            "id": 1690
+        },
+        {
+            "file_name": "1775.jpg",
+            "id": 1775
+        },
+        {
+            "file_name": "3827.jpg",
+            "id": 3827
+        },
+        {
+            "file_name": "0652.jpg",
+            "id": 652
+        },
+        {
+            "file_name": "3010.jpg",
+            "id": 3010
+        },
+        {
+            "file_name": "2018.jpg",
+            "id": 2018
+        },
+        {
+            "file_name": "4364.jpg",
+            "id": 4364
+        },
+        {
+            "file_name": "3453.jpg",
+            "id": 3453
+        },
+        {
+            "file_name": "1145.jpg",
+            "id": 1145
+        },
+        {
+            "file_name": "1942.jpg",
+            "id": 1942
+        },
+        {
+            "file_name": "0855.jpg",
+            "id": 855
+        },
+        {
+            "file_name": "3237.jpg",
+            "id": 3237
+        },
+        {
+            "file_name": "3744.jpg",
+            "id": 3744
+        },
+        {
+            "file_name": "3582.jpg",
+            "id": 3582
+        },
+        {
+            "file_name": "0383.jpg",
+            "id": 383
+        },
+        {
+            "file_name": "3705.jpg",
+            "id": 3705
+        },
+        {
+            "file_name": "3344.jpg",
+            "id": 3344
+        },
+        {
+            "file_name": "4618.jpg",
+            "id": 4618
+        },
+        {
+            "file_name": "3789.jpg",
+            "id": 3789
+        },
+        {
+            "file_name": "4019.jpg",
+            "id": 4019
+        },
+        {
+            "file_name": "3737.jpg",
+            "id": 3737
+        },
+        {
+            "file_name": "0995.jpg",
+            "id": 995
+        },
+        {
+            "file_name": "4622.jpg",
+            "id": 4622
+        },
+        {
+            "file_name": "2015.jpg",
+            "id": 2015
+        },
+        {
+            "file_name": "3291.jpg",
+            "id": 3291
+        },
+        {
+            "file_name": "3658.jpg",
+            "id": 3658
+        },
+        {
+            "file_name": "0313.jpg",
+            "id": 313
+        },
+        {
+            "file_name": "3268.jpg",
+            "id": 3268
+        },
+        {
+            "file_name": "3863.jpg",
+            "id": 3863
+        },
+        {
+            "file_name": "4508.jpg",
+            "id": 4508
+        },
+        {
+            "file_name": "0206.jpg",
+            "id": 206
+        },
+        {
+            "file_name": "3618.jpg",
+            "id": 3618
+        },
+        {
+            "file_name": "3407.jpg",
+            "id": 3407
+        },
+        {
+            "file_name": "0985.jpg",
+            "id": 985
+        },
+        {
+            "file_name": "1140.jpg",
+            "id": 1140
+        },
+        {
+            "file_name": "3539.jpg",
+            "id": 3539
+        },
+        {
+            "file_name": "3162.jpg",
+            "id": 3162
+        },
+        {
+            "file_name": "1097.jpg",
+            "id": 1097
+        },
+        {
+            "file_name": "4393.jpg",
+            "id": 4393
+        },
+        {
+            "file_name": "1056.jpg",
+            "id": 1056
+        },
+        {
+            "file_name": "3094.jpg",
+            "id": 3094
+        },
+        {
+            "file_name": "1781.jpg",
+            "id": 1781
+        },
+        {
+            "file_name": "3690.jpg",
+            "id": 3690
+        },
+        {
+            "file_name": "4073.jpg",
+            "id": 4073
+        },
+        {
+            "file_name": "2455.jpg",
+            "id": 2455
+        },
+        {
+            "file_name": "1839.jpg",
+            "id": 1839
+        },
+        {
+            "file_name": "1972.jpg",
+            "id": 1972
+        },
+        {
+            "file_name": "1990.jpg",
+            "id": 1990
+        },
+        {
+            "file_name": "4093.jpg",
+            "id": 4093
+        },
+        {
+            "file_name": "3496.jpg",
+            "id": 3496
+        },
+        {
+            "file_name": "2752.jpg",
+            "id": 2752
+        },
+        {
+            "file_name": "1674.jpg",
+            "id": 1674
+        },
+        {
+            "file_name": "2309.jpg",
+            "id": 2309
+        },
+        {
+            "file_name": "0965.jpg",
+            "id": 965
+        },
+        {
+            "file_name": "0971.jpg",
+            "id": 971
+        },
+        {
+            "file_name": "4282.jpg",
+            "id": 4282
+        },
+        {
+            "file_name": "4236.jpg",
+            "id": 4236
+        },
+        {
+            "file_name": "0498.jpg",
+            "id": 498
+        },
+        {
+            "file_name": "2874.jpg",
+            "id": 2874
+        },
+        {
+            "file_name": "1779.jpg",
+            "id": 1779
+        },
+        {
+            "file_name": "3432.jpg",
+            "id": 3432
+        },
+        {
+            "file_name": "4613.jpg",
+            "id": 4613
+        },
+        {
+            "file_name": "0735.jpg",
+            "id": 735
+        },
+        {
+            "file_name": "3679.jpg",
+            "id": 3679
+        },
+        {
+            "file_name": "0407.jpg",
+            "id": 407
+        },
+        {
+            "file_name": "1147.jpg",
+            "id": 1147
+        },
+        {
+            "file_name": "1688.jpg",
+            "id": 1688
+        },
+        {
+            "file_name": "3742.jpg",
+            "id": 3742
+        },
+        {
+            "file_name": "0661.jpg",
+            "id": 661
+        },
+        {
+            "file_name": "0351.jpg",
+            "id": 351
+        },
+        {
+            "file_name": "1759.jpg",
+            "id": 1759
+        },
+        {
+            "file_name": "1551.jpg",
+            "id": 1551
+        },
+        {
+            "file_name": "2903.jpg",
+            "id": 2903
+        },
+        {
+            "file_name": "4302.jpg",
+            "id": 4302
+        },
+        {
+            "file_name": "3187.jpg",
+            "id": 3187
+        },
+        {
+            "file_name": "0427.jpg",
+            "id": 427
+        },
+        {
+            "file_name": "0874.jpg",
+            "id": 874
+        },
+        {
+            "file_name": "2915.jpg",
+            "id": 2915
+        },
+        {
+            "file_name": "1057.jpg",
+            "id": 1057
+        },
+        {
+            "file_name": "3102.jpg",
+            "id": 3102
+        },
+        {
+            "file_name": "0043.jpg",
+            "id": 43
+        },
+        {
+            "file_name": "4108.jpg",
+            "id": 4108
+        },
+        {
+            "file_name": "3353.jpg",
+            "id": 3353
+        },
+        {
+            "file_name": "4503.jpg",
+            "id": 4503
+        },
+        {
+            "file_name": "1535.jpg",
+            "id": 1535
+        },
+        {
+            "file_name": "3905.jpg",
+            "id": 3905
+        },
+        {
+            "file_name": "3129.jpg",
+            "id": 3129
+        },
+        {
+            "file_name": "1858.jpg",
+            "id": 1858
+        },
+        {
+            "file_name": "2865.jpg",
+            "id": 2865
+        },
+        {
+            "file_name": "2233.jpg",
+            "id": 2233
+        },
+        {
+            "file_name": "2938.jpg",
+            "id": 2938
+        },
+        {
+            "file_name": "3414.jpg",
+            "id": 3414
+        },
+        {
+            "file_name": "1489.jpg",
+            "id": 1489
+        },
+        {
+            "file_name": "3639.jpg",
+            "id": 3639
+        },
+        {
+            "file_name": "2890.jpg",
+            "id": 2890
+        },
+        {
+            "file_name": "3401.jpg",
+            "id": 3401
+        },
+        {
+            "file_name": "0006.jpg",
+            "id": 6
+        },
+        {
+            "file_name": "0085.jpg",
+            "id": 85
+        },
+        {
+            "file_name": "4607.jpg",
+            "id": 4607
+        },
+        {
+            "file_name": "2011.jpg",
+            "id": 2011
+        },
+        {
+            "file_name": "1305.jpg",
+            "id": 1305
+        },
+        {
+            "file_name": "0690.jpg",
+            "id": 690
+        },
+        {
+            "file_name": "0925.jpg",
+            "id": 925
+        },
+        {
+            "file_name": "1304.jpg",
+            "id": 1304
+        },
+        {
+            "file_name": "3027.jpg",
+            "id": 3027
+        },
+        {
+            "file_name": "0485.jpg",
+            "id": 485
+        },
+        {
+            "file_name": "0290.jpg",
+            "id": 290
+        },
+        {
+            "file_name": "0516.jpg",
+            "id": 516
+        },
+        {
+            "file_name": "2199.jpg",
+            "id": 2199
+        },
+        {
+            "file_name": "4500.jpg",
+            "id": 4500
+        },
+        {
+            "file_name": "3284.jpg",
+            "id": 3284
+        },
+        {
+            "file_name": "0058.jpg",
+            "id": 58
+        },
+        {
+            "file_name": "1453.jpg",
+            "id": 1453
+        },
+        {
+            "file_name": "1622.jpg",
+            "id": 1622
+        },
+        {
+            "file_name": "2310.jpg",
+            "id": 2310
+        },
+        {
+            "file_name": "0236.jpg",
+            "id": 236
+        },
+        {
+            "file_name": "3391.jpg",
+            "id": 3391
+        },
+        {
+            "file_name": "4092.jpg",
+            "id": 4092
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 3609,
+            "id": 3609,
+            "text": "RT @ FootyAccums : 1 - 0 TO BOBBY HUTH ! ! !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3817,
+            "id": 3817,
+            "text": "Drawing Tips From Emmy Award - Winning Cartoonist Gary Panter # design",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4431,
+            "id": 4431,
+            "text": "RT @ WESH : Fmr . Brevard County teacher pleas guilty to sex with student",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4209,
+            "id": 4209,
+            "text": "We have a deep belief in the unified # hybridcloud vision . Virtustream plays a critical role in this vision # VMworld",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3018,
+            "id": 3018,
+            "text": "Watch Live : NASA marks closest approach by first spacecraft to explore Pluto .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1458,
+            "id": 1458,
+            "text": "Justin playing football : a concept",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4423,
+            "id": 4423,
+            "text": "Throwback Thursday of me , aged 4 , taking a ride with my best mate very docile pet sheep Kate . # love # tbt",
+            "label": "Positive"
+        },
+        {
+            "image_id": 81,
+            "id": 81,
+            "text": "Uefa Super Cup : Real Madrid v Manchester United",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1385,
+            "id": 1385,
+            "text": "Mino Raiola : Mario Balotelli will play for this club next season",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4173,
+            "id": 4173,
+            "text": "RT @ LuchtvaartN NL : RT @ FrisianAirpower : Florida ANG F - 15C at Leeuwarden AB for Frisian Flag 2015 . Those pictures are from today .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4475,
+            "id": 4475,
+            "text": "RT @ KResearcher : The side of Mandera County never shown . ( Gadudia irrigation scheme )",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1221,
+            "id": 1221,
+            "text": "Wentz inadvertently pans Bradford at presser ? # nfl",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2391,
+            "id": 2391,
+            "text": "RT @ voxdotcom : American Sniper ' s huge weekend at the box office is a new milestone for Clint Eastwood",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4084,
+            "id": 4084,
+            "text": "RT @ bestvocaIists : Zayn Malik is so talented .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 598,
+            "id": 598,
+            "text": "Bodis Duran signs to play football at MSU - Northern # mtscores",
+            "label": "Positive"
+        },
+        {
+            "image_id": 780,
+            "id": 780,
+            "text": "Ryan Murphy Anthology ' Feud , ' Starring Jessica Lange and Susan Sarandon , Set at FX",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1428,
+            "id": 1428,
+            "text": "ImSEEEING LORDEIN CONCERT IM SO HAPPIE",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3362,
+            "id": 3362,
+            "text": "RT @ clarissGn : Morning light , Budapest , 1931 . By Imre kinszki .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1135,
+            "id": 1135,
+            "text": "Good luck to my FAU Baseball boys as they head down to Miami Friday for Regionals ! # TheU # Throwback # BeatLongBeachS \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1484,
+            "id": 1484,
+            "text": "Immigrant Advocates Deliver Taco Bowls To GOP Lawmakers Who Support Donald Trump : \" He ' s so \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3156,
+            "id": 3156,
+            "text": "Jack and jack is TT in Mexico @ JackJackJohnson @ jackgilinsky",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1392,
+            "id": 1392,
+            "text": "Flashback : David Petraeus was prosecuted for leaking personal memos",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2384,
+            "id": 2384,
+            "text": "My two boys ! Looking forward to see them both when go back to Hua Hin Thailand for mid term break # huaHin # bulldogs",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1170,
+            "id": 1170,
+            "text": "The 2017 NBA finals , a love story for the ages",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4536,
+            "id": 4536,
+            "text": "RT @ Gabriele Corno : St . Petersberg by Gordeev",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4352,
+            "id": 4352,
+            "text": "@ DuPontPioneer 1184 in Tecumseh , Ontario . Great looking variety ! !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2178,
+            "id": 2178,
+            "text": "RT @ LutonTheatre : RT @ FullHouseTheaCo : Tiny Tim learning his lines ! @ LutonTheatre # scrooge # Luton # lutontown",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2501,
+            "id": 2501,
+            "text": "Diving Salalah # Oman tomorrow . Just had a sneak peek today at the shore close to the border with Jemen # crystalclear",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2923,
+            "id": 2923,
+            "text": "RT @ 350 : Today in Toronto : Thousands march for # JobsJusticeClimate ! For live updates and photos :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1005,
+            "id": 1005,
+            "text": "This what happens when I ask my dad to go to a Snoop Dogg concert",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4524,
+            "id": 4524,
+            "text": "RT @ DepressedDarth : Jango Fett",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 131,
+            "id": 131,
+            "text": "Tb to the haters that where outside or the arena at Justin ' s concert \ud83d\ude02",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3157,
+            "id": 3157,
+            "text": "Ben Bishop watches Hossa ' s shot sail wide in the first period",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2658,
+            "id": 2658,
+            "text": "Governor in GSO for NCBankers Association gathering .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2264,
+            "id": 2264,
+            "text": "RT @ HuffingtonPost : A Krispy Kreme donut hot dog covered in bacon now exists",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2025,
+            "id": 2025,
+            "text": "Dead Rise Old Bay Ale",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2364,
+            "id": 2364,
+            "text": "Proud to honor @ bigshoulderschi , @ McCormick Fdn , amp Pamela Adelman of Hyde Park Day School",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3854,
+            "id": 3854,
+            "text": "RT @ BuzzFeed : audience Kanye is quickly becoming our fav Kanye",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4079,
+            "id": 4079,
+            "text": "Postcard Chicago from Trib Tower . More views and @ BlairKamin review of Mich Ave renovations :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 271,
+            "id": 271,
+            "text": "Robert Downey Jr . and Sarah Jessica Parker in 1983 . Photograph by Bette Marshall .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3441,
+            "id": 3441,
+            "text": "Instagram bags seen at the Penang Camera Museum . # MyFest2015 # MalaysiaTrulyAsia # Penang # Malaysia # ttot",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3968,
+            "id": 3968,
+            "text": "Tony Gwynn is gone but will not be forgotten . His career and character will be talked about for a long time",
+            "label": "Negative"
+        },
+        {
+            "image_id": 565,
+            "id": 565,
+            "text": "@ Squawka Koke and Zinedine Zidane have been named La Liga Player and Manager of the Month for April .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3461,
+            "id": 3461,
+            "text": "RT @ fleekcyrus : RT # MTVHottest Miley cyrus",
+            "label": "Positive"
+        },
+        {
+            "image_id": 494,
+            "id": 494,
+            "text": "Donald Trump in 2007 : \" I ' m excited \" for the housing market crash .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3036,
+            "id": 3036,
+            "text": "RT @ beautifulpixx : Seoraksan National Park in South Korea .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3725,
+            "id": 3725,
+            "text": "This is 30 pounds of marijuana the amount Bradley said he would sometimes get in a duffel bag",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1937,
+            "id": 1937,
+            "text": "RT @ uacrisis : Ben Hodges about Ukrainian Armed Forces",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1515,
+            "id": 1515,
+            "text": "Craig sending videos from concerts every week makes me not afraid to be old . Life doesn ' t have to be boring",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3693,
+            "id": 3693,
+            "text": "Enjoying the view from my train en route to Maastricht via Liege . # romanceoftraintravel",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4213,
+            "id": 4213,
+            "text": "RT @ BuzzFeed : Rachel McAdams and Taylor Kitsch confirmed for True Detective season 2",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3060,
+            "id": 3060,
+            "text": "Listen to Ellie Goulding : Remixed by Apple Music Pop on @ AppleMusic . https : t . co HNzPKKxJjK",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1665,
+            "id": 1665,
+            "text": "Why does the media never show this Justin Bieber ?",
+            "label": "Positive"
+        },
+        {
+            "image_id": 900,
+            "id": 900,
+            "text": "super excited to say that i ' ve verbally committed to play d2 soccer at Daemen College in New York \u26bd \ufe0f \ud83d\udc99",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 481,
+            "id": 481,
+            "text": "The original Belle thinks Emma Watson is perfect for \u201c Beauty And The Beast \u201d",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2428,
+            "id": 2428,
+            "text": "Today 21 years ago in Australia was born one of the people who ilunima me with his smile # HappyBirthdayAshton",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3761,
+            "id": 3761,
+            "text": "NILAY VARDAR REPORTED So , What is Soma District Like ? @ nilvardar # bianet",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2417,
+            "id": 2417,
+            "text": "Striking illustrations by Isaac Bidwell",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1290,
+            "id": 1290,
+            "text": "From Brigitte Bardot to Blake Lively , see the best beach hair of . . . # moda # fashion",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3606,
+            "id": 3606,
+            "text": "Johnny Oduya in a second period tussle . # Blackhawks photos :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1863,
+            "id": 1863,
+            "text": "What a night . Happy birthday Danger .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1754,
+            "id": 1754,
+            "text": "RT @ Inspiredneuron : When I let go of what I have , I receive what I need - Lao Tzu",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4276,
+            "id": 4276,
+            "text": "First snow fall of the year in Summit County , Colorado , USA : )",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3189,
+            "id": 3189,
+            "text": "This song just reminded me so much of Germaine . # missthosedays",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3123,
+            "id": 3123,
+            "text": "RT @ sumertimestyles : HQ pictures of the arrest of One direction member , Harry Styles . # HarryGotArrested",
+            "label": "Negative"
+        },
+        {
+            "image_id": 563,
+            "id": 563,
+            "text": "In his final days of the presidency , President Barack Obama has lost the little bit of chill that was left .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2031,
+            "id": 2031,
+            "text": "RT @ Paisajes : I want to travel here ! Sorrento , Italy .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3676,
+            "id": 3676,
+            "text": "The Abandoned Platform . # Woodstock",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3002,
+            "id": 3002,
+            "text": "RT @ stevesilberman : The demolished Buddhas of Bamiyan rise again as 3D light projections .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1218,
+            "id": 1218,
+            "text": "The baseball game at Switzerland Co . is just getting started .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1418,
+            "id": 1418,
+            "text": "Yee Peng Lanna , a lantern festival in Chiang Mai , Thailand | Photo by aijohsuke",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2403,
+            "id": 2403,
+            "text": "RT @ GreaterLowellCC : Ethel Higgins from Merrimack Valley Catholic Charities is on Chamber Chat with us ! # glcoc",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3653,
+            "id": 3653,
+            "text": "RT @ SubliminaIMsgs : The true hidden story behind Jay Gatsby ?",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1947,
+            "id": 1947,
+            "text": "RT @ BloombergTVInd : Global Set - Up : Nymex Crude futures tumble towards six - year lows down 7 last week .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 18,
+            "id": 18,
+            "text": "Great to see David Cameron will be respecting the Edinburgh agreement .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1976,
+            "id": 1976,
+            "text": "Quirky , abstract illustrations by Benetti Andrea",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3070,
+            "id": 3070,
+            "text": "The geometry of plants . Garfield Park Conservatory",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2544,
+            "id": 2544,
+            "text": "Wet feet , Costa Rica and Maine",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 289,
+            "id": 289,
+            "text": "Lucky Blue with fans after the concert in Santa Ana ( June / 22 )",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 538,
+            "id": 538,
+            "text": "Emma Watson wore an outfit made out of plastic bottles and people absolutely adore it",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3751,
+            "id": 3751,
+            "text": "RT @ ClassicPixs : In 1976 , a prankster did this to the Hollywood sign in honor of California relaxing marijuana laws .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 864,
+            "id": 864,
+            "text": "Check Out Eric Prydz \u2019 Sonar Festival Set in Full",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2255,
+            "id": 2255,
+            "text": "The Bradbury Building is one of my favorite characters in D . O . A . ( 1950 ) . # 31DaysOfTCMFF # tcmff # EdmondOBrien @ tcm",
+            "label": "Positive"
+        },
+        {
+            "image_id": 233,
+            "id": 233,
+            "text": "Leonardo Dicaprio ; Kate Winslet \u2665 1998 ; 2016",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1083,
+            "id": 1083,
+            "text": "Harry Potter characters drawn by J . K . Rowling in 1999 .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4134,
+            "id": 4134,
+            "text": "RT @ DrAlfredMutua : Congratulations to Julius Yego for winning the javelin gold medal for # TeamKenya # Beijing2015",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1923,
+            "id": 1923,
+            "text": "RT @ MLiveDetroit : Can you imagine the Michigan Depot being redeveloped ? # DevelopingDetroit",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3132,
+            "id": 3132,
+            "text": "Keith urban is amazing . He told me an my ex he loved us lol",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3194,
+            "id": 3194,
+            "text": "Review ! Last Panda Standing by Jarrett J . Kroscozka : via @ ThisKid Erik @ StudioJJK # KidLit",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4517,
+            "id": 4517,
+            "text": "RT @ WRCB : South Carolina House votes to remove Confederate flag from Capitol grounds",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 946,
+            "id": 946,
+            "text": "With rat @ aobadanosai at baseball game . . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3876,
+            "id": 3876,
+            "text": "RT @ telesurenglish : # Venezuela captures 3 paramilitary heads in # Colombia border operations",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3428,
+            "id": 3428,
+            "text": "Swedish game Minecraft bought by Microsoft - Mojang AB got 2 , 5 BUSD ! Notchs is happy ! @ SwedeninHR",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3242,
+            "id": 3242,
+            "text": "RT @ UnivEventsIU : Seen backstage before the installation of @ IUSoutheast Chancellor Ray Wallace # IUSInstallation",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2431,
+            "id": 2431,
+            "text": "RT @ historic racing : James Dean and his beautiful Porsche 550 Spyder . ( his cursed car )",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1880,
+            "id": 1880,
+            "text": "The Seth Leibsohn Show Thoughts on # Ferguson from @ VDHanson , Robert Woodson , @ JohnKavanagh , amp @ mikescintoshow !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3415,
+            "id": 3415,
+            "text": "RT @ ohlolita : Conrad Roset # 2 .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2820,
+            "id": 2820,
+            "text": "Randy from America knows how to wear a good sock . Hide it under your boot for extra warmth . # tweetusyoursocks",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3879,
+            "id": 3879,
+            "text": "# UKZN students from an array of disciplines profoundly conscientised through # IAW2013 Palestinian Film Festival pmb .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1280,
+            "id": 1280,
+            "text": "It ' s okay guys we ' ve found a pic of Harry styles and his new hair ! No need to panic !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1237,
+            "id": 1237,
+            "text": "My son was excited about the win # DubNation # NBAFinals # customjersey # GoldenStateWarriors",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1410,
+            "id": 1410,
+            "text": "May The 4 th Be With You , Harry Potter style",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4554,
+            "id": 4554,
+            "text": "To put what Santa does in perspective . The man is really impressive . # MerryXmas",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2436,
+            "id": 2436,
+            "text": "Train drivers are marching through the city to Adelaide Railway Station during strike action",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2207,
+            "id": 2207,
+            "text": "Details on our newly announced Federation Business Data Lake Solution :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2862,
+            "id": 2862,
+            "text": "RT @ fubiz : Water Villa in Amsterdam",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 33,
+            "id": 33,
+            "text": "# Fashion # Style JESSICA ALBA Original Hand Signed Autographed 8 X10 # Photo w / \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 68,
+            "id": 68,
+            "text": "How to make haters shook level Taylor Swift # 1989 streamingparty",
+            "label": "Positive"
+        },
+        {
+            "image_id": 175,
+            "id": 175,
+            "text": "Justin Bieber Shows Off His Package In Skin Tight Swimming Trun",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2461,
+            "id": 2461,
+            "text": "RT @ RobRomig : Mariota ' s incredible Heisman moment : Sunday ' s @ registerguard @ rgsports cover . @ daviesphoto @ tompenix @ rgduckfootball",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2256,
+            "id": 2256,
+            "text": "RT @ ross rlz : Sam Levene originated the role of Nathan Detroit on the stage . # TCMParty",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3711,
+            "id": 3711,
+            "text": "Join Joe LoPresti for the Empowered Investing seminar NOVEMBER 20th . . . Reserve your seat :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3624,
+            "id": 3624,
+            "text": "RT @ TheFix : Aqua Buddha , never forget .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 835,
+            "id": 835,
+            "text": "I Want You to Lose ' : Harry Reid Reportedly Snapped at Dem Rep . for Being ' Disruptive '",
+            "label": "Negative"
+        },
+        {
+            "image_id": 370,
+            "id": 370,
+            "text": "Gravis Indiana Poll : Donald Trump 44 % , Ted Cruz 27 % , John Kasich 9 % \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2959,
+            "id": 2959,
+            "text": "RT @ amnesty : 10 - year - old rape survivor MUST be allowed a safe abortion ! # Paraguay # HumanRights",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1243,
+            "id": 1243,
+            "text": "This sad \u201c Harry Potter \u201d theory explains why Hogwarts class sizes are so small",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4513,
+            "id": 4513,
+            "text": "RT @ SportsCenter : Phil Mickelson is 5 strokes back . The last time he won a major , he trailed by 5 strokes entering final round .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4086,
+            "id": 4086,
+            "text": "That sweet pass from Taylor Beck deserves a sweet photo of Taylor Beck . # Preds",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1226,
+            "id": 1226,
+            "text": "Mine and @ sherrywagner ' s little baseball player turned FOUR months yesterday ! I love this little boy !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2221,
+            "id": 2221,
+            "text": "RT @ chicagotribune : Sign points to Emanuel , Trump faceoff . ' The mayor thinks the sign is awful ' @ BlairKamin reports h",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2835,
+            "id": 2835,
+            "text": "RT @ CommonBlackGirI : This why Steph Curry the MVP .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3734,
+            "id": 3734,
+            "text": "RT @ SancroftInt : Ready for day two of the UN Forum on # BizHumanRights",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4304,
+            "id": 4304,
+            "text": "Rediscovering an old film camera . # Canon A - 1 . # tbt",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1736,
+            "id": 1736,
+            "text": "Currency is participation and social engagement . RT @ LesaUkman IEG : Adam Garrone speaking at # IEG2013 , @ Movember",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4399,
+            "id": 4399,
+            "text": "RT @ VeryOldPics : Office Girls in the roaring twenties . . . 1925 by John McNab",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2334,
+            "id": 2334,
+            "text": "Please pray for me , Corah is having 10 friends over today ! # birthdayparty # headache",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4561,
+            "id": 4561,
+            "text": "RT @ TheEconomist : The Economist explains why Africa is becoming less dependent on commodities",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1220,
+            "id": 1220,
+            "text": "Worst looking hats ever . . . . c ' mon # Adidas # GoldenStateWarriors you can do better . . . # NBAFinals2017",
+            "label": "Negative"
+        },
+        {
+            "image_id": 748,
+            "id": 748,
+            "text": "We need men who can dream of things that never were . { John F . Kennedy } # quotes",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1199,
+            "id": 1199,
+            "text": "It ' s as tight at the bottom of la liga as it is at the top .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3568,
+            "id": 3568,
+            "text": "RT @ Lt Hokyo : When Trollington leaves everyone in deep shi - - taint # MianiteFanArt # MianiteFA",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3846,
+            "id": 3846,
+            "text": "RT @ alphabetsuccess : We need people who push boundaries rather than retreat inside them . - Tim Fargo # quote",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1404,
+            "id": 1404,
+            "text": "this was harry styles when he found out his fedora could float",
+            "label": "Positive"
+        },
+        {
+            "image_id": 22,
+            "id": 22,
+            "text": "@ realDonaldTrump Donald Trump HATES this photo of his two sons . Please don ' t share it .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3518,
+            "id": 3518,
+            "text": "RT @ SeveralChains : Cam Newton is always photo ready . . .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3928,
+            "id": 3928,
+            "text": "RT @ amnestyOz : Bill passed by Parliament last night will see refugees returned to torture gt",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3694,
+            "id": 3694,
+            "text": "RT @ HeforShe : . @ UN Sec . Gen Ban Ki - moon on those inspired to lead the charge toward # GenderEquality . # HeForShe",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3106,
+            "id": 3106,
+            "text": "RT @ VignelliCenter : Vignelli Centered . Welcome @ yoshibeatriz ! # designconversations # vignelli # rit # roc",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2280,
+            "id": 2280,
+            "text": "Yes , indeed , we have a sloth . He lives in the Lion House while his home is being renovated . Photo by Marianne Hale",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3981,
+            "id": 3981,
+            "text": "RT @ LSJNews : Pride flags at local GM plants supported equality , said official",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 333,
+            "id": 333,
+            "text": "OMG HARRY STYLES WITH SHORT HAIR I CANT HANDLE OMG WHO WOULD ' VE BELIEVE THIS",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1762,
+            "id": 1762,
+            "text": "RT @ BostonDotCom : 40 years ago today , Boston schools were ordered to desegregate",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2314,
+            "id": 2314,
+            "text": "Rep . Coble Apologizes for disappointing those who wanted him to run for re - election .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 603,
+            "id": 603,
+            "text": "@ KK_Concerts Phil Campbells All Starr Band !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2743,
+            "id": 2743,
+            "text": "RT @ hdwallpaperhub : Good Morning Friends . . . . Here is 75 Years Of Batman",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1089,
+            "id": 1089,
+            "text": "The # Gators bullpen has an inflatable burger tonight .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1782,
+            "id": 1782,
+            "text": "5 years ago today I was in Daley Plaza on the Picasso , barely ready for the first ballot # chicago2016 # backthebid",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 489,
+            "id": 489,
+            "text": "Kim Kardashian at the age of 14 got me like",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1468,
+            "id": 1468,
+            "text": "I found my Prince Charming and his name is Harry Styles \ud83d\udc51 - A \u2728",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2127,
+            "id": 2127,
+            "text": "RT @ VeroBelieber21 : JUSTIN LOOKS SO PERFECT .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1603,
+            "id": 1603,
+            "text": "Great to be back \u26bd \ufe0f Book now for Saturday 17 th June . # LoveTheGame # DFA # football",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2055,
+            "id": 2055,
+            "text": "A Look Inside The 5 Most Expensive Suites in Sin City",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 852,
+            "id": 852,
+            "text": "Donald Trump \u2019 s Supreme Court really hates gays and loves police - dog brutality :",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3849,
+            "id": 3849,
+            "text": "Antarctic Offers Insights Into Life on Mars .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3594,
+            "id": 3594,
+            "text": "RT @ zellieimani : # SandraBland mural in Ottawa vandalized with the words in less than 24 hours # AllLivesMatter",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3523,
+            "id": 3523,
+            "text": "RT @ DisturbingPict : A women hung off of a beheaded statue in North Carolina , 1966 .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 7,
+            "id": 7,
+            "text": "Had an amazing second year with these girls \ud83d\udc99 gonna miss the seniors so muchhh , Until next year BHS soccer \u26bd \ufe0f \ud83d\udc3e",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3025,
+            "id": 3025,
+            "text": "Some businesses have been hit by the cold weather at night , but Karak outlets are doing well .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1006,
+            "id": 1006,
+            "text": "Having fun watching @ InvictusOrlando basketball",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1198,
+            "id": 1198,
+            "text": "Things Kyungsoo does to Male Sunbaes \u2764 \u2764 \u2764 # Kyungsoo # \uacbd\uc218 # \ub514\uc624",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2421,
+            "id": 2421,
+            "text": "Good morning , Switzerland . You ' re looking very quaint",
+            "label": "Positive"
+        },
+        {
+            "image_id": 294,
+            "id": 294,
+            "text": "It \u2019 s time to get festival ready , frassy style ! @ audreyleighton :",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4589,
+            "id": 4589,
+            "text": "RT @ metmuseum : Feast your eyes on one of Candace Wheeler ' s most luxurious textiles : # WomensHistoryMonth",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2727,
+            "id": 2727,
+            "text": "RT @ DannyEcker : Breaking : Blackhawks and city have deal to build new practice facility on site of Malcolm X College .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 962,
+            "id": 962,
+            "text": "Penn State men ' s # basketball announces decision to not pursue postseason play # basketball",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2265,
+            "id": 2265,
+            "text": "# Syria refugee kids locked up in # Egypt police stations get skin diseases due to horrid conditions amp no natural light",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2160,
+            "id": 2160,
+            "text": "RT @ ahencyclopedia : Breaking news : Palmyra has fallen to ISIS .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 943,
+            "id": 943,
+            "text": "These Wealthy People Refuse to Give Donald Trump Money . Here \u2019 s Why . -",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2855,
+            "id": 2855,
+            "text": "RT @ CuteEmergency : Koala helping out with the computer .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2449,
+            "id": 2449,
+            "text": "Fire on Dean Ave in the Bronx @ WPIX # BreakingNews",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1329,
+            "id": 1329,
+            "text": "[ INFO ] COME ON AND ' JOIN MC24H ART FESTIVAL . WITH FINAL EVENTS ON MAY 21, 2016 . AND GET YOUR PRIZE .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4480,
+            "id": 4480,
+            "text": "RT @ daisyjuggalot : Ppl be like in Africa everyone have their hutts or live in the bush ! Well Welcome to my # Hutt",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3706,
+            "id": 3706,
+            "text": "RT @ jcbivins : Looks like # 14NTC is trending . Oh , above # SXSW and # BarackObama . # impressed",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2711,
+            "id": 2711,
+            "text": "RT @ SonAutosClasico : Volvo 544",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2480,
+            "id": 2480,
+            "text": "RT @ OU Football : Baker ' s record - breaking opening performance .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1270,
+            "id": 1270,
+            "text": "Justin Bieber and Kendall Jenner have helped improved Calvin Klein sales by 13 %",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1659,
+            "id": 1659,
+            "text": "Sky Arts are showing David Bowie ' s Glass Spider Tour tonight at 9 pm .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3683,
+            "id": 3683,
+            "text": "Want to try the brand new SAP Hybris Marketing for absolutely FREE ? Click here :",
+            "label": "Positive"
+        },
+        {
+            "image_id": 783,
+            "id": 783,
+            "text": "The world is 4 billion years old but we are so lucky to exist in the same time as Harry Styles",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3799,
+            "id": 3799,
+            "text": "All our dreams can come true , if we have the courage to pursue them . - Walt Disney : # wealth",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1849,
+            "id": 1849,
+            "text": "Nathaniel Parker on prepping for @ WolfHallThePlay each day : I run around the auditorium racing through the stalls !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3318,
+            "id": 3318,
+            "text": "Interesting fishing photography by Matt Kalinowski",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1259,
+            "id": 1259,
+            "text": "@ katyperry UPDATE | ' I kissed a girl ' # GlastonburyFestival",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4071,
+            "id": 4071,
+            "text": "RT @ 1DUpdatesARG : # NEW HQ Zayn outside the arena 6 10 # 2",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3331,
+            "id": 3331,
+            "text": "RT @ 5SOS : Ashton Irwin",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3936,
+            "id": 3936,
+            "text": "This is going to be a fantastic graphic view . Santiago Calatrava ' s PATH station wings and 1WTC",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2553,
+            "id": 2553,
+            "text": "Josie and grandpa riding a big monkey at the Erie zoo .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2027,
+            "id": 2027,
+            "text": "RT @ ComedyPosts : Here comes hurricane Sandy",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3065,
+            "id": 3065,
+            "text": "@ Matt Jory lookin pro in the new MBA !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3458,
+            "id": 3458,
+            "text": "RT @ ClassicPixs : Stevie Nicks , Fleetwood Mac , 1978 .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2073,
+            "id": 2073,
+            "text": "RT @ iAmRealSmoove : Life of Kanye",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1439,
+            "id": 1439,
+            "text": "The Women ' s basketball team struggles against league rival Gonzaga",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2175,
+            "id": 2175,
+            "text": "@ ABQJournal worked on a story about photographers at the Bosque Del Apache # NM @ ricknathanson",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3345,
+            "id": 3345,
+            "text": "New shop serves up Hong Kong waffles amp ice cream via @ blogto",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1773,
+            "id": 1773,
+            "text": "RT @ iArunJ : Interesting piece by @ Sportingabhi : Eng v India : stats suggest Fletcher should go",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2614,
+            "id": 2614,
+            "text": "Kielce - the host city of 51st Europeade 2014 .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3047,
+            "id": 3047,
+            "text": "What a great evening session ! Ukraine finishes Day 5 in 1st position of the medals table , Russia in 2nd and GB in 3rd",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2908,
+            "id": 2908,
+            "text": "RT @ enf : Barcelona has farside signals , but they control turns from the intersection , not entering vehicles .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3595,
+            "id": 3595,
+            "text": "I found the grown - up section for watching Lorde and I like it # Lolla",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2940,
+            "id": 2940,
+            "text": "Well that ' s a cool trick ! RT @ GettySport : A sea of color from Day 6 of the Four Hills # SkiJumping in Austria .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3795,
+            "id": 3795,
+            "text": "Captivating fashion photography by Karen Collins",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2301,
+            "id": 2301,
+            "text": "RT @ mattcawby : Air China 747 - 8i B - 2481 departing Paine Field on a short VFR flight",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3139,
+            "id": 3139,
+            "text": "RT @ kyungsoo stan : Expectation : EXO teaser photos Reality : Chanbaek teaser photos",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 449,
+            "id": 449,
+            "text": "Congratulations for a successful concert , Queen Mother ! \ud83d\udc51 @ Estrada21Karla # QueenMotherKarlaInConcert",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 871,
+            "id": 871,
+            "text": "Emma Watson . Perfection per usual . Classy and fabulous . # MetGala",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1106,
+            "id": 1106,
+            "text": "@ JustinVerlander She finally said yes ? ! Nice lil baseball ring \ud83d\ude0e \ud83d\udc4d \ud83c\udffb",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2107,
+            "id": 2107,
+            "text": "RT @ seventeenmag : Ariana Grande slips in dog pee , breaks 3 toes",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3308,
+            "id": 3308,
+            "text": "# Botswana capitalized on resource extraction with genuine savings # businesshumanitarianforum",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2707,
+            "id": 2707,
+            "text": "1968 Olympics Black Power salute Regenboog # Rainbow . . . . Verschil ? # dtv # Olympics2014 # IOC",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2228,
+            "id": 2228,
+            "text": "RT @ SportsCenter : Have a 3rd quarter , Klay Thompson . Thompson scores 37 of the Warriors 41 points in the 3rd quarter .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3413,
+            "id": 3413,
+            "text": "At Lowlands in a camouflage vest and sequin shorts the size of underpants . Oh well . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 539,
+            "id": 539,
+            "text": "19 days till Bulgaria , 53 days until Ibiza and 67 days until Reading Festival \ud83d\ude0d \ud83c\udf1e \u2708 \ufe0f",
+            "label": "Positive"
+        },
+        {
+            "image_id": 94,
+            "id": 94,
+            "text": "Kendrick Lamar celebrates Jay - Z , 2 Chainz and Nipsey Hussle : \" RAP RUN IT 4 EVER ! \u201d",
+            "label": "Positive"
+        },
+        {
+            "image_id": 439,
+            "id": 439,
+            "text": "You were NOT supposed to see Christina Aguilera ' s duet with Whitney Houston ' s hologram :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3252,
+            "id": 3252,
+            "text": "# GMO lifts poor farmers from poverty , saves lives @ mark lynas @ NYTimes",
+            "label": "Positive"
+        },
+        {
+            "image_id": 765,
+            "id": 765,
+            "text": "Oh I am just so excited ! # LondonBurlesqueFestival",
+            "label": "Positive"
+        },
+        {
+            "image_id": 789,
+            "id": 789,
+            "text": "Pele on Messi : I am \u201c the king \u201d of football and he is \u201c the prince \u201d of football",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3608,
+            "id": 3608,
+            "text": "RT This great # typographic video was crated by Londoner , Johnson Banks : -",
+            "label": "Positive"
+        },
+        {
+            "image_id": 420,
+            "id": 420,
+            "text": "Relay for Life is happening THIS Saturday at the JoCo football field . Join us from 4 pm - 10 pm",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 571,
+            "id": 571,
+            "text": "Justin Trudeau at pride today makes me wish we had a president .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3783,
+            "id": 3783,
+            "text": "# ThursdayPOPUP w Edwin Chanas of @ Hearsaylounge is back for an encore ! ! ! Doors open at 9pm https : t . co z0yjgPnX8D",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3330,
+            "id": 3330,
+            "text": "RT @ SportsTalkwBo : Love that Martrell Spaight showed up at post game presser in uniform . Wants to keep his jersey .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2878,
+            "id": 2878,
+            "text": "RT @ TheGiantWaffle : Some rare colored Twitch hoodies . lt #",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3659,
+            "id": 3659,
+            "text": "RT @ dutchdesignww : Marielle Lagers of Desk South China answers from the audience # ddw12 # dutchdfa",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2392,
+            "id": 2392,
+            "text": "RT @ verge : Disney theme park employees will start searching bags for selfie sticks",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1954,
+            "id": 1954,
+            "text": "RT @ kissmemyfan : PIC # Wuyifan - Challenger Union Cr . Sina Ent . ( 1 )",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3278,
+            "id": 3278,
+            "text": "RT @ barcastuff : Picture : Luis Enrique thrown in the air by players",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3623,
+            "id": 3623,
+            "text": "RT @ HistoryInPics : Nagasaki , 20 minutes after the atomic bombing in 1945",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4,
+            "id": 4,
+            "text": "Stephen Curry wife rejected him first time he went for a kiss # nba",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1765,
+            "id": 1765,
+            "text": "NYC : this Wed nite 7 . 23 - spinning an all - James Brown set before this free film screening at St . Nicholas Park .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3543,
+            "id": 3543,
+            "text": "After his trip to Argentina , my friend @ TobiasDeGraaf launched @ GetaMOXHI Bags , handcrafted in El Palomar :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3880,
+            "id": 3880,
+            "text": "Make sure to check out # TheSpoils with Jesse Eisenberg ! It officially opens tonight @ TheNewGroupNYC",
+            "label": "Positive"
+        },
+        {
+            "image_id": 858,
+            "id": 858,
+            "text": "Donald Trump \u2019 s fast food hankerin \u2019 revives a nostalgic Ronald Reagan photo \u2013 who remembers \u2026",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1316,
+            "id": 1316,
+            "text": "Kendrick Lamar ' s stunning new video for \" ELEMENT . \" is here",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1690,
+            "id": 1690,
+            "text": "Results from @ IronTrac for Christine Allen @ # Ironman # Raleigh 70 . 3 2014",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1775,
+            "id": 1775,
+            "text": "RT @ l elwood : Graham Pullen shares the importance of partnerships at # OTEW2014 # tl",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3827,
+            "id": 3827,
+            "text": "RT @ oddestfacts : KFC sells chicken wrist corsages for prom .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 652,
+            "id": 652,
+            "text": "As Lionel Messi turns 30, # HappyBirthday to one of the best footballers in history .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3010,
+            "id": 3010,
+            "text": "Our amazing # elcoutreach team went out to South Dallas to feed the homeless today ! THANK YOU FOR SERVING !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2018,
+            "id": 2018,
+            "text": "Uproar in front of Confederation of Progressive Trade Unions",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4364,
+            "id": 4364,
+            "text": "@ hbalm Would watch you anywhere , but Meerkat works in portrait mode . This is what we saw . Still enjoyed it .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3453,
+            "id": 3453,
+            "text": "RT @ Oval station : Friday 12th June Thought Of The Day From Oval Station By Sir Christopher Lee 1922 - 2015 RIP",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1145,
+            "id": 1145,
+            "text": "Plano at State 7 on7 football tourn - - talk about trying to meet stretch goals !",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1942,
+            "id": 1942,
+            "text": "RT @ HandLUpdates : Larry last night were happy af",
+            "label": "Positive"
+        },
+        {
+            "image_id": 855,
+            "id": 855,
+            "text": "A look at how Donald Trump plays the tax game",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3237,
+            "id": 3237,
+            "text": "RT @ TCEuk : How the war in Syria finds its roots in climate change",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3744,
+            "id": 3744,
+            "text": "Amazing start to the day today at Passo Dello Stelvio , Italy . # skiing",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3582,
+            "id": 3582,
+            "text": "RT @ VansPorns : Daisy",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 383,
+            "id": 383,
+            "text": "Local soccer standout Akil Watts still on the move . The move up -",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3705,
+            "id": 3705,
+            "text": "RT @ PelaBoleichon : 50 Shades Of Grey JAJAJAJAJA LOL",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3344,
+            "id": 3344,
+            "text": "RT @ 90sfootball : Gheorghe Hagi playing for both Real Madrid and Barcelona in the 90s .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4618,
+            "id": 4618,
+            "text": "RT @ AnakNonton : # SeputarFilm Bruno Mars is Roberto in RIO 2 movie ! Coming soon !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3789,
+            "id": 3789,
+            "text": "RT @ StarTribune : Paddlers : Organizers seek people for every mile of MN River on Saturday .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4019,
+            "id": 4019,
+            "text": "The City of Cape Town at night . . . Photo by Regardt Stander . # Travel # BeautifulPlaces",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3737,
+            "id": 3737,
+            "text": "Space Shuttle spotted over the Lincoln Memorial at 10 : 07 AM # spottheshuttle",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 995,
+            "id": 995,
+            "text": "Shadow Puppet at the Livermore Valley Craft Beer Festival . Great event for a good cause .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4622,
+            "id": 4622,
+            "text": "RT @ HuffPostPol : Most Americans supported sending Kim Davis to jail",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2015,
+            "id": 2015,
+            "text": "Introducing Boston Mayor Martin Joseph Walsh . # bosmayor # bospoli",
+            "label": "Ne画tral"
+        },
+        {
+            "image_id": 3291,
+            "id": 3291,
+            "text": "NEW : # Lego Televisions and # Retro Creations by Chris McVeigh",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3658,
+            "id": 3658,
+            "text": "Followers to RETWEET can win the brand new # MLB Ballpark Pass - Port !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 313,
+            "id": 313,
+            "text": "New episode out with @ robynbaldwin where we talk about a variety of topics including growi \u2026",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3268,
+            "id": 3268,
+            "text": "The # Spartans are on the court for open practice in Indianapolis . My stories from # FinalFour on @ FOX2News at 5 amp 6",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3863,
+            "id": 3863,
+            "text": "RT @ ABCFpll : Who locked Emily and Spencer in the stAbles ? # PLL",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4508,
+            "id": 4508,
+            "text": "RT @ Newsroompostcom : HAL hands over BrahMos missile integrated Su - 30 to IAF",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 206,
+            "id": 206,
+            "text": "Arsenal v Barcelona : Live stream Champions League football online with BT Sport # Btsport \u2026",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3618,
+            "id": 3618,
+            "text": "RT @ coomerchron : # Astros starter Mike Fiers pitches the first # no - hitter in # MinuteMaidPark history .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3407,
+            "id": 3407,
+            "text": "@ PierceTheFresno # Darah Dan and Sarah : D",
+            "label": "Positive"
+        },
+        {
+            "image_id": 985,
+            "id": 985,
+            "text": "add me on sc to see my b . a . p concert last night \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a - marycherryk",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1140,
+            "id": 1140,
+            "text": "Stars arrive for closing ceremony of 2016 Cannes film festival",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3539,
+            "id": 3539,
+            "text": "RT @ taylorcaniff : Taylor is on his meds xD He is going into surgery . Loves you guys !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3162,
+            "id": 3162,
+            "text": "RT @ barcastuff : Holiday pics : Bartra in wall at youth football camp in Andorra by @ perepunti",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1097,
+            "id": 1097,
+            "text": "From Norway the incredible ( and crazy ) beers of @ HaandBryggeriet ! Taste them at # ArrogantSourFestival # SourLove",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4393,
+            "id": 4393,
+            "text": "RT @ EarthPics HD : Silver Falls , Oregon",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1056,
+            "id": 1056,
+            "text": "Rio Ferdinand has revealed the best striker he ever played against . .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3094,
+            "id": 3094,
+            "text": "Probably the most awesome pic ever . RT @ IanMcKellen : Skeeball ! At Coney Island .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1781,
+            "id": 1781,
+            "text": "Kirk Hinrich gets the gameplan : more pictures # Bulls",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3690,
+            "id": 3690,
+            "text": "Head to Mexico for # CincoDeMayo 2016 for free ! Check out our Mexican home exchanges",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4073,
+            "id": 4073,
+            "text": "RT @ Jehwauhn : Joe I wish a motherfucker would Biden in the back wishing a motherfucker would .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 2455,
+            "id": 2455,
+            "text": "RT @ SeanAsheMusic : For real this guitar is the bees knees . Tom Anderson Guitars are truly unparalleled",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1839,
+            "id": 1839,
+            "text": "@ JimFlaherty : It has been an honour to serve Canada . Thank you for the opportunity . ur services r truly appreciated",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1972,
+            "id": 1972,
+            "text": "RT @ SandroSca : Hey Mancini ! Look at me Mancini ! !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1990,
+            "id": 1990,
+            "text": "One of our favourite videos this season . Wesley Sneijder leading his own Galatasaray chant .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4093,
+            "id": 4093,
+            "text": "# TBLightning Garrison throws # Blackhawks Shaw to the ice in the 1st . Blog :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3496,
+            "id": 3496,
+            "text": "Pedro , shellacked , and ready to be sent off to Cooperstown .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2752,
+            "id": 2752,
+            "text": "RT @ SoSoGay : Sam will interview no matter how much you protest",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1674,
+            "id": 1674,
+            "text": "RT @ MySportsLegion : LeBron James is already wearing a Johnny Football Browns jersey . ( via @ WFNYScott )",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2309,
+            "id": 2309,
+            "text": "Onlookers all the way to platform across the street on Shanghai st . # OccupyHK",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 965,
+            "id": 965,
+            "text": "Rose Byrne , Seth Rogen | Celebrity Sightings in New York City - May 18, 2016",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 971,
+            "id": 971,
+            "text": "Jeremy Corbyn ' s cat El Gato just threw some glorious shade at David Cameron . Yes , really",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4282,
+            "id": 4282,
+            "text": "In here watching an instant classic . . . . St . Vincent St . Mary vs . North Central",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4236,
+            "id": 4236,
+            "text": "RT @ TSBible : David Moyes and Van Gaal !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 498,
+            "id": 498,
+            "text": "Lauryn Hill apologizes for showing up late to concert , will . . .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2874,
+            "id": 2874,
+            "text": "Wendy Davis vs Greg Abbott",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1779,
+            "id": 1779,
+            "text": "Man Made Frozen Waterfall from Hot Water Tap Left on all Winter # Crazy # Bizarre # China",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3432,
+            "id": 3432,
+            "text": "RT @ NITV : College rugby union celebrates Indigenous round",
+            "label": "Positive"
+        },
+        {
+            "image_id": 4613,
+            "id": 4613,
+            "text": "RT @ 13NewsNow : Walmart to Test Unlimited Shipping for 50 a Year",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 735,
+            "id": 735,
+            "text": "Zayn and Justin Timberlake are currently the only male artists to debut at # 1 on the Hot 100 this year !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3679,
+            "id": 3679,
+            "text": "Nothing will work unless you do . Maya Angelou .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 407,
+            "id": 407,
+            "text": "ChanBaek looking each other when Chanyeol holding pad . IRONIC .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1147,
+            "id": 1147,
+            "text": "They said Justin Timberlake is \" Becky \" \ud83d\ude2d \ud83d\ude02 I ' m in tears .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1688,
+            "id": 1688,
+            "text": "@ Louis Garneau Join I Am Able : a handicap cycling team that originated in Rwanda .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3742,
+            "id": 3742,
+            "text": "RT @ KimJonginBrazil : # DL PIC 30 . 04 . 15 EXO - EXO x MCM BIONIC SERIES 61P https : t . co 90KDQQs9UE",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 661,
+            "id": 661,
+            "text": "Jennie Finch will become the first woman to manage a men ' s pro baseball team",
+            "label": "Positive"
+        },
+        {
+            "image_id": 351,
+            "id": 351,
+            "text": " salinefootball GOLF OUTING - 9 : 00 AM TOMORROW ! ! Sign up today : @ HornetFBClub @ wils # sfbTOUGH # 2017 SFBGO",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1759,
+            "id": 1759,
+            "text": "RT @ WillHillBet : The Barcelona fans gave Xavi a nice send off . # 6raciesXavi # LaLiga",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1551,
+            "id": 1551,
+            "text": "18 days til I see my love in concert \ud83d\udc97 @ ShawnMendes",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2903,
+            "id": 2903,
+            "text": "Over a million died of starvation in the Irish Great Famine 1845 - 9 . Prisons were barometers of desperation as here",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4302,
+            "id": 4302,
+            "text": "RT @ TheEconomist : Commercial property prices in Britain are 37 below their 2007 peak",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3187,
+            "id": 3187,
+            "text": "Famed conservationist Jane Goodall delivered an inspiring message of hope to overflow crowd in # kamloops last night .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 427,
+            "id": 427,
+            "text": "1 year old today , happy birthday to my little homie Jordan - Shane Nhlane \ud83c\udf89 \ud83c\udf89 \ud83c\udf89 maybe he ' ll enter Cantare tonight ? \ud83c\udf7e \ud83c\udf7e \ud83c\udf7e \u2764 \ufe0f",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 874,
+            "id": 874,
+            "text": "The house that Donald Trump couldn \u2019 t buy , New Jersey , 1991",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2915,
+            "id": 2915,
+            "text": "McGuire talks with family after testifying at his trial",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1057,
+            "id": 1057,
+            "text": "Hugh Jackman will stop being Wolverine soon . It ' s okay though , we have a new favorite X - Men",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3102,
+            "id": 3102,
+            "text": "RT @ latimesphotos : How @ rdaphoto63 shot Al Pacino Includes lighting diagram .",
+            "label": "Negative"
+        },
+        {
+            "image_id": 43,
+            "id": 43,
+            "text": "Queen Victoria was born # OTD in 1819 . She planted a tree at Waddesdon in May 1890 captured in this illustration .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4108,
+            "id": 4108,
+            "text": "RT @ wemssecnirp : Now I really am like Cleopatra # hypnotizing # findom # goddess",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3353,
+            "id": 3353,
+            "text": "Severe t - storm warning in effect for Morris and Somerset Counties through 4pm . 60 mph gusts possible . @ PIX11News",
+            "label": "Negative"
+        },
+        {
+            "image_id": 4503,
+            "id": 4503,
+            "text": "A3 : My beautiful , Bob Marley is resting up for tomorrows ride : # bikeschool",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1535,
+            "id": 1535,
+            "text": "Kevin Love ' s 19 Pts are the most he ' s scored in any half of his playoff career .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3905,
+            "id": 3905,
+            "text": "See how many people are benefitting from this new water project in # Kenya :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3129,
+            "id": 3129,
+            "text": "Matt and his wife . Wth lol nvm its halloween",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1858,
+            "id": 1858,
+            "text": "This lady is rocking the red AND her tenth tony nomination . Tune in now for Chita ! # NY1Tonys",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2865,
+            "id": 2865,
+            "text": "The rights of man come not from the generosity of the state but from the hand of God . - - John F . Kennedy",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2233,
+            "id": 2233,
+            "text": "RT @ SlyDude3677 : Elizabeth Warren on the Supreme Court . . . . . # uniteblue # tcot # scotus # warren",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2938,
+            "id": 2938,
+            "text": "In honor of # EMS week , Henry Ford West Bloomfield Hospital president @ lmtoros amp the ER Team visited local firehouses .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3414,
+            "id": 3414,
+            "text": "RT @ RodneyTIT : Uncle Albert would of been proud of this veteran ! # TopGrandad",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1489,
+            "id": 1489,
+            "text": "Why people were sending Donald Trump their pee :",
+            "label": "Negative"
+        },
+        {
+            "image_id": 3639,
+            "id": 3639,
+            "text": "RT @ JacketTV : Mr Tuff presented by Wynne Fumble Club - Austin Brock",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2890,
+            "id": 2890,
+            "text": "Talise Ottoman Spa - Jumeirah Zabeel Saray via @ olielo travels",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3401,
+            "id": 3401,
+            "text": "RT @ CBCNews : Mastodons disappeared from Yukon before humans arrived : study",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 6,
+            "id": 6,
+            "text": "Join the Island Xscape team in May 2016 at the St Lucian Jazz Festival !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 85,
+            "id": 85,
+            "text": "\ud83d\udcf0 | \" Smoke This , Play That Vol . 1 : Rich Homie Quan , H . E . R . , and Harry Styles \" \u2013 Leafly",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4607,
+            "id": 4607,
+            "text": "A fire has reportedly broken out at a prison in Florence . -",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2011,
+            "id": 2011,
+            "text": "RT @ wcp : Bardo is raising money for a beer garden and dog park next to Nationals Park :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 1305,
+            "id": 1305,
+            "text": "You may not be able to play @ HRPattaya ' s poolside guitar , but you can practice your cannonballs .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 690,
+            "id": 690,
+            "text": "NEW @ chancetherapper ' No Problem ' ft . Lil Wayne and 2 Chainz officially released .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 925,
+            "id": 925,
+            "text": "J . Cole ' s the highest paid rapper of 2015",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1304,
+            "id": 1304,
+            "text": "On our last stretch before the UEFA Champions League Final Ceremony on Saturday ! Very exciting ! @ UefaChampionsLi",
+            "label": "Positive"
+        },
+        {
+            "image_id": 3027,
+            "id": 3027,
+            "text": "RT @ I LOVE NY : On this day in 1885 , the Statue of Liberty arrived in New York Harbor . # LoveNYHistory",
+            "label": "Positive"
+        },
+        {
+            "image_id": 485,
+            "id": 485,
+            "text": "# ChrisBrown # Actor Chris Brown , Trey Songz , Tyga 2015 Concert Tour T - Shirt",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 290,
+            "id": 290,
+            "text": "Kevin Durant asked about Billy Donovan earning the players respect . I loved his answer !",
+            "label": "Positive"
+        },
+        {
+            "image_id": 516,
+            "id": 516,
+            "text": "Harry Styles and his Mercedes Benz convertible 1966 is visual therapy",
+            "label": "Positive"
+        },
+        {
+            "image_id": 2199,
+            "id": 2199,
+            "text": "RT @ VICE : This woman led the Latin Kings and lived # OITNB in real life :",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4500,
+            "id": 4500,
+            "text": "Head pull show down at Lathrop # awg2014 # arcticsports",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3284,
+            "id": 3284,
+            "text": "RT @ chanelpuke : Amber Rose and I have the same outfit",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 58,
+            "id": 58,
+            "text": "Apparently , Lady Gaga is on the cover of a can of beer .",
+            "label": "Positive"
+        },
+        {
+            "image_id": 1453,
+            "id": 1453,
+            "text": "How Barack Obama \u2019 s Foreign Policy De - Stabilized the World",
+            "label": "Negative"
+        },
+        {
+            "image_id": 1622,
+            "id": 1622,
+            "text": "# Beauty # Fashion JENNIFER LAWRENCE 1 new rare # Photo 8 x10 picture # 622",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 2310,
+            "id": 2310,
+            "text": "@ KipchumbaAtanas Read the KANU marketers .",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 236,
+            "id": 236,
+            "text": "We ' ve got all the key head - to - head stats for this weekend ' s @ premierleague fixtures -",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 3391,
+            "id": 3391,
+            "text": "Heading north and west tomorrow ? Showers are possible in the Poconos for Saturday . @ PIX11News",
+            "label": "Neutral"
+        },
+        {
+            "image_id": 4092,
+            "id": 4092,
+            "text": "MCSO seeks suspect accused of attacking woman , 71 , in Guadalupe . Can you help identify him ?",
+            "label": "Neutral"
+        }
+    ]
+}

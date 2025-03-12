@@ -144,6 +144,7 @@ class RicesSampler:
         support_set,
         num_shots=3,
         cached_features_path=None,
+        cached_sd_features_path=None,
         device="cuda",
         keys=None,
         return_similarity=False,
@@ -184,22 +185,26 @@ class RicesSampler:
                 torch.save(self.features, cached_features_path)
         else:
             self.features = cached_features
-
+        
+        self.sd_features = (
+            torch.load(cached_sd_features_path)
+        )
         self.return_similarity = return_similarity
         self.reduce = reduce
         self.reverse = reverse
+
 
     def _compute_features(self, batch):
         f = defaultdict(list)
         for key in self.keys:
             data = batch[key]
 
-            if isinstance(data[0], str):
+            if isinstance(data[0], str):  #is text
                 inputs = self.processor(
                     text=data, padding=True, return_tensors="pt", truncation=True
                 ).to(self.device)
                 features = self.model.get_text_features(**inputs)
-            else:
+            else: # is image
                 inputs = self.processor(images=data, return_tensors="pt").to(
                     self.device
                 )
@@ -244,7 +249,8 @@ class RicesSampler:
         """
         with torch.no_grad():
             query_feature = self._compute_features(batch)
-
+            query_sd_feature = batch["sd_feature"]
+            query_sd_feature = torch.tensor(query_sd_feature, dtype=torch.float32)
             similarity = {}
             for key in self.keys:
                 if query_feature[key].ndim == 1:
@@ -255,9 +261,12 @@ class RicesSampler:
                 if similarity[key].ndim == 1:
                     similarity[key] = similarity[key].unsqueeze(0)
 
+            sd_similarity = (query_sd_feature @ self.sd_features.T).squeeze()
+            # sd_similarity = sd_similarity #[2,1,768]
+            similarity['sd']= sd_similarity
             # similarity is average of all keys
             similarity = torch.stack(
-                [similarity[key] for key in self.keys]
+                [similarity[key] for key in self.keys+["sd"]]
             )  # .mean(dim=0)
             similarity = einops.reduce(
                 similarity, "keys batch set -> batch set", self.reduce

@@ -1,0 +1,2510 @@
+[
+    {
+        "query": {
+            "id": 157,
+            "text": "Not the Onion : \" Kim Jong - un to launch matchmaking contest to find his sister a husband \"",
+            "image": "0157.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7686904668807983
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 114,
+            "text": "One hour ( Portugal time ) till dBs Filmmaker ' s Corner at @ FESTFestival !",
+            "image": "0114.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.804887056350708
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2153,
+            "text": "3 ways to leverage the EMC Federation Enterprise # HybridCloud to modernize apps : # EMCWORLD",
+            "image": "2153.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3076.jpg"
+            ],
+            "texts": [
+                "FIFA introduces new technology to speed things up"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.6990301012992859
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2243,
+            "text": "RT @ EAMaddenNFL : GRONK SPIKE # INDvsNE",
+            "image": "2243.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2215.jpg"
+            ],
+            "texts": [
+                "RT @ uoklasports : 17 Days Until Jukes # CountdowntoKickoff"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.657299280166626
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4495,
+            "text": "You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .",
+            "image": "4495.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7236067056655884
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 842,
+            "text": "Donald Trump knows what he ' d do in his first 100 days as president if he wins",
+            "image": "0842.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8947139382362366
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2797,
+            "text": "RT @ Sergio Bucks : Kendrick Perkins de vacaciones con Mike Miller de butaca :",
+            "image": "2797.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4131.jpg"
+            ],
+            "texts": [
+                "RT @ myfox8 : Charlotte @ hornets visit # Greensboro for D - League meeting"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.6618167757987976
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 736,
+            "text": "HE IS SO FUCKING CUTE HE HAS A ONE DIRECTION POSTER",
+            "image": "0736.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7305220365524292
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1565,
+            "text": "Collaboration in the community makes all festivals a little better . We love @ BoiseFilmFest !",
+            "image": "1565.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7777557373046875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4590,
+            "text": "Forbes Magazine Real insights from the business world . # MarketingMonday # Advertising",
+            "image": "4590.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2405.jpg"
+            ],
+            "texts": [
+                "COME SI SELEZIONA UN FONDO DI INVESTIMENTO . . . . ."
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.8098865747451782
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4574,
+            "text": "RT @ CNET : T - Mobile to pay 17 . 5 million fine for 911 service outages",
+            "image": "4574.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "3727.jpg"
+            ],
+            "texts": [
+                "RT @ engadget : Dell and Intel want you to create monsters for their next film"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.6895811557769775
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4369,
+            "text": "Writing makes us crazy not # writing even crazier . Marcia Preston # amwriting",
+            "image": "4369.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3990.jpg"
+            ],
+            "texts": [
+                "Life is either a daring adventure , or nothing . Helen Keller # amwriting # writing"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.8136669397354126
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 975,
+            "text": "John Michael Talbot returns to Sioux City for benefit concert",
+            "image": "0975.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.6820421814918518
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2564,
+            "text": "@ elcinterns are serving the Dallas Dream Center to help people in need get coats for winter ! # yourdivinefingerprint",
+            "image": "2564.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6724412441253662
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 330,
+            "text": "Tonight was incredible ! # LCFCParade # havingaparty # LCFCChampions # WeAreLeicester",
+            "image": "0330.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0450.jpg"
+            ],
+            "texts": [
+                "LETS GOO Game 2 # NBAFinals # DubNation"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7165951132774353
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3645,
+            "text": "Welcome new # AfghanProverbs fans in # TAIWAN ! Now in 77 countries . More at # KhoshAmadeyn",
+            "image": "3645.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0035.jpg"
+            ],
+            "texts": [
+                "A teacher affects eternity ; he can never tell where his influence stops . Henry Adams # ThankATeacher this week ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6834346055984497
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4207,
+            "text": "RT @ Ou Prg : Lovely Monday , hope you slept good and ready for new workweek xoxo Caras Ionut I like it",
+            "image": "4207.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2700.jpg"
+            ],
+            "texts": [
+                "Another stunning year in photos from @ petesouza and the White House photo team"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.5600889921188354
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 807,
+            "text": "Chelsea paid \u00a3 150.8 m by Premier League after winning 2016 - 17 title",
+            "image": "0807.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1195.jpg"
+            ],
+            "texts": [
+                "Middlesbrough promoted to the Premier League as it happened"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8197362422943115
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3519,
+            "text": "A recap of the newly enhanced Federation End User Computing Solution , announced at # VMworld",
+            "image": "3519.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3076.jpg"
+            ],
+            "texts": [
+                "FIFA introduces new technology to speed things up"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7718000411987305
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2660,
+            "text": "RT @ iBiebTeam : When Pattie listens to # PYD",
+            "image": "2660.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7845229506492615
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 629,
+            "text": "DKB to host the 6 th Edition of Ghana Meets Naija Concert come this Saturday",
+            "image": "0629.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0740.jpg"
+            ],
+            "texts": [
+                "Akdong Musician wants to pair up with this Infinity Challenge member for its music festival \u2026"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6396941542625427
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 999,
+            "text": "JUSTIN TRUDEAU NEEDS TO BE PROTECTED AT ALL COSTS # Pride2017",
+            "image": "0999.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7621201872825623
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4126,
+            "text": "RT @ jmsclee : And when Alexander saw the breadth of his domain , he wept , for there were no more worlds to conquer",
+            "image": "4126.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.861456036567688
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2603,
+            "text": "RT @ KelenKeller38 : You can buy this newborn on iTunes",
+            "image": "2603.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3600.jpg"
+            ],
+            "texts": [
+                "RT @ KevinMaddenDC : Al Czervik for President"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7798066139221191
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2961,
+            "text": "Perot museum adventure",
+            "image": "2961.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7575865387916565
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 305,
+            "text": "Close quarters concert tonight in San Francisco . Baroque , Americana and American composers .",
+            "image": "0305.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0446.jpg"
+            ],
+            "texts": [
+                "Salute to Hillary . . thanks Michelle Obama . . w / different origins / race . color . creed . . . legacy lives"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7538676261901855
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4541,
+            "text": "RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !",
+            "image": "4541.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3727.jpg"
+            ],
+            "texts": [
+                "RT @ engadget : Dell and Intel want you to create monsters for their next film"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.6765590906143188
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 758,
+            "text": "I ' m done with NBA refs man every time I see a update about how they missed a call . I ' m like where ya ass was at ?",
+            "image": "0758.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0566.jpg"
+            ],
+            "texts": [
+                "@ NHL @ penguins why won ' t you just call penalties when it 's a penalty and disregard situations"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.844009280204773
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 545,
+            "text": "Stuck in the city this summer ? Check out our guide to the finest festivals in London town . . .",
+            "image": "0545.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7982099056243896
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1602,
+            "text": "When ur teacher says \" One Direction \" in class ! !",
+            "image": "1602.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0705.jpg"
+            ],
+            "texts": [
+                "look at all my incredible friends i ' ve made through one direction , i love and i ' m missing you all \ud83d\udc95"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.827700138092041
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 161,
+            "text": "Baylor University Ousts Football Coach . . .",
+            "image": "0161.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8182376623153687
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 746,
+            "text": "CONCERT DAY STOP NUMBER TWO : THE THURMAN CAFE ft @ Awsomtisity",
+            "image": "0746.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7031828761100769
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 597,
+            "text": "West Virginia ' s baseball unis today are WOAT candidates . Dear Lord those are horrible .",
+            "image": "0597.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1641.jpg"
+            ],
+            "texts": [
+                "Made it today ! ! @ RaysBaseball # rays # raysup"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7024639248847961
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2329,
+            "text": "RT @ dvmonique : PCB had me like . .",
+            "image": "2329.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1915.jpg"
+            ],
+            "texts": [
+                "RT @ dvmonique : people : Rihanna is ugly me : . . ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7775121927261353
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 118,
+            "text": "One Direction 2017 calendar . I already want it .",
+            "image": "0118.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0705.jpg"
+            ],
+            "texts": [
+                "look at all my incredible friends i ' ve made through one direction , i love and i ' m missing you all \ud83d\udc95"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7750177979469299
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2297,
+            "text": "gt lt gt The thief comes only to # steal and kill and # destroy . John 10 : 10a ESV",
+            "image": "2297.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0035.jpg"
+            ],
+            "texts": [
+                "A teacher affects eternity ; he can never tell where his influence stops . Henry Adams # ThankATeacher this week ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6861723065376282
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 445,
+            "text": "We are TRUMP ' s Social Media Army - - and we are dedicated to the election of Donald trump # DTmag",
+            "image": "0445.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.837809145450592
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 687,
+            "text": "Donald Trump Called Daryl Hannah \u201c A Six \u201d Who Needs A Bath During A 1993 Spat",
+            "image": "0687.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.695041298866272
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3974,
+            "text": "Intriguing abstract photography by Florian Mueller",
+            "image": "3974.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3266.jpg"
+            ],
+            "texts": [
+                "No eyes that have seen beauty ever lose their sight - Jean Toomer @ Lauren White88 :"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7398163080215454
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 209,
+            "text": "It ' s all a conspiracy folks created by the NHL and aliens .",
+            "image": "0209.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0566.jpg"
+            ],
+            "texts": [
+                "@ NHL @ penguins why won ' t you just call penalties when it 's a penalty and disregard situations"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8614740371704102
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2641,
+            "text": "The starting point of all achievement is desire . - Napolean Hill . . .",
+            "image": "2641.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2719.jpg"
+            ],
+            "texts": [
+                "Don bought me this . My friends are always supportive with my goals ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8570667505264282
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1201,
+            "text": "Sonu Nigam To Undergo Surgery ; Cancels Concerts . . .",
+            "image": "1201.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.6965978145599365
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2581,
+            "text": "RT @ Piter Kustura : @ lisskin17 : Free Nadya Savchenko # FreeSavchenko",
+            "image": "2581.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4026.jpg"
+            ],
+            "texts": [
+                "RT @ Russian Starr : Happy Independence Day from New York City , # Ukraine ! We are all Ukrainians !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7482455372810364
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1035,
+            "text": "Tim Donaghy claims the NBA is fixing the 2017 NBA Finals",
+            "image": "1035.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0049.jpg"
+            ],
+            "texts": [
+                "2017 NBA Draft Decisions : Analyzing the Washington Wizards"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7854257822036743
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 285,
+            "text": "Would a new fifth football league see Celtic and \u2026",
+            "image": "0285.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8593274354934692
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3069,
+            "text": "Get down to the Giles statue to donate ! Every penny helps .",
+            "image": "3069.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7867252230644226
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 524,
+            "text": "Silver Beginner Band getting ready for their concert tomorrow !",
+            "image": "0524.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7834244966506958
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4181,
+            "text": "RT @ iamlxgend : the Kardashians before they discovered plastic surgery . . .",
+            "image": "4181.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2605.jpg"
+            ],
+            "texts": [
+                "RT @ WORLDSTARC0MEDY : Jaden Christ and Willow Einstein too advanced for us"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8184530138969421
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1477,
+            "text": "Chris Paul and James Harden blaming each other after they lose in the second round",
+            "image": "1477.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7806183099746704
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1386,
+            "text": "Day 1 boys . Let ' s get it ! ! ! # AENG @ MCBoysSoccer765",
+            "image": "1386.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0742.jpg"
+            ],
+            "texts": [
+                "Summer football # MustangFootball # our coach is better than your coach"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8124794960021973
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1827,
+            "text": "RT @ MovieRelateable : Django Unchained",
+            "image": "1827.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2866.jpg"
+            ],
+            "texts": [
+                "RT @ SadHappyAmazing : Jimi Hendrix ."
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.774422824382782
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4370,
+            "text": "RT @ MNCleanEnergy : @ GeronimoEnergy : We are very concerned that this bill may impact our projects in MN # mnleg",
+            "image": "4370.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3159.jpg"
+            ],
+            "texts": [
+                "RT @ Zelenaakcija : . @ Credit Agricole is locking # Croatia into 40 more years of fossil fuels # StopPlominC # PlominC"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.6995577812194824
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2324,
+            "text": "Yolo # Michigan",
+            "image": "2324.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8645114898681641
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1249,
+            "text": "At work in Bermuda ! # bbcfootball maybe to the pub for the second half ?",
+            "image": "1249.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2095.jpg"
+            ],
+            "texts": [
+                "WIN a trip to Mauritius including pamper vouchers ! Enter here gt gt"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6956268548965454
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3580,
+            "text": "RT @ thefletcher24 : The shame of being a bitey crying racist creature forces Suarez to hide .",
+            "image": "3580.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2593.jpg"
+            ],
+            "texts": [
+                "RT @ MCFCFansCorner : Nice to see Dzeko already blending in !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8054969310760498
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1821,
+            "text": "RT @ btiflCINEMA : The Imitation Game ( 2014 ) Dir . Morten Tyldum",
+            "image": "1821.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2101.jpg"
+            ],
+            "texts": [
+                "RT @ FlLMOGRAPHY : Prozac Nation ( 2001 )"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7344061732292175
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3004,
+            "text": "RT @ DepressedDarth : Mexico fans right now # NEDvsMEX",
+            "image": "3004.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4663.jpg"
+            ],
+            "texts": [
+                "RT @ BmoreNigerian : Drake looking at his peers like"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.6817429065704346
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 528,
+            "text": "New VR project heads to Anne Frank ' s World War II hideaway",
+            "image": "0528.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7285624742507935
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1922,
+            "text": "@ BestOfNike : Norte Dame Roshes @ victoriuhhh15",
+            "image": "1922.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1516.jpg"
+            ],
+            "texts": [
+                "LCD Soundsystem Proved David Bowie Was One of Their ' Heroes ' . . ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.598850429058075
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3059,
+            "text": "RT @ business : China and Greece aside , global growth is actually accelerating",
+            "image": "3059.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7804093360900879
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2730,
+            "text": "Carolina is broken . # mcmillswedding",
+            "image": "2730.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8038172125816345
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 707,
+            "text": "TAYLOR LAUTNER STOP DOING THIS TO ME , this is too much for just a day , I need time to breath ok",
+            "image": "0707.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7901678085327148
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3109,
+            "text": "4 Hours till show time ! Houston Rodeo !",
+            "image": "3109.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.837289035320282
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 799,
+            "text": "The stars of the Serie A season",
+            "image": "0799.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2405.jpg"
+            ],
+            "texts": [
+                "COME SI SELEZIONA UN FONDO DI INVESTIMENTO . . . . ."
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.8426118493080139
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3654,
+            "text": "RT @ TBTimes Rays : # Rays have the Tommy Tutone Jenny lineup : 867 - 5309",
+            "image": "3654.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7695056796073914
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4220,
+            "text": "RT @ TomBradysEgo : Happy Friday the 13th ! What is scarier ? RT Playing for the Browns Fav Jason Voorhees",
+            "image": "4220.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3514.jpg"
+            ],
+            "texts": [
+                "RT @ Deadspin : Today we learned that Max Kellerman is not good at basketball :"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7627933621406555
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2458,
+            "text": "RT @ CSNCoop : # ThingsTimHowardCouldSave # Bartman",
+            "image": "2458.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3514.jpg"
+            ],
+            "texts": [
+                "RT @ Deadspin : Today we learned that Max Kellerman is not good at basketball :"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7200607657432556
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 177,
+            "text": "June 24, 2017 at 08 : 23 AM TechCrunch \" Banking the unbanked in emerging markets",
+            "image": "0177.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0049.jpg"
+            ],
+            "texts": [
+                "2017 NBA Draft Decisions : Analyzing the Washington Wizards"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7385703325271606
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 738,
+            "text": "premierleague : Jurgen Klopp makes 8 changes to the LFC side that drew with Newcastle , wit \u2026",
+            "image": "0738.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7139418721199036
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 546,
+            "text": "There ' ll be plenty to eat and drink around the # HanseFestival , including a hog roast",
+            "image": "0546.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1596.jpg"
+            ],
+            "texts": [
+                "Music , dance , food and fun for all this weekend at # Skokie Festival of Cultures !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7369154095649719
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 684,
+            "text": "# NHLPlayoffs # Sharks fever hits San Jose as team heads to Stanley Cup Final",
+            "image": "0684.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0180.jpg"
+            ],
+            "texts": [
+                "# MLB Kansas City # Royals game two summary - May 18"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.8059860467910767
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2344,
+            "text": "RT @ Stratfor : Read to learn how Greece uses Russia to strengthen its position . https : t . co 7UQeM4rEfq",
+            "image": "2344.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7288452386856079
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2526,
+            "text": "RT @ TransferSite : Jerome Boateng . . . The next victim !",
+            "image": "2526.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2605.jpg"
+            ],
+            "texts": [
+                "RT @ WORLDSTARC0MEDY : Jaden Christ and Willow Einstein too advanced for us"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7947074770927429
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 584,
+            "text": "Save the date ! Twilight Concert Series",
+            "image": "0584.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8055492043495178
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 794,
+            "text": "With the 5 th pick in the # nbadraft17 the Kings select De ' Aaron Fox .",
+            "image": "0794.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0049.jpg"
+            ],
+            "texts": [
+                "2017 NBA Draft Decisions : Analyzing the Washington Wizards"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7149248719215393
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 91,
+            "text": "Young Jessica Lange on the left , Young Lana Del Rey on the right . . . \u263a",
+            "image": "0091.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0503.jpg"
+            ],
+            "texts": [
+                "evan peters and jessica lange are the cutest angels in the world"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7481729984283447
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2393,
+            "text": "@ heatheradamo check out these guys from Philly ! # SJOR",
+            "image": "2393.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2514.jpg"
+            ],
+            "texts": [
+                "Pittsburgh 5 minutes ago"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.837415874004364
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 31,
+            "text": "Is NBA ' s trend toward analytics hurting some minority job candidates ? - The Boston Globe",
+            "image": "0031.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0049.jpg"
+            ],
+            "texts": [
+                "2017 NBA Draft Decisions : Analyzing the Washington Wizards"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7028532028198242
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 633,
+            "text": "June football signing period rejected by NCAA",
+            "image": "0633.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1353.jpg"
+            ],
+            "texts": [
+                "Glad this was shared by NFL ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8413805961608887
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1019,
+            "text": "Donald Trump got great weaves n ting . Love the retro look @ realDonaldTrump got # swagger # Election2016 # Brum",
+            "image": "1019.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0446.jpg"
+            ],
+            "texts": [
+                "Salute to Hillary . . thanks Michelle Obama . . w / different origins / race . color . creed . . . legacy lives"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7484308481216431
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3550,
+            "text": "RT @ noisywoman : @ davrosz @ SamAntixMusic This Peter Dutton ?",
+            "image": "3550.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1747.jpg"
+            ],
+            "texts": [
+                "William Hague"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8093607425689697
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1062,
+            "text": "Example is not the main thing in influencing others , it is the only thing . - Albert Schweitzer",
+            "image": "1062.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8473867177963257
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4043,
+            "text": "RT @ GeorgeTakei : For Boston , and for hope .",
+            "image": "4043.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3600.jpg"
+            ],
+            "texts": [
+                "RT @ KevinMaddenDC : Al Czervik for President"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7413849234580994
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 615,
+            "text": "Craziest NBA conspiracies theories ever concieved",
+            "image": "0615.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0624.jpg"
+            ],
+            "texts": [
+                "Happy birthday 5 th quarter ! ! ! ! Ur trash at basketball but have a good one \u2764 \u2764 \u2764 @ tsheets35"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8128261566162109
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2559,
+            "text": "RT @ Slate : We won ' t see a Pi Day like this for 100 years . Here ' s why today is so special : # PiDay",
+            "image": "2559.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0035.jpg"
+            ],
+            "texts": [
+                "A teacher affects eternity ; he can never tell where his influence stops . Henry Adams # ThankATeacher this week ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.722779393196106
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 897,
+            "text": "Gianluigi Buffon reveals three Premier League clubs that wanted him",
+            "image": "0897.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7634437084197998
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1625,
+            "text": "Russell Westbrook will not back down from the chance to prove he is the best .",
+            "image": "1625.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1662.jpg"
+            ],
+            "texts": [
+                "Seems we never get enough baseball . Rangers game tonight"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7995371222496033
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 676,
+            "text": "Boobs , bums and hippy crack : Glastonbury festival revellers party hard on Day 2",
+            "image": "0676.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0443.jpg"
+            ],
+            "texts": [
+                "@ amyatfamous will be at @ isleofwightfest again today ! Stay tuned ! ! # famousaaa # isleofwightfestival \ud83c\udf1e \ud83c\udfaa"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7141211628913879
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2487,
+            "text": "RT @ BuzzFeed : People in San Francisco waited in this crazy line for day - old NYC bagels",
+            "image": "2487.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3514.jpg"
+            ],
+            "texts": [
+                "RT @ Deadspin : Today we learned that Max Kellerman is not good at basketball :"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.6877635717391968
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 404,
+            "text": "If Taylor Swift graciously poses for a pic , keep your hands to yourself because you ' re a gentleman . # Respect",
+            "image": "0404.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.826831579208374
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 364,
+            "text": "In Surprise Concert , Drake Confirms He \u2019 ll Release More M . . .",
+            "image": "0364.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0401.jpg"
+            ],
+            "texts": [
+                "Jay Z got Barack Obama on a song , that ' s next level flexing ! ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8433581590652466
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4005,
+            "text": "RT @ Independent : Someone recreated Friends in The Sims 4 and did a damn fine job",
+            "image": "4005.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4235.jpg"
+            ],
+            "texts": [
+                "RT @ Independent : The chilling truth of what it means to be gay under Isis"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.6930809617042542
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2701,
+            "text": "Baby Spike is awake ! ! !",
+            "image": "2701.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4066.jpg"
+            ],
+            "texts": [
+                "New Tom Huck at the crib"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7934381365776062
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1306,
+            "text": "Hearing from the guys from the US , the NFL , the NBA and the NHL about player development",
+            "image": "1306.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1353.jpg"
+            ],
+            "texts": [
+                "Glad this was shared by NFL ."
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8285385370254517
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 216,
+            "text": "I ' d like to Congratulation our new President , Donald Trump and Vice President Macaulay Culkin",
+            "image": "0216.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7783385515213013
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 232,
+            "text": "RT if you would fuck the shit out of Emma Stone .",
+            "image": "0232.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2405.jpg"
+            ],
+            "texts": [
+                "COME SI SELEZIONA UN FONDO DI INVESTIMENTO . . . . ."
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7687346935272217
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2040,
+            "text": "RT @ stackee : The moment you hear George Galloway may not hold his seat AND Nigel Farage unlikely to win # GE2015",
+            "image": "2040.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.773186206817627
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 182,
+            "text": "Cause of A . i I have the love for basketball that I do today . He was the realest on and off the court . PRACTICE !",
+            "image": "0182.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1187.jpg"
+            ],
+            "texts": [
+                "Kyrie ? Kevin Love ? JR Smith ? ? I have no clue who those guys are . . I ' m a one man team dawg"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8050845265388489
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 509,
+            "text": "everyone got nice quality , up close , artsy pictures from the tyler concert and all i got was this 1 of jasper",
+            "image": "0509.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0580.jpg"
+            ],
+            "texts": [
+                "Justin Bieber broke history and global records from left and right but he only won 2 awards"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7526861429214478
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1165,
+            "text": "Here \u2019 s how much Taylor Swift singing a Jimmy Eat World song helped the band",
+            "image": "1165.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1536.jpg"
+            ],
+            "texts": [
+                "Can someone please shoot a horror movie here ? Or like a Harry Potter spinoff ?"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.777182936668396
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 560,
+            "text": "PREP BASEBALL : Eagles end regular season with loss",
+            "image": "0560.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.7819766402244568
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2622,
+            "text": "RT @ PatrickMcGee : London , quite the outlier for baby names .",
+            "image": "2622.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8066304326057434
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 941,
+            "text": "RHS Dance Concert was amazing ilyguys so much and don ' t want it to end \ud83d\udc9c one more year left !",
+            "image": "0941.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0705.jpg"
+            ],
+            "texts": [
+                "look at all my incredible friends i ' ve made through one direction , i love and i ' m missing you all \ud83d\udc95"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7803518772125244
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3891,
+            "text": "RT @ WayneRainey60 : Long , long time ago . 1975 Handford half - mile in California . I was 15 !",
+            "image": "3891.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2833.jpg"
+            ],
+            "texts": [
+                "RT @ PMenardEmpire : Very proud to be racing for SPC Proctor this weekend # NASCARsalutes"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.6249938011169434
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4048,
+            "text": "RT @ Panoxet : Listo nivel :",
+            "image": "4048.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8674622774124146
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 966,
+            "text": "One of the best moments of One Tree Hill . # OneTreeHill",
+            "image": "0966.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4186.jpg"
+            ],
+            "texts": [
+                "RT @ BestMovieLine : Parks and Recreation"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7303868532180786
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 408,
+            "text": "Kelly Rowland has HAD IT with Tina Knowles Instashenanigans",
+            "image": "0408.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2852.jpg"
+            ],
+            "texts": [
+                "RT @ TheLadBible : Kelly Rowland you idiot !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8189772367477417
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3729,
+            "text": "RT @ History Pics : Red Hot Chili Peppers",
+            "image": "3729.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2405.jpg"
+            ],
+            "texts": [
+                "COME SI SELEZIONA UN FONDO DI INVESTIMENTO . . . . ."
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7963061332702637
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 813,
+            "text": "Glastonbury Festival Top Tips From The Celebrity Set :",
+            "image": "0813.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0443.jpg"
+            ],
+            "texts": [
+                "@ amyatfamous will be at @ isleofwightfest again today ! Stay tuned ! ! # famousaaa # isleofwightfestival \ud83c\udf1e \ud83c\udfaa"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7818052768707275
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3775,
+            "text": "# gmorning Saturday ! pic by Michal Pudelka",
+            "image": "3775.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.8064478635787964
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1427,
+            "text": "So what \u2019 s the Ignite Edmonton Festival all about ? : Two days . That \u2019 s all we ask of you . \u2026",
+            "image": "1427.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4243.jpg"
+            ],
+            "texts": [
+                "ROCK CITY ! ! ! THANK YOU DETROIT ! ! !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7581908106803894
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1193,
+            "text": "Donald Trump has been endorsed by the NRA . @ nytimescollins , on the society they want .",
+            "image": "1193.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0453.jpg"
+            ],
+            "texts": [
+                "Analysis : Donald Trump has become what he opposed"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                0.8119456768035889
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3452,
+            "text": "When Jonathan @ NarcisseforIowa announced he was running for # iagov ( again ) # iapolitics",
+            "image": "3452.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2782.jpg"
+            ],
+            "texts": [
+                "Thanks to Nick Ellis for this : - )"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                0.7839213013648987
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4564,
+            "text": "Just checked in at the Shark Club # foursquare",
+            "image": "4564.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1536.jpg"
+            ],
+            "texts": [
+                "Can someone please shoot a horror movie here ? Or like a Harry Potter spinoff ?"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                0.7654276490211487
+            ]
+        }
+    }
+]

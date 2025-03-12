@@ -2,11 +2,11 @@ import json
 import re
 
 # 读取第一个文件 qwen_fully_understood_entries.json
-with open("/data/jyh/multimodal-icl/datasets/twitter1517/qwen_fully_understood_entries.json", "r") as f:
+with open("/data/jyh/mmicl/datasets/twitter1517/qwen_ubderstand/sd_label_1.json", "r") as f:
     qwen_data = [json.loads(line) for line in f]  # 逐行读取 JSONL 格式数据
 
 # 读取第二个文件 twitter1517_coco_updated.json
-with open("/data/jyh/multimodal-icl/datasets/twitter1517/twitter1517_demostration.json", "r") as f:
+with open("/data/jyh/mmicl/datasets/twitter1517/qwen_ubderstand/formatted_qwen_twitter1517_understand.json", "r") as f:
     target_data = json.load(f)
 
 # 初始化新的 JSON 结构
@@ -42,7 +42,7 @@ for entry in qwen_data:
     })
 
 # 生成新的 JSON 文件
-output_file = "/data/jyh/multimodal-icl/datasets/twitter1517/formatted_qwen_twitter1517_understand.json"
+output_file = "/data/jyh/mmicl/datasets/twitter1517/formatted_qwen_twitter1517_understand_sd.json"
 with open(output_file, "w") as f:
     json.dump(output_data, f, indent=4, ensure_ascii=False)
 

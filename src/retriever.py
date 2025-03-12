@@ -32,6 +32,8 @@ class Retriever:
         self.num_runs = config.get("num_runs", 1)
         self.paths_file = config.get("paths", "/data/jyh/mmicl/configs/template.yaml")
         self.cached_features_path = config.get("cached_features_path","/data/jyh/mmicl/cached_features")
+        self.cached_sd_features_path = config.get("cached_sd_features_path","/data/jyh/mmicl/cached_features")
+        
         # 读取 YAML 配置文件
         with open(self.paths_file, "r") as f:
             self.paths = yaml.safe_load(f)
@@ -64,7 +66,8 @@ class Retriever:
                 keys=["text", "image"],
                 num_shots=self.num_shots,
                 device="cuda",
-                cached_features_path = self.cached_features_path
+                cached_features_path = self.cached_features_path,
+                cached_sd_features_path = self.cached_sd_features_path
             )
         else:
             raise ValueError("不支持的采样策略")
@@ -118,7 +121,7 @@ class Retriever:
             os.makedirs(output_dir)
     
         # Specify the output file path
-        output_json_path = os.path.join(output_dir, "/data/jyh/mmicl/retriver_results/retrieval_results_non_sd_shot_1_full_understand_fixed_format.json")
+        output_json_path = os.path.join(output_dir, "/data/jyh/mmicl/retriver_results/add_sd_features/retrieval_results_non_sd_shot_1.json")
     
         # Save the results to a JSON file
         with open(output_json_path, "w") as json_file:
@@ -146,7 +149,8 @@ if __name__ == "__main__":
         "paths": "/data/jyh/mmicl/configs/template.yaml",
         "seed": 42,
         "num_runs": 1,
-        "cached_features_path":"/data/jyh/mmicl/assets/cached_features_non_sd"
+        "cached_features_path":"/data/jyh/mmicl/assets/cached_features_full_understand",
+        "cached_sd_features_path":"/data/jyh/mmicl/assets/sd_features.pt"
     }
     retriever = Retriever(config)
     results = retriever.retrieve()

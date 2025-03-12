@@ -1,0 +1,2510 @@
+[
+    {
+        "query": {
+            "id": 157,
+            "text": "Not the Onion : \" Kim Jong - un to launch matchmaking contest to find his sister a husband \"",
+            "image": "0157.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                180.8394775390625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 114,
+            "text": "One hour ( Portugal time ) till dBs Filmmaker ' s Corner at @ FESTFestival !",
+            "image": "0114.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                173.10577392578125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2153,
+            "text": "3 ways to leverage the EMC Federation Enterprise # HybridCloud to modernize apps : # EMCWORLD",
+            "image": "2153.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                176.08544921875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2243,
+            "text": "RT @ EAMaddenNFL : GRONK SPIKE # INDvsNE",
+            "image": "2243.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                173.4661865234375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4495,
+            "text": "You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .",
+            "image": "4495.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                181.85321044921875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 842,
+            "text": "Donald Trump knows what he ' d do in his first 100 days as president if he wins",
+            "image": "0842.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                178.62840270996094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2797,
+            "text": "RT @ Sergio Bucks : Kendrick Perkins de vacaciones con Mike Miller de butaca :",
+            "image": "2797.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                183.85569763183594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 736,
+            "text": "HE IS SO FUCKING CUTE HE HAS A ONE DIRECTION POSTER",
+            "image": "0736.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                188.15516662597656
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1565,
+            "text": "Collaboration in the community makes all festivals a little better . We love @ BoiseFilmFest !",
+            "image": "1565.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                185.7705841064453
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4590,
+            "text": "Forbes Magazine Real insights from the business world . # MarketingMonday # Advertising",
+            "image": "4590.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3552.jpg"
+            ],
+            "texts": [
+                "Chickchaw Press will be at @ OCZineFest Sun , July 19 @ Occcart # SantaAna # OCZineFest # zinefest"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                172.89390563964844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4574,
+            "text": "RT @ CNET : T - Mobile to pay 17 . 5 million fine for 911 service outages",
+            "image": "4574.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                180.1002197265625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4369,
+            "text": "Writing makes us crazy not # writing even crazier . Marcia Preston # amwriting",
+            "image": "4369.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                175.88897705078125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 975,
+            "text": "John Michael Talbot returns to Sioux City for benefit concert",
+            "image": "0975.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2830.jpg"
+            ],
+            "texts": [
+                "RT @ 1DWorldUpdate : Liam and Josh at the hotel pool in Madrid ( 11 July ) # 9 - 12"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                172.83514404296875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2564,
+            "text": "@ elcinterns are serving the Dallas Dream Center to help people in need get coats for winter ! # yourdivinefingerprint",
+            "image": "2564.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                182.38177490234375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 330,
+            "text": "Tonight was incredible ! # LCFCParade # havingaparty # LCFCChampions # WeAreLeicester",
+            "image": "0330.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                189.22308349609375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3645,
+            "text": "Welcome new # AfghanProverbs fans in # TAIWAN ! Now in 77 countries . More at # KhoshAmadeyn",
+            "image": "3645.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                174.79246520996094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4207,
+            "text": "RT @ Ou Prg : Lovely Monday , hope you slept good and ready for new workweek xoxo Caras Ionut I like it",
+            "image": "4207.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                174.37599182128906
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 807,
+            "text": "Chelsea paid \u00a3 150.8 m by Premier League after winning 2016 - 17 title",
+            "image": "0807.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4262.jpg"
+            ],
+            "texts": [
+                "RT @ HuffingtonPost : The 10 best bargain resorts in the Caribbean"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                177.7585906982422
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3519,
+            "text": "A recap of the newly enhanced Federation End User Computing Solution , announced at # VMworld",
+            "image": "3519.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                175.8426971435547
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2660,
+            "text": "RT @ iBiebTeam : When Pattie listens to # PYD",
+            "image": "2660.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0688.jpg"
+            ],
+            "texts": [
+                "THESE MAGIC FUCKING ROCKS WORK I RETWEETED THIS 4 DAYS AGO AND WON TAYLOR SWIFT TICKETS TODAY"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                170.3804473876953
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 629,
+            "text": "DKB to host the 6 th Edition of Ghana Meets Naija Concert come this Saturday",
+            "image": "0629.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0902.jpg"
+            ],
+            "texts": [
+                "As always , thanks to our hard working staff running the show at the NACC Baseball Tournament . # falconsoar"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                177.4977569580078
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 999,
+            "text": "JUSTIN TRUDEAU NEEDS TO BE PROTECTED AT ALL COSTS # Pride2017",
+            "image": "0999.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0273.jpg"
+            ],
+            "texts": [
+                "I will always support Robert Downey Jr . in his quest to seduce all the Spider - Men"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                167.3184814453125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4126,
+            "text": "RT @ jmsclee : And when Alexander saw the breadth of his domain , he wept , for there were no more worlds to conquer",
+            "image": "4126.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2463.jpg"
+            ],
+            "texts": [
+                "RT @ CoachellaFSHN : Kendall Jenner and Willow Smith"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                170.77915954589844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2603,
+            "text": "RT @ KelenKeller38 : You can buy this newborn on iTunes",
+            "image": "2603.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                174.03538513183594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2961,
+            "text": "Perot museum adventure",
+            "image": "2961.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                171.58685302734375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 305,
+            "text": "Close quarters concert tonight in San Francisco . Baroque , Americana and American composers .",
+            "image": "0305.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3552.jpg"
+            ],
+            "texts": [
+                "Chickchaw Press will be at @ OCZineFest Sun , July 19 @ Occcart # SantaAna # OCZineFest # zinefest"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                171.68931579589844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4541,
+            "text": "RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !",
+            "image": "4541.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4131.jpg"
+            ],
+            "texts": [
+                "RT @ myfox8 : Charlotte @ hornets visit # Greensboro for D - League meeting"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                172.0442657470703
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 758,
+            "text": "I ' m done with NBA refs man every time I see a update about how they missed a call . I ' m like where ya ass was at ?",
+            "image": "0758.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0514.jpg"
+            ],
+            "texts": [
+                "this is not a concert this is fan meeting and THIS IS THE POWER OF EXO"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                174.40196228027344
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 545,
+            "text": "Stuck in the city this summer ? Check out our guide to the finest festivals in London town . . .",
+            "image": "0545.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2821.jpg"
+            ],
+            "texts": [
+                "We are excited to offer Cert in Musculoskeletal Ultrasound ( # MSKUS ) with Dr . Randy Moore Available Online or Hybrid"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                182.88580322265625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1602,
+            "text": "When ur teacher says \" One Direction \" in class ! !",
+            "image": "1602.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                174.7308807373047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 161,
+            "text": "Baylor University Ousts Football Coach . . .",
+            "image": "0161.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                176.4112091064453
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 746,
+            "text": "CONCERT DAY STOP NUMBER TWO : THE THURMAN CAFE ft @ Awsomtisity",
+            "image": "0746.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                191.1384735107422
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 597,
+            "text": "West Virginia ' s baseball unis today are WOAT candidates . Dear Lord those are horrible .",
+            "image": "0597.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0705.jpg"
+            ],
+            "texts": [
+                "look at all my incredible friends i ' ve made through one direction , i love and i ' m missing you all \ud83d\udc95"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                176.74774169921875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2329,
+            "text": "RT @ dvmonique : PCB had me like . .",
+            "image": "2329.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                175.69813537597656
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 118,
+            "text": "One Direction 2017 calendar . I already want it .",
+            "image": "0118.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                187.21412658691406
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2297,
+            "text": "gt lt gt The thief comes only to # steal and kill and # destroy . John 10 : 10a ESV",
+            "image": "2297.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                181.32066345214844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 445,
+            "text": "We are TRUMP ' s Social Media Army - - and we are dedicated to the election of Donald trump # DTmag",
+            "image": "0445.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0514.jpg"
+            ],
+            "texts": [
+                "this is not a concert this is fan meeting and THIS IS THE POWER OF EXO"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                172.4487762451172
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 687,
+            "text": "Donald Trump Called Daryl Hannah \u201c A Six \u201d Who Needs A Bath During A 1993 Spat",
+            "image": "0687.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                182.8522491455078
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3974,
+            "text": "Intriguing abstract photography by Florian Mueller",
+            "image": "3974.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                182.0121307373047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 209,
+            "text": "It ' s all a conspiracy folks created by the NHL and aliens .",
+            "image": "0209.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                174.1927490234375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2641,
+            "text": "The starting point of all achievement is desire . - Napolean Hill . . .",
+            "image": "2641.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                184.0690155029297
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1201,
+            "text": "Sonu Nigam To Undergo Surgery ; Cancels Concerts . . .",
+            "image": "1201.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                177.5793914794922
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2581,
+            "text": "RT @ Piter Kustura : @ lisskin17 : Free Nadya Savchenko # FreeSavchenko",
+            "image": "2581.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                180.9969940185547
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1035,
+            "text": "Tim Donaghy claims the NBA is fixing the 2017 NBA Finals",
+            "image": "1035.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                181.78538513183594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 285,
+            "text": "Would a new fifth football league see Celtic and \u2026",
+            "image": "0285.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                175.78416442871094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3069,
+            "text": "Get down to the Giles statue to donate ! Every penny helps .",
+            "image": "3069.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                186.5936279296875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 524,
+            "text": "Silver Beginner Band getting ready for their concert tomorrow !",
+            "image": "0524.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2821.jpg"
+            ],
+            "texts": [
+                "We are excited to offer Cert in Musculoskeletal Ultrasound ( # MSKUS ) with Dr . Randy Moore Available Online or Hybrid"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                184.02391052246094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4181,
+            "text": "RT @ iamlxgend : the Kardashians before they discovered plastic surgery . . .",
+            "image": "4181.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                180.29917907714844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1477,
+            "text": "Chris Paul and James Harden blaming each other after they lose in the second round",
+            "image": "1477.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                181.77931213378906
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1386,
+            "text": "Day 1 boys . Let ' s get it ! ! ! # AENG @ MCBoysSoccer765",
+            "image": "1386.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                187.3343963623047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1827,
+            "text": "RT @ MovieRelateable : Django Unchained",
+            "image": "1827.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                173.50218200683594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4370,
+            "text": "RT @ MNCleanEnergy : @ GeronimoEnergy : We are very concerned that this bill may impact our projects in MN # mnleg",
+            "image": "4370.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1555.jpg"
+            ],
+            "texts": [
+                "It was a pleasure to host Asia Model Festival . \ud83d\ude04"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                171.0482635498047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2324,
+            "text": "Yolo # Michigan",
+            "image": "2324.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                179.41221618652344
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1249,
+            "text": "At work in Bermuda ! # bbcfootball maybe to the pub for the second half ?",
+            "image": "1249.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                177.12464904785156
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3580,
+            "text": "RT @ thefletcher24 : The shame of being a bitey crying racist creature forces Suarez to hide .",
+            "image": "3580.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                181.32518005371094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1821,
+            "text": "RT @ btiflCINEMA : The Imitation Game ( 2014 ) Dir . Morten Tyldum",
+            "image": "1821.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                177.5518035888672
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3004,
+            "text": "RT @ DepressedDarth : Mexico fans right now # NEDvsMEX",
+            "image": "3004.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                182.2279510498047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 528,
+            "text": "New VR project heads to Anne Frank ' s World War II hideaway",
+            "image": "0528.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                177.50599670410156
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1922,
+            "text": "@ BestOfNike : Norte Dame Roshes @ victoriuhhh15",
+            "image": "1922.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1416.jpg"
+            ],
+            "texts": [
+                "Candid , blurry photo of me at a Rush concert \ud83d\ude02 \ud83d\ude04"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                167.96470642089844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3059,
+            "text": "RT @ business : China and Greece aside , global growth is actually accelerating",
+            "image": "3059.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                179.06263732910156
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2730,
+            "text": "Carolina is broken . # mcmillswedding",
+            "image": "2730.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "4435.jpg"
+            ],
+            "texts": [
+                "Egad . The chart lives ! RT @ robeanne : John Moravec - towards society 3 . 0 a new paradigm for 21st century learning"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                173.7232666015625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 707,
+            "text": "TAYLOR LAUTNER STOP DOING THIS TO ME , this is too much for just a day , I need time to breath ok",
+            "image": "0707.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "0514.jpg"
+            ],
+            "texts": [
+                "this is not a concert this is fan meeting and THIS IS THE POWER OF EXO"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                172.1428985595703
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3109,
+            "text": "4 Hours till show time ! Houston Rodeo !",
+            "image": "3109.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                175.81297302246094
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 799,
+            "text": "The stars of the Serie A season",
+            "image": "0799.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                177.74517822265625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3654,
+            "text": "RT @ TBTimes Rays : # Rays have the Tommy Tutone Jenny lineup : 867 - 5309",
+            "image": "3654.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                181.8927459716797
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4220,
+            "text": "RT @ TomBradysEgo : Happy Friday the 13th ! What is scarier ? RT Playing for the Browns Fav Jason Voorhees",
+            "image": "4220.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                178.67626953125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2458,
+            "text": "RT @ CSNCoop : # ThingsTimHowardCouldSave # Bartman",
+            "image": "2458.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                187.1103973388672
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 177,
+            "text": "June 24, 2017 at 08 : 23 AM TechCrunch \" Banking the unbanked in emerging markets",
+            "image": "0177.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                175.98146057128906
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 738,
+            "text": "premierleague : Jurgen Klopp makes 8 changes to the LFC side that drew with Newcastle , wit \u2026",
+            "image": "0738.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3552.jpg"
+            ],
+            "texts": [
+                "Chickchaw Press will be at @ OCZineFest Sun , July 19 @ Occcart # SantaAna # OCZineFest # zinefest"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                177.32872009277344
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 546,
+            "text": "There ' ll be plenty to eat and drink around the # HanseFestival , including a hog roast",
+            "image": "0546.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                179.4339599609375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 684,
+            "text": "# NHLPlayoffs # Sharks fever hits San Jose as team heads to Stanley Cup Final",
+            "image": "0684.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                179.33447265625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2344,
+            "text": "RT @ Stratfor : Read to learn how Greece uses Russia to strengthen its position . https : t . co 7UQeM4rEfq",
+            "image": "2344.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                179.4978485107422
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2526,
+            "text": "RT @ TransferSite : Jerome Boateng . . . The next victim !",
+            "image": "2526.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2807.jpg"
+            ],
+            "texts": [
+                "RT @ ladygaga : me and Kansai Yamamoto . He is a genius . # artRaveFASHION"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                166.3915557861328
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 584,
+            "text": "Save the date ! Twilight Concert Series",
+            "image": "0584.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                183.67530822753906
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 794,
+            "text": "With the 5 th pick in the # nbadraft17 the Kings select De ' Aaron Fox .",
+            "image": "0794.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                179.00950622558594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 91,
+            "text": "Young Jessica Lange on the left , Young Lana Del Rey on the right . . . \u263a",
+            "image": "0091.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                187.2794189453125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2393,
+            "text": "@ heatheradamo check out these guys from Philly ! # SJOR",
+            "image": "2393.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                188.0740203857422
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 31,
+            "text": "Is NBA ' s trend toward analytics hurting some minority job candidates ? - The Boston Globe",
+            "image": "0031.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                175.3878631591797
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 633,
+            "text": "June football signing period rejected by NCAA",
+            "image": "0633.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                176.11236572265625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1019,
+            "text": "Donald Trump got great weaves n ting . Love the retro look @ realDonaldTrump got # swagger # Election2016 # Brum",
+            "image": "1019.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0705.jpg"
+            ],
+            "texts": [
+                "look at all my incredible friends i ' ve made through one direction , i love and i ' m missing you all \ud83d\udc95"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                179.9982147216797
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3550,
+            "text": "RT @ noisywoman : @ davrosz @ SamAntixMusic This Peter Dutton ?",
+            "image": "3550.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                182.0654296875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1062,
+            "text": "Example is not the main thing in influencing others , it is the only thing . - Albert Schweitzer",
+            "image": "1062.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1362.jpg"
+            ],
+            "texts": [
+                "@ RepAdamSchiff Congrats ! You have went full Harry Reid stupid ! ! Now sit down ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                169.18421936035156
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4043,
+            "text": "RT @ GeorgeTakei : For Boston , and for hope .",
+            "image": "4043.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                173.7701873779297
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 615,
+            "text": "Craziest NBA conspiracies theories ever concieved",
+            "image": "0615.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "0395.jpg"
+            ],
+            "texts": [
+                "Cosby Accuser Sues Again , Claiming Hugh Hefner Conspired In Assault"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                178.365966796875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2559,
+            "text": "RT @ Slate : We won ' t see a Pi Day like this for 100 years . Here ' s why today is so special : # PiDay",
+            "image": "2559.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "4131.jpg"
+            ],
+            "texts": [
+                "RT @ myfox8 : Charlotte @ hornets visit # Greensboro for D - League meeting"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                169.55458068847656
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 897,
+            "text": "Gianluigi Buffon reveals three Premier League clubs that wanted him",
+            "image": "0897.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                179.21266174316406
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1625,
+            "text": "Russell Westbrook will not back down from the chance to prove he is the best .",
+            "image": "1625.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                172.9202423095703
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 676,
+            "text": "Boobs , bums and hippy crack : Glastonbury festival revellers party hard on Day 2",
+            "image": "0676.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1067.jpg"
+            ],
+            "texts": [
+                "Damn : Jim Carrey Set To Face Trial In 2018 Over Ex - Girlfriend ' s Death !"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                173.6354217529297
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2487,
+            "text": "RT @ BuzzFeed : People in San Francisco waited in this crazy line for day - old NYC bagels",
+            "image": "2487.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3248.jpg"
+            ],
+            "texts": [
+                "Russia - Homophobic ideologue Aleksandr Dugin fears that transgender will lead to transhuman"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                181.20481872558594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 404,
+            "text": "If Taylor Swift graciously poses for a pic , keep your hands to yourself because you ' re a gentleman . # Respect",
+            "image": "0404.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                175.43626403808594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 364,
+            "text": "In Surprise Concert , Drake Confirms He \u2019 ll Release More M . . .",
+            "image": "0364.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                173.3072052001953
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4005,
+            "text": "RT @ Independent : Someone recreated Friends in The Sims 4 and did a damn fine job",
+            "image": "4005.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0944.jpg"
+            ],
+            "texts": [
+                "Going through some of my songs for this summer ' s festivals and events with @ JasonFerrisDrum ! \ud83d\udc95 # youready ?"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                182.15257263183594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2701,
+            "text": "Baby Spike is awake ! ! !",
+            "image": "2701.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                176.5643768310547
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1306,
+            "text": "Hearing from the guys from the US , the NFL , the NBA and the NHL about player development",
+            "image": "1306.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "0083.jpg"
+            ],
+            "texts": [
+                "T - minus 40 min ! Visit with artist from around the world on our last day . # HouArtFest # bayoucityartfestival"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                183.329345703125
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 216,
+            "text": "I ' d like to Congratulation our new President , Donald Trump and Vice President Macaulay Culkin",
+            "image": "0216.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                184.3592071533203
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 232,
+            "text": "RT if you would fuck the shit out of Emma Stone .",
+            "image": "0232.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                180.85569763183594
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2040,
+            "text": "RT @ stackee : The moment you hear George Galloway may not hold his seat AND Nigel Farage unlikely to win # GE2015",
+            "image": "2040.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                178.4739532470703
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 182,
+            "text": "Cause of A . i I have the love for basketball that I do today . He was the realest on and off the court . PRACTICE !",
+            "image": "0182.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                183.44764709472656
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 509,
+            "text": "everyone got nice quality , up close , artsy pictures from the tyler concert and all i got was this 1 of jasper",
+            "image": "0509.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3377.jpg"
+            ],
+            "texts": [
+                "Just a heads up some light showers are being reported across the Lower Hudson , NNJ , LI , and S . CT . @ PIX11News"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                171.6615447998047
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1165,
+            "text": "Here \u2019 s how much Taylor Swift singing a Jimmy Eat World song helped the band",
+            "image": "1165.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                184.22740173339844
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 560,
+            "text": "PREP BASEBALL : Eagles end regular season with loss",
+            "image": "0560.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2412.jpg"
+            ],
+            "texts": [
+                "Reidsville shooting off Linville Dr . Officers securing scene . They got the call about a half hour ago . One victim ."
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                177.0348663330078
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 2622,
+            "text": "RT @ PatrickMcGee : London , quite the outlier for baby names .",
+            "image": "2622.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3126.jpg"
+            ],
+            "texts": [
+                "RT @ OldSchoolPanini : Happy Birthday to Roy KEANE"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                176.9750518798828
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 941,
+            "text": "RHS Dance Concert was amazing ilyguys so much and don ' t want it to end \ud83d\udc9c one more year left !",
+            "image": "0941.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                187.1231231689453
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3891,
+            "text": "RT @ WayneRainey60 : Long , long time ago . 1975 Handford half - mile in California . I was 15 !",
+            "image": "3891.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3723.jpg"
+            ],
+            "texts": [
+                "RT @ cctvnewsafrica : Nigeria government has been approached by a group offering talks on behalf of # BokoHaram"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                172.82447814941406
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4048,
+            "text": "RT @ Panoxet : Listo nivel :",
+            "image": "4048.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1416.jpg"
+            ],
+            "texts": [
+                "Candid , blurry photo of me at a Rush concert \ud83d\ude02 \ud83d\ude04"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                166.2030029296875
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 966,
+            "text": "One of the best moments of One Tree Hill . # OneTreeHill",
+            "image": "0966.jpg",
+            "label": "Positive"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                188.6988525390625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 408,
+            "text": "Kelly Rowland has HAD IT with Tina Knowles Instashenanigans",
+            "image": "0408.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "4426.jpg"
+            ],
+            "texts": [
+                "RT @ bennydiego : Jeb is an absolute idiot , I cannot lie . # JebBush # NotAnotherBush"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                169.3566436767578
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3729,
+            "text": "RT @ History Pics : Red Hot Chili Peppers",
+            "image": "3729.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2121.jpg"
+            ],
+            "texts": [
+                "RT @ engadget : The US Air Force will train with remote - controlled F - 16s"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                159.8994598388672
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 813,
+            "text": "Glastonbury Festival Top Tips From The Celebrity Set :",
+            "image": "0813.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1471.jpg"
+            ],
+            "texts": [
+                "Pit seats to Justin Bieber was a surreal experience . Met so many nice girls and had a great time seeing the Biebs \ud83d\udc95 \ud83c\udf89"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                183.6079864501953
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3775,
+            "text": "# gmorning Saturday ! pic by Michal Pudelka",
+            "image": "3775.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "1205.jpg"
+            ],
+            "texts": [
+                "World Cup CHAMPS ! Awesome job to everyone who played ! Flag football will be the next tournament later this month !"
+            ],
+            "raw_labels": [
+                "Positive"
+            ],
+            "similarity": [
+                188.246337890625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1427,
+            "text": "So what \u2019 s the Ignite Edmonton Festival all about ? : Two days . That \u2019 s all we ask of you . \u2026",
+            "image": "1427.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "3585.jpg"
+            ],
+            "texts": [
+                "ariba overview w @ ksundar1 and Vikram from # SCM2013 stay tuned 4 more CC @ SAP Procurement"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                173.04541015625
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 1193,
+            "text": "Donald Trump has been endorsed by the NRA . @ nytimescollins , on the society they want .",
+            "image": "1193.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "3552.jpg"
+            ],
+            "texts": [
+                "Chickchaw Press will be at @ OCZineFest Sun , July 19 @ Occcart # SantaAna # OCZineFest # zinefest"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                176.7171630859375
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 3452,
+            "text": "When Jonathan @ NarcisseforIowa announced he was running for # iagov ( again ) # iapolitics",
+            "image": "3452.jpg",
+            "label": "Negative"
+        },
+        "retrieval": {
+            "images": [
+                "2049.jpg"
+            ],
+            "texts": [
+                "@ ateamepic @ Worth The CHASE I went to bed last night and my through was killing me I was like FRICK"
+            ],
+            "raw_labels": [
+                "Negative"
+            ],
+            "similarity": [
+                175.2521209716797
+            ]
+        }
+    },
+    {
+        "query": {
+            "id": 4564,
+            "text": "Just checked in at the Shark Club # foursquare",
+            "image": "4564.jpg",
+            "label": "Neutral"
+        },
+        "retrieval": {
+            "images": [
+                "2830.jpg"
+            ],
+            "texts": [
+                "RT @ 1DWorldUpdate : Liam and Josh at the hotel pool in Madrid ( 11 July ) # 9 - 12"
+            ],
+            "raw_labels": [
+                "Neutral"
+            ],
+            "similarity": [
+                174.92578125
+            ]
+        }
+    }
+]
