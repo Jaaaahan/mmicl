@@ -135,19 +135,6 @@ dataset = Twitter1517Dataset(
 └── utils/                 # 辅助工具脚本
 ```
 
-## 📝 引用
-
-如果您在研究中使用了MMICL，请引用以下论文：
-
-```bibtex
-@article{mmicl2023,
-  title={MMICL: Multi-Modal In-Context Learning Framework},
-  author={Your Name},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2023}
-}
-```
-
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件。
