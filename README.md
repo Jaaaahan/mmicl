@@ -27,7 +27,7 @@ MMICL (Multi-Modal In-Context Learning) 是一个用于多模态上下文学习�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/mmicl.git
+git clone https://github.com/Jaaaahan/mmicl.git
 cd mmicl
 
 # 安装依赖
